@@ -1,0 +1,90 @@
+[Event "AVRO"]
+[Site "The Netherlands"]
+[Date "1938.11.22"]
+[Round "11"]
+[White "Mikhail Botvinnik"]
+[Black "Jose Raul Capablanca"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[ECO "E40"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8.
+Bd3 O-O 9. Ne2 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. Bb2 Qd7 13. a4 Rfe8 14. Qd3 c4
+15. Qc2 Nb8 16. Rae1 Nc6 17. Ng3 Na5 18. f3 Nb3 19. e4 Qxa4 20. e5 Nd7 21. Qf2
+g6 22. f4 f5 23. exf6 Nxf6 24. f5 Rxe1 25. Rxe1 Re8 26. Re6 Rxe6 27. fxe6 Kg7
+28. Qf4 Qe8 29. Qe5 Qe7 30. Ba3 Qxa3 31. Nh5+ gxh5 32. Qg5+ Kf8 33. Qxf6+ Kg8
+34. e7 Qc1+ 35. Kf2 Qc2+ 36. Kg3 Qd3+ 37. Kh4 Qe4+ 38. Kxh5 Qe2+ 39. Kh4 Qe4+
+40. g4 Qe1+ 41. Kh5 1-0
+
+[Event "USSR Absolute Championship"]
+[Site "Leningrad-Moscow URS"]
+[Date "1941.03.26"]
+[Round "3"]
+[White "Paul Keres"]
+[Black "Mikhail Botvinnik"]
+[Result "0-1"]
+[EventDate "1941.03.23"]
+[ECO "E34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 c5 8.
+O-O-O Bxc3 9. Qxc3 g5 10. Bg3 cxd4 11. Qxd4 Nc6 12. Qa4 Bf5 13. e3 Rc8 14. Bd3
+Qd7 15. Kb1 Bxd3+ 16. Rxd3 Qf5 17. e4 Nxe4 18. Ka1 O-O 19. Rd1 b5 20. Qxb5 Nd4
+21. Qd3 Nc2+ 22. Kb1 Nb4 0-1
+
+[Event "USSR - USA Radio Match"]
+[Site "Moscow RUS and New York USA"]
+[Date "1945.09.01"]
+[Round "1.1"]
+[White "Arnold Denker"]
+[Black "Mikhail Botvinnik"]
+[Result "0-1"]
+[EventDate "1945.09.01"]
+[ECO "D44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "50"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. Be2 Qb6 13. O-O O-O-O 14. a4 b4 15.
+Ne4 c5 16. Qb1 Qc7 17. Ng3 cxd4 18. Bxc4 Qc6 19. f3 d3 20. Qc1 Bc5+ 21. Kh1 Qd6
+22. Qf4 Rxh2+ 23. Kxh2 Rh8+ 24. Qh4 Rxh4+ 25. Bxh4 Qf4 0-1
+
+[Event "URS-chT"]
+[Site "Moscow URS"]
+[Date "1966.09.28"]
+[Round "5"]
+[White "Mikhail Botvinnik"]
+[Black "Paul Keres"]
+[Result "1-0"]
+[EventDate "1966.09.24"]
+[ECO "A29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Nxe5 Bxf2+ 6. Kxf2 Nxe5 7. e4 c5 8.
+d3 d6 9. h3 h5 10. Be2 Nh7 11. Kg2 h4 12. g4 Ng5 13. Be3 Bd7 14. Qd2 Ne6 15. b4
+b6 16. Rab1 Bc6 17. Rhf1 Bb7 18. Kg1 Nc6 19. Nd5 Ncd4 20. Bd1 f6 21. Kh2 Bc6 22.
+a4 a5 23. bxa5 bxa5 24. Qf2 Ra7 25. g5 O-O 26. g6 f5 27. Rb8 1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo MNC"]
+[Date "1968.04.10"]
+[Round "7"]
+[White "Mikhail Botvinnik"]
+[Black "Lajos Portisch"]
+[Result "1-0"]
+[EventDate "1968.04.03"]
+[ECO "A22"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Be6 6. Nf3 Nc6 7. O-O Nb6 8. d3
+Be7 9. a3 a5 10. Be3 O-O 11. Na4 Nxa4 12. Qxa4 Bd5 13. Rfc1 Re8 14. Rc2 Bf8 15.
+Rac1 Nb8 16. Rxc7 Bc6 17. R1xc6 bxc6 18. Rxf7 h6 19. Rb7 Qc8 20. Qc4+ Kh8 21.
+Nh4 Qxb7 22. Ng6+ Kh7 23. Be4 Bd6 24. Nxe5+ g6 25. Bxg6+ Kg7 26. Bxh6+ 1-0

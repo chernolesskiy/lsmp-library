@@ -1,0 +1,132 @@
+{
+  "kind": "level 4",
+  "seed": 526591627,
+  "created": "2026-09-25T12:35:19",
+  "reveal": {
+    "policy_level": 4,
+    "policy": "hint_generation/reveal_policy.yaml",
+    "harder_first": null
+  },
+  "pages": [
+    {
+      "title": "Checkmate!",
+      "description": "Every puzzle here ends in checkmate. Checks first!",
+      "tier_quota": {
+        "R0": 1,
+        "R1": 3,
+        "R2": 2,
+        "R3": 0
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0Abz9",
+          "rating": 1726,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "You have two checks -- only one leads to mate! Forcing moves first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05JMW",
+          "rating": 1772,
+          "hint_tier": "R0",
+          "hint_tier_target": "R0",
+          "hint": "Checkmate in two moves! Slow down and look at every option."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05Kk4",
+          "rating": 1790,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "You have only one check: is it the start of mate? Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "03JMe",
+          "rating": 1992,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Checkmate in three moves! Start with a queen check."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "046AR",
+          "rating": 2053,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "You have eight checks -- only one leads to mate! Slow down and look at every option."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "012LI",
+          "rating": 2272,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Checkmate in two moves! Be brave -- it starts with a sacrifice!"
+        }
+      ]
+    },
+    {
+      "title": "Win Material!",
+      "description": "Find the tactic that wins material.",
+      "tier_quota": {
+        "R0": 1,
+        "R1": 3,
+        "R2": 1,
+        "R3": 1
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "07ijR",
+          "rating": 1782,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Find the best move! Start with a pawn check."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "00lHu",
+          "rating": 1826,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Start with a quiet pawn move (not a check!), then give a check."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0A3DG",
+          "rating": 1919,
+          "hint_tier": "R0",
+          "hint_tier_target": "R0",
+          "hint": "Find the best move! Slow down and look at every option."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "02CuI",
+          "rating": 2032,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "Win material! Win the queen."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "07TBM",
+          "rating": 2064,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "Win the pawn. Look at every check and capture first."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0B6j5",
+          "rating": 2417,
+          "hint_tier": "R0",
+          "hint_tier_target": "R1",
+          "hint": "Find the best move! Slow down and look at every option."
+        }
+      ]
+    }
+  ]
+}

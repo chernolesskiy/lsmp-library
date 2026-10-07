@@ -1,0 +1,20 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.09.21"]
+[Round "-"]
+[White "Nghia999"]
+[Black "SKCC_LSMP"]
+[Result "0-1"]
+[WhiteElo "2051"]
+[BlackElo "2076"]
+[ECO "A00"]
+[Termination "SKCC_LSMP won by checkmate"]
+[TimeControl "300"]
+[EndTime "16:16:48"]
+[EndDate "2026.09.21"]
+
+1. g3 c5 2. Bg2 Nc6 3. e3 d6 4. Ne2 Bg4 5. h3 Bh5 6. g4 Bg6 7. O-O Nf6 8. d3 e5
+9. f4 exf4 10. exf4 h5 11. g5 Nd7 12. f5 Bh7 13. Ng3 Be7 14. Nxh5 Rg8 15. f6
+gxf6 16. gxf6 Nxf6 17. Nxf6+ Bxf6 18. Qf3 Bd4+ 19. Be3 Bxe3+ 20. Qxe3+ Ne5 21.
+Kh2 Qh4 22. Bxb7 Kd7 23. Rf4 Qg5 24. Bxa8 Nf3+ 25. Bxf3 Qg3+ 26. Kh1 Qxh3#
+0-1

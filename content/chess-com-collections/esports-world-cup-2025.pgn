@@ -1,0 +1,619 @@
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.1"]
+[White "Firouzja, Alireza"]
+[Black "Erigaisi Arjun"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2708"]
+[ECO "A45"]
+[TimeControl "600"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 d5 4. c4 c6 5. Qa4 Bg7 6. cxd5 Nxd5 7. Nf3 O-O 8. O-O
+Nb6 9. Qc2 Na6 10. Nc3 Bg4 11. Rd1 Nb4 12. Qe4 h5 13. Bg5 Re8 14. a3 N4d5 15. h3
+Bxf3 16. Qxf3 Nf6 17. Rac1 Qd7 18. e4 Nh7 19. Bf4 Rad8 20. e5 Nf8 21. d5 cxd5
+22. Nxd5 Nxd5 23. Rxd5 Qf5 24. Rxd8 Rxd8 25. Qxb7 Bxe5 26. Be3 Qd7 27. Qxd7 Rxd7
+28. b4 Ne6 29. a4 Bd4 30. Rd1 Rd6 31. Kf1 Kf8 32. a5 Bxe3 33. Rxd6 exd6 34. fxe3
+Nc7 35. Bc6 Ke7 36. b5 Ke6 37. e4 f5 38. exf5+ Kxf5 39. b6 axb6 40. axb6 Na6 41.
+Ke2 g5 42. Bb5 Nb8 43. Kd3 Ke5 44. Kc4 h4 45. g4 d5+ 46. Kc5 d4 47. b7 Ke4 48.
+Kd6 d3 49. Bxd3+ Kxd3 50. Ke5 Ke3 51. Kf5 Kf3 52. Kxg5 Kg3 53. Kf5 Kxh3 54. g5
+Kh2 55. g6 h3 56. g7 Kh1 57. g8=Q Nc6 58. Qd5+ 1-0
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.1"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteElo "2819"]
+[WhiteTitle "GM"]
+[WhiteFideId "1503014"]
+[BlackElo "2738"]
+[BlackTitle "GM"]
+[BlackFideId "2016192"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Austrian Defense"]
+[StudyName "Semifinals"]
+[ChapterName "Carlsen, Magnus - Nakamura, Hikaru"]
+[UTCDate "2025.07.31"]
+[UTCTime "15:45:38"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. d4 {[%clk 0:09:56]} 1... d5 {[%clk 0:09:58]} 2. c4 {[%clk 0:09:54]} 2... c5
+{[%clk 0:09:57]} 3. cxd5 {[%clk 0:09:50]} 3... Qxd5 {[%clk 0:09:57]} 4. e3
+{[%clk 0:09:37]} 4... e6 {[%clk 0:09:45]} 5. Nc3 {[%clk 0:09:34]} 5... Qd8
+{[%clk 0:09:44]} 6. Nf3 {[%clk 0:09:31]} 6... Nf6 {[%clk 0:09:42]} 7. e4 {[%clk
+0:09:15]} 7... cxd4 {[%clk 0:09:30]} 8. Nxd4 {[%clk 0:08:25]} 8... e5 {[%clk
+0:09:15]} 9. Bb5+ {[%clk 0:08:23]} 9... Bd7 {[%clk 0:09:04]} 10. Bxd7+ {[%clk
+0:08:19]} 10... Qxd7 {[%clk 0:08:50]} 11. Nc2 {[%clk 0:08:18]} 11... Qxd1+
+{[%clk 0:08:38]} 12. Kxd1 {[%clk 0:08:18]} 12... Nc6 {[%clk 0:08:37]} 13. Ke2
+{[%clk 0:08:08]} 13... Nb4 {[%clk 0:07:33]} 14. Ne3 {[%clk 0:07:58]} 14... Rc8
+{[%clk 0:07:17]} 15. Rd1 {[%clk 0:07:51]} 15... Bc5 {[%clk 0:07:08]} 16. Nf5
+{[%clk 0:07:37]} 16... g6 {[%clk 0:05:44]} 17. Bg5 {[%clk 0:07:26]} 17... Rc6
+{[%clk 0:05:35]} 18. Nd6+ {[%clk 0:06:36]} 18... Bxd6 {[%clk 0:05:32]} 19. Bxf6
+{[%clk 0:06:35]} 19... O-O {[%clk 0:05:32]} 20. Rac1 {[%clk 0:06:33]} 20... Rfc8
+{[%clk 0:04:55]} 21. g4 {[%clk 0:05:57]} 21... Na6 {[%clk 0:04:25]} 22. Rd5
+{[%clk 0:05:34]} 22... Nb4 {[%clk 0:04:11]} 23. Rd2 {[%clk 0:05:26]} 23... Bf8
+{[%clk 0:04:08]} 24. g5 {[%clk 0:04:44]} 24... Bg7 {[%clk 0:03:58]} 25. Be7
+{[%clk 0:04:32]} 25... Bf8 {[%clk 0:03:57]} 26. Bxf8 {[%clk 0:04:32]} 26... Kxf8
+{[%clk 0:03:54]} 27. Rcd1 {[%clk 0:04:32]} 27... Na6 {[%clk 0:03:40]} 28. Nb5
+{[%clk 0:04:31]} 28... Rb6 {[%clk 0:03:27]} 29. Nxa7 {[%clk 0:04:22]} 29... Re8
+{[%clk 0:03:26]} 30. Rc1 {[%clk 0:04:14]} 30... Nb8 {[%clk 0:03:13]} 31. Nc8
+{[%clk 0:03:57]} 31... Rc6 {[%clk 0:02:56]} 32. Rxc6 {[%clk 0:03:55]} 32... Nxc6
+{[%clk 0:02:56]} 33. Nb6 {[%clk 0:03:53]} 33... Nd4+ {[%clk 0:02:50]} 34. Ke3
+{[%clk 0:03:51]} 34... Kg7 {[%clk 0:02:49]} 35. Nd7 {[%clk 0:03:40]} 35... Ne6
+{[%clk 0:02:48]} 36. h4 {[%clk 0:03:35]} 36... Nf4 {[%clk 0:02:45]} 37. Kf3
+{[%clk 0:03:30]} 37... h6 {[%clk 0:02:44]} 38. Nxe5 {[%clk 0:03:20]} 38... hxg5
+{[%clk 0:02:42]} 39. hxg5 {[%clk 0:03:20]} 39... Ne6 {[%clk 0:02:42]} 40. Ke3
+{[%clk 0:03:17]} 40... Rh8 {[%clk 0:02:31]} 41. f4 {[%clk 0:03:00]} 41... Rh4
+{[%clk 0:02:28]} 42. Nf3 {[%clk 0:02:59]} 42... Rg4 {[%clk 0:01:08]} 43. Rd7
+{[%clk 0:02:50]} 43... Rxf4 {[%clk 0:01:08]} 44. Rxb7 {[%clk 0:02:48]} 44... Rg4
+{[%clk 0:01:03]} 45. Rxf7+ {[%clk 0:02:41]} 45... Kxf7 {[%clk 0:01:01]} 46. Ne5+
+{[%clk 0:02:40]} 46... Ke7 {[%clk 0:01:01]} 47. Nxg4 {[%clk 0:02:40]} 47... Nxg5
+{[%clk 0:01:00]} 48. a4 {[%clk 0:02:37]} 1-0
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.2"]
+[White "Erigaisi Arjun"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[WhiteTitle "GM"]
+[WhiteFideId "35009192"]
+[BlackElo "2767"]
+[BlackTitle "GM"]
+[BlackFideId "12573981"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bogoljubow Variation"]
+[StudyName "Semifinals"]
+[ChapterName "Erigaisi Arjun - Firouzja, Alireza"]
+[UTCDate "2025.07.31"]
+[UTCTime "16:31:45"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. e4 {[%clk 0:09:58]} 1... e5 {[%clk 0:09:58]} 2. Nf3 {[%clk 0:09:57]} 2... Nc6
+{[%clk 0:09:58]} 3. Bc4 {[%clk 0:09:56]} 3... Nf6 {[%clk 0:09:57]} 4. Ng5 {[%clk
+0:09:55]} 4... d5 {[%clk 0:09:56]} 5. exd5 {[%clk 0:09:54]} 5... Na5 {[%clk
+0:09:55]} 6. Bb5+ {[%clk 0:09:53]} 6... c6 {[%clk 0:09:54]} 7. dxc6 {[%clk
+0:09:53]} 7... bxc6 {[%clk 0:09:53]} 8. Qf3 {[%clk 0:09:52]} 8... Be7 {[%clk
+0:09:31]} 9. Bd3 {[%clk 0:09:47]} 9... O-O {[%clk 0:09:13]} 10. Nc3 {[%clk
+0:09:45]} 10... h6 {[%clk 0:08:52]} 11. Nge4 {[%clk 0:09:43]} 11... Nd5 {[%clk
+0:08:39]} 12. Ng3 {[%clk 0:09:41]} 12... Nb4 {[%clk 0:08:10]} 13. Nf5 {[%clk
+0:09:39]} 13... Bg5 {[%clk 0:07:26]} 14. h4 {[%clk 0:09:33]} 14... Bf4 {[%clk
+0:05:58]} 15. g3 {[%clk 0:08:53]} 15... g6 {[%clk 0:04:02]} 16. gxf4 {[%clk
+0:08:25]} 16... Nxd3+ {[%clk 0:04:01]} 17. Qxd3 {[%clk 0:08:23]} 17... Bxf5
+{[%clk 0:03:55]} 18. Qxd8 {[%clk 0:08:22]} 18... Raxd8 {[%clk 0:03:54]} 19. d3
+{[%clk 0:08:18]} 19... Rfe8 {[%clk 0:03:23]} 20. fxe5 {[%clk 0:08:17]} 20...
+Rxe5+ {[%clk 0:03:23]} 21. Be3 {[%clk 0:08:16]} 21... Bg4 {[%clk 0:03:02]} 22.
+b4 {[%clk 0:07:23]} 22... Nb7 {[%clk 0:03:01]} 23. Kd2 {[%clk 0:07:23]} 23... a5
+{[%clk 0:02:52]} 24. bxa5 {[%clk 0:07:23]} 24... Nxa5 {[%clk 0:02:50]} 25. Bxh6
+{[%clk 0:07:21]} 25... c5 {[%clk 0:02:42]} 26. Rae1 {[%clk 0:06:22]} 26... Rf5
+{[%clk 0:02:40]} 27. Ne4 {[%clk 0:05:52]} 27... Bf3 {[%clk 0:02:33]} 28. Bg5
+{[%clk 0:05:15]} 28... Ra8 {[%clk 0:02:24]} 29. Ng3 {[%clk 0:04:55]} 29... Rd5
+{[%clk 0:02:20]} 30. Rhg1 {[%clk 0:04:55]} 30... Nc6 {[%clk 0:02:08]} 31. Re3
+{[%clk 0:04:29]} 31... Nd4 {[%clk 0:01:56]} 32. Bf6 {[%clk 0:04:08]} 32... Bg4
+{[%clk 0:01:55]} 33. Ra1 {[%clk 0:04:04]} 33... Nf3+ {[%clk 0:01:16]} 34. Kc3
+{[%clk 0:04:00]} 34... Rd6 {[%clk 0:01:14]} 35. Ne4 {[%clk 0:03:53]} 35... Rda6
+{[%clk 0:01:12]} 36. Kb2 {[%clk 0:03:41]} 36... Nd4 {[%clk 0:00:56]} 37. Be5
+{[%clk 0:03:27]} 37... Be6 {[%clk 0:00:50]} 38. Nxc5 {[%clk 0:03:20]} 38...
+Rxa2+ {[%clk 0:00:45]} 39. Rxa2 {[%clk 0:03:18]} 39... Rxa2+ {[%clk 0:00:44]}
+40. Kb1 {[%clk 0:03:18]} 40... Nxc2 {[%clk 0:00:44]} 41. Nxe6 {[%clk 0:03:17]}
+41... Nxe3 {[%clk 0:00:44]} 42. Kxa2 {[%clk 0:02:56]} 42... Ng4 {[%clk 0:00:44]}
+43. Ng5 {[%clk 0:02:31]} 43... Nxe5 {[%clk 0:00:42]} 44. d4 {[%clk 0:02:31]}
+44... Nd3 {[%clk 0:00:39]} 45. f3 {[%clk 0:02:21]} 45... Nf4 {[%clk 0:00:38]}
+46. Kb3 {[%clk 0:02:14]} 46... Kf8 {[%clk 0:00:37]} 47. Kc4 {[%clk 0:02:12]}
+47... Ke7 {[%clk 0:00:37]} 48. d5 {[%clk 0:02:05]} 48... Ng2 {[%clk 0:00:25]}
+49. Kc5 {[%clk 0:01:58]} 49... Nxh4 {[%clk 0:00:24]} 50. d6+ {[%clk 0:01:58]}
+50... Kd7 {[%clk 0:00:23]} 51. Kd5 {[%clk 0:01:57]} 51... f6 {[%clk 0:00:20]}
+52. Ne4 {[%clk 0:01:55]} 52... Nxf3 {[%clk 0:00:19]} 53. Nc5+ {[%clk 0:01:53]}
+53... Kd8 {[%clk 0:00:17]} 54. Ne6+ {[%clk 0:01:51]} 54... Kd7 {[%clk 0:00:16]}
+55. Nf8+ {[%clk 0:01:46]} 55... Kd8 {[%clk 0:00:16]} 56. Nxg6 {[%clk 0:01:44]}
+56... Ne5 {[%clk 0:00:16]} 57. Nxe5 {[%clk 0:01:35]} 57... fxe5 {[%clk 0:00:16]}
+58. Kxe5 {[%clk 0:01:35]} 58... Kd7 {[%clk 0:00:15]} 59. Kd5 {[%clk 0:01:35]}
+59... Kd8 {[%clk 0:00:15]} 60. Kc5 {[%clk 0:01:35]} 60... Kd7 {[%clk 0:00:15]}
+61. Kd5 {[%clk 0:01:35]} 61... Kd8 {[%clk 0:00:14]} 62. Kc6 {[%clk 0:01:34]}
+62... Kc8 {[%clk 0:00:14]} 63. d7+ {[%clk 0:01:34]} 63... Kd8 {[%clk 0:00:13]}
+64. Kd6 {[%clk 0:01:34]} 1/2-1/2
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.2"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[WhiteTitle "GM"]
+[WhiteFideId "2016192"]
+[BlackElo "2819"]
+[BlackTitle "GM"]
+[BlackFideId "1503014"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[StudyName "Semifinals"]
+[ChapterName "Nakamura, Hikaru - Carlsen, Magnus"]
+[UTCDate "2025.07.31"]
+[UTCTime "16:05:46"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. d4 {[%clk 0:09:59]} 1... d5 {[%clk 0:09:55]} 2. c4 {[%clk 0:09:58]} 2... e6
+{[%clk 0:09:54]} 3. g3 {[%clk 0:09:55]} 3... dxc4 {[%clk 0:09:52]} 4. Bg2 {[%clk
+0:09:53]} 4... c5 {[%clk 0:09:49]} 5. Qa4+ {[%clk 0:08:56]} 5... Bd7 {[%clk
+0:09:45]} 6. Qxc4 {[%clk 0:08:54]} 6... Bc6 {[%clk 0:09:45]} 7. Bxc6+ {[%clk
+0:08:43]} 7... Nxc6 {[%clk 0:09:44]} 8. dxc5 {[%clk 0:08:43]} 8... Qd4 {[%clk
+0:09:14]} 9. Qb3 {[%clk 0:08:27]} 9... Qb4+ {[%clk 0:09:03]} 10. Nd2 {[%clk
+0:08:20]} 10... Bxc5 {[%clk 0:09:01]} 11. Nf3 {[%clk 0:08:17]} 11... Nf6 {[%clk
+0:08:57]} 12. Qc2 {[%clk 0:08:10]} 12... O-O {[%clk 0:08:45]} 13. a3 {[%clk
+0:07:53]} 13... Nd4 {[%clk 0:07:59]} 14. Qd3 {[%clk 0:07:50]} 14... Nxf3+ {[%clk
+0:07:56]} 15. Qxf3 {[%clk 0:07:50]} 15... Qb5 {[%clk 0:07:52]} 16. O-O {[%clk
+0:07:36]} 16... Rfd8 {[%clk 0:07:51]} 17. b4 {[%clk 0:07:09]} 17... Be7 {[%clk
+0:07:34]} 18. Nb3 {[%clk 0:07:00]} 18... Qd5 {[%clk 0:06:43]} 19. Qxd5 {[%clk
+0:06:50]} 19... Nxd5 {[%clk 0:06:43]} 20. Bb2 {[%clk 0:06:49]} 20... Rac8 {[%clk
+0:06:23]} 21. Rfc1 {[%clk 0:06:35]} 21... f6 {[%clk 0:06:16]} 22. Na5 {[%clk
+0:06:27]} 22... Rxc1+ {[%clk 0:06:10]} 23. Rxc1 {[%clk 0:06:26]} 23... Rd7
+{[%clk 0:06:08]} 24. Rc8+ {[%clk 0:05:53]} 24... Kf7 {[%clk 0:06:07]} 25. Rb8
+{[%clk 0:05:52]} 25... b6 {[%clk 0:05:44]} 26. Nc6 {[%clk 0:05:50]} 26... a6
+{[%clk 0:03:19]} 27. e4 {[%clk 0:05:11]} 27... Nc7 {[%clk 0:03:18]} 28. Rxb6
+{[%clk 0:05:02]} 28... e5 {[%clk 0:03:15]} 29. Rb7 {[%clk 0:04:25]} 29... Rd1+
+{[%clk 0:03:14]} 30. Kg2 {[%clk 0:04:22]} 30... Bd6 {[%clk 0:03:14]} 31. Na5
+{[%clk 0:04:09]} 31... Ke6 {[%clk 0:03:10]} 32. Nc4 {[%clk 0:04:02]} 32... Kd7
+{[%clk 0:03:09]} 33. a4 {[%clk 0:03:33]} 33... Kc8 {[%clk 0:03:08]} 34. Rb6
+{[%clk 0:03:31]} 34... Be7 {[%clk 0:03:07]} 35. b5 {[%clk 0:02:46]} 35... axb5
+{[%clk 0:03:06]} 36. axb5 {[%clk 0:02:46]} 36... Rd3 {[%clk 0:03:05]} 37. Rc6
+{[%clk 0:02:42]} 37... Kd7 {[%clk 0:03:02]} 38. Nb6+ {[%clk 0:02:26]} 38... Kd8
+{[%clk 0:02:59]} 39. Bc3 {[%clk 0:02:25]} 39... Bd6 {[%clk 0:02:48]} 40. Nd5
+{[%clk 0:01:40]} 40... Kd7 {[%clk 0:02:47]} 41. Nb6+ {[%clk 0:01:32]} 41... Kd8
+{[%clk 0:02:46]} 42. Nd5 {[%clk 0:01:26]} 42... Kd7 {[%clk 0:02:45]} 43. Nb6+
+{[%clk 0:00:48]} 43... Kd8 {[%clk 0:02:44]} 1/2-1/2
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.3"]
+[White "Firouzja, Alireza"]
+[Black "Erigaisi Arjun"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[WhiteTitle "GM"]
+[WhiteFideId "12573981"]
+[BlackElo "2708"]
+[BlackTitle "GM"]
+[BlackFideId "35009192"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "A45"]
+[Opening "Indian Defense: Tartakower Attack"]
+[StudyName "Semifinals"]
+[ChapterName "Firouzja, Alireza - Erigaisi Arjun"]
+[UTCDate "2025.07.31"]
+[UTCTime "16:52:48"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. d4 {[%clk 0:09:58]} 1... Nf6 {[%clk 0:09:54]} 2. g3 {[%clk 0:09:57]} 2... g6
+{[%clk 0:09:52]} 3. Bg2 {[%clk 0:09:57]} 3... d5 {[%clk 0:09:51]} 4. c4 {[%clk
+0:09:56]} 4... dxc4 {[%clk 0:09:48]} 5. Qa4+ {[%clk 0:09:55]} 5... Nbd7 {[%clk
+0:09:31]} 6. Nf3 {[%clk 0:09:44]} 6... Bg7 {[%clk 0:09:28]} 7. Nc3 {[%clk
+0:09:32]} 7... a6 {[%clk 0:09:15]} 8. Bf4 {[%clk 0:08:40]} 8... Nh5 {[%clk
+0:08:52]} 9. Be3 {[%clk 0:07:44]} 9... O-O {[%clk 0:08:41]} 10. Qxc4 {[%clk
+0:07:43]} 10... b5 {[%clk 0:08:40]} 11. Qb3 {[%clk 0:07:38]} 11... Bb7 {[%clk
+0:07:45]} 12. O-O {[%clk 0:07:36]} 12... Rc8 {[%clk 0:06:42]} 13. Rfd1 {[%clk
+0:07:05]} 13... c5 {[%clk 0:06:40]} 14. dxc5 {[%clk 0:07:03]} 14... Qc7 {[%clk
+0:06:39]} 15. Rac1 {[%clk 0:06:22]} 15... Nxc5 {[%clk 0:06:30]} 16. Nxb5 {[%clk
+0:06:14]} 16... Qb6 {[%clk 0:04:26]} 17. Bxc5 {[%clk 0:05:46]} 17... Rxc5 {[%clk
+0:04:26]} 18. Rxc5 {[%clk 0:05:46]} 18... Qxc5 {[%clk 0:04:25]} 19. Nc3 {[%clk
+0:05:45]} 19... Bc6 {[%clk 0:04:14]} 20. Ne1 {[%clk 0:05:14]} 20... Bxg2 {[%clk
+0:04:13]} 21. Nxg2 {[%clk 0:05:13]} 21... Rc8 {[%clk 0:03:45]} 22. Ne3 {[%clk
+0:05:05]} 22... Bxc3 {[%clk 0:03:26]} 23. Rc1 {[%clk 0:04:58]} 23... Qa5 {[%clk
+0:02:57]} 24. Nd5 {[%clk 0:04:33]} 24... Rc5 {[%clk 0:02:55]} 25. Nxc3 {[%clk
+0:04:23]} 25... Nf6 {[%clk 0:02:55]} 26. Rd1 {[%clk 0:04:13]} 26... Qc7 {[%clk
+0:02:51]} 27. Qb4 {[%clk 0:03:59]} 27... Rc4 {[%clk 0:02:34]} 28. Rd8+ {[%clk
+0:03:50]} 28... Kg7 {[%clk 0:02:16]} 29. Qb8 {[%clk 0:03:49]} 29... Qc6 {[%clk
+0:02:16]} 30. Qe5 {[%clk 0:03:42]} 30... Qb7 {[%clk 0:02:08]} 31. Rd2 {[%clk
+0:03:32]} 31... h5 {[%clk 0:02:03]} 32. f3 {[%clk 0:03:29]} 32... Rc6 {[%clk
+0:01:58]} 33. Kg2 {[%clk 0:03:21]} 33... Re6 {[%clk 0:01:56]} 34. Qf4 {[%clk
+0:03:20]} 34... Qc6 {[%clk 0:01:46]} 35. h4 {[%clk 0:03:15]} 35... Qc5 {[%clk
+0:01:44]} 36. Qd4 {[%clk 0:03:11]} 36... Qc8 {[%clk 0:01:40]} 37. e4 {[%clk
+0:03:07]} 37... Rd6 {[%clk 0:01:37]} 38. Qe3 {[%clk 0:03:05]} 38... Rxd2+ {[%clk
+0:01:35]} 39. Qxd2 {[%clk 0:03:05]} 39... Nd7 {[%clk 0:01:34]} 40. Nd5 {[%clk
+0:03:01]} 40... e6 {[%clk 0:01:30]} 41. Qc3+ {[%clk 0:02:59]} 41... Qxc3 {[%clk
+0:01:28]} 42. Nxc3 {[%clk 0:02:59]} 42... Kf6 {[%clk 0:01:27]} 43. Kf2 {[%clk
+0:02:58]} 43... Ne5 {[%clk 0:01:25]} 44. Ke2 {[%clk 0:02:52]} 44... Nc6 {[%clk
+0:01:22]} 45. Ke3 {[%clk 0:02:49]} 45... g5 {[%clk 0:01:20]} 46. hxg5+ {[%clk
+0:02:45]} 46... Kxg5 {[%clk 0:01:20]} 47. Na4 {[%clk 0:02:38]} 47... Nb4 {[%clk
+0:01:08]} 48. a3 {[%clk 0:02:32]} 48... Nc6 {[%clk 0:01:04]} 49. b4 {[%clk
+0:02:25]} 49... Na7 {[%clk 0:00:59]} 50. Nc5 {[%clk 0:02:22]} 50... Nb5 {[%clk
+0:00:59]} 51. a4 {[%clk 0:02:20]} 51... Nc7 {[%clk 0:00:58]} 52. Kd4 {[%clk
+0:02:14]} 52... f6 {[%clk 0:00:53]} 53. Kc4 {[%clk 0:01:51]} 53... f5 {[%clk
+0:00:52]} 54. b5 {[%clk 0:01:38]} 54... axb5+ {[%clk 0:00:52]} 55. axb5 {[%clk
+0:01:38]} 55... f4 {[%clk 0:00:16]} 56. b6 {[%clk 0:01:35]} 56... Ne8 {[%clk
+0:00:14]} 57. Nxe6+ {[%clk 0:01:33]} 57... Kf6 {[%clk 0:00:10]} 58. Nxf4 {[%clk
+0:01:33]} 1-0
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.3"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteElo "2819"]
+[WhiteTitle "GM"]
+[WhiteFideId "1503014"]
+[BlackElo "2738"]
+[BlackTitle "GM"]
+[BlackFideId "2016192"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "E90"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+[StudyName "Semifinals"]
+[ChapterName "Carlsen, Magnus - Nakamura, Hikaru"]
+[UTCDate "2025.07.31"]
+[UTCTime "17:28:10"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. d4 {[%clk 0:09:59]} 1... Nf6 {[%clk 0:09:52]} 2. c4 {[%clk 0:09:58]} 2... g6
+{[%clk 0:09:51]} 3. Nc3 {[%clk 0:09:57]} 3... Bg7 {[%clk 0:09:51]} 4. e4 {[%clk
+0:09:56]} 4... d6 {[%clk 0:09:50]} 5. Nf3 {[%clk 0:09:56]} 5... O-O {[%clk
+0:09:50]} 6. h3 {[%clk 0:09:51]} 6... e5 {[%clk 0:09:39]} 7. d5 {[%clk 0:09:49]}
+7... a5 {[%clk 0:09:36]} 8. Be3 {[%clk 0:09:45]} 8... Na6 {[%clk 0:09:33]} 9. g4
+{[%clk 0:09:31]} 9... Nd7 {[%clk 0:09:15]} 10. Rg1 {[%clk 0:09:27]} 10... Ndc5
+{[%clk 0:09:12]} 11. a3 {[%clk 0:09:23]} 11... Bd7 {[%clk 0:09:10]} 12. Qc2
+{[%clk 0:09:13]} 12... Kh8 {[%clk 0:09:01]} 13. O-O-O {[%clk 0:08:54]} 13... f5
+{[%clk 0:08:34]} 14. gxf5 {[%clk 0:08:31]} 14... gxf5 {[%clk 0:08:34]} 15. h4
+{[%clk 0:08:30]} 15... f4 {[%clk 0:06:21]} 16. Bxc5 {[%clk 0:08:28]} 16... Nxc5
+{[%clk 0:06:21]} 17. Ng5 {[%clk 0:07:41]} 17... h6 {[%clk 0:06:15]} 18. Nf3
+{[%clk 0:07:39]} 18... Bf6 {[%clk 0:06:03]} 19. h5 {[%clk 0:07:32]} 19... Rg8
+{[%clk 0:05:58]} 20. Be2 {[%clk 0:07:28]} 20... Qe7 {[%clk 0:05:49]} 21. Rxg8+
+{[%clk 0:06:49]} 21... Rxg8 {[%clk 0:05:49]} 22. b4 {[%clk 0:06:48]} 22... axb4
+{[%clk 0:05:44]} 23. axb4 {[%clk 0:06:48]} 23... Na6 {[%clk 0:05:44]} 24. Qb2
+{[%clk 0:06:46]} 24... Bg4 {[%clk 0:05:17]} 25. Rh1 {[%clk 0:06:39]} 25... c5
+{[%clk 0:05:11]} 26. b5 {[%clk 0:06:14]} 26... Nb4 {[%clk 0:05:08]} 27. Kd2
+{[%clk 0:06:06]} 27... Qf7 {[%clk 0:04:56]} 28. Na2 {[%clk 0:05:47]} 28... Bd8
+{[%clk 0:04:42]} 29. Nxb4 {[%clk 0:05:08]} 29... Ba5 {[%clk 0:04:40]} 30. Kd3
+{[%clk 0:04:31]} 30... Bxb4 {[%clk 0:04:34]} 31. Qa1 {[%clk 0:04:31]} 31... Kh7
+{[%clk 0:04:22]} 32. Kc2 {[%clk 0:03:56]} 32... b6 {[%clk 0:04:15]} 33. Qa6
+{[%clk 0:03:43]} 33... Ba5 {[%clk 0:04:10]} 34. Kd3 {[%clk 0:03:38]} 34... Bc8
+{[%clk 0:04:01]} 35. Qa8 {[%clk 0:03:34]} 35... Bb7 {[%clk 0:03:47]} 36. Qa7
+{[%clk 0:03:33]} 36... Ra8 {[%clk 0:03:46]} 37. Qxa8 {[%clk 0:03:33]} 37... Bxa8
+{[%clk 0:03:46]} 38. Nh4 {[%clk 0:03:32]} 38... f3 {[%clk 0:03:44]} 39. Bxf3
+{[%clk 0:03:28]} 39... Qf4 {[%clk 0:03:43]} 0-1
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.4"]
+[White "Erigaisi Arjun"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[TimeControl "600"]
+[Board "1"]
+[WhiteClock "0:00:41"]
+[BlackClock "0:00:17"]
+[WhiteFideId "35009192"]
+[WhiteTitle "GM"]
+[WhiteElo "2708"]
+[BlackFideId "12573981"]
+[BlackTitle "GM"]
+[BlackElo "2767"]
+[WhiteTeam ""]
+[BlackTeam ""]
+[ECO "C42"]
+[Opening "Petrov's Defense: Classical Attack"]
+[StudyName "Semifinals"]
+[ChapterName "Erigaisi Arjun - Firouzja, Alireza"]
+[UTCDate "2025.07.31"]
+[UTCTime "18:05:26"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. e4 {[%clk 0:09:59]} 1... e5 {[%clk 0:09:59]} 2. Nf3 {[%clk 0:09:58]} 2... Nf6
+{[%clk 0:09:59]} 3. Nxe5 {[%clk 0:09:55]} 3... d6 {[%clk 0:09:58]} 4. Nf3 {[%clk
+0:09:54]} 4... Nxe4 {[%clk 0:09:57]} 5. d4 {[%clk 0:09:54]} 5... d5 {[%clk
+0:09:56]} 6. Bd3 {[%clk 0:09:53]} 6... Be7 {[%clk 0:09:55]} 7. O-O {[%clk
+0:09:52]} 7... Bf5 {[%clk 0:09:54]} 8. Re1 {[%clk 0:09:43]} 8... O-O {[%clk
+0:09:52]} 9. Nbd2 {[%clk 0:09:40]} 9... Nd6 {[%clk 0:09:51]} 10. Nf1 {[%clk
+0:09:24]} 10... Bxd3 {[%clk 0:09:48]} 11. Qxd3 {[%clk 0:09:24]} 11... c6 {[%clk
+0:09:46]} 12. Bf4 {[%clk 0:09:18]} 12... Na6 {[%clk 0:09:38]} 13. Ng3 {[%clk
+0:09:06]} 13... Nc7 {[%clk 0:09:26]} 14. h4 {[%clk 0:08:55]} 14... Ne6 {[%clk
+0:09:10]} 15. Be5 {[%clk 0:08:52]} 15... Nc4 {[%clk 0:08:46]} 16. Nf5 {[%clk
+0:08:39]} 16... Nxe5 {[%clk 0:08:12]} 17. Nxe7+ {[%clk 0:08:35]} 17... Qxe7
+{[%clk 0:08:11]} 18. Rxe5 {[%clk 0:08:35]} 18... f6 {[%clk 0:05:33]} 19. Re3
+{[%clk 0:08:32]} 19... Rae8 {[%clk 0:04:21]} 20. Rae1 {[%clk 0:08:30]} 20... Qd6
+{[%clk 0:04:03]} 21. h5 {[%clk 0:06:33]} 21... Nc7 {[%clk 0:03:58]} 22. Nh4
+{[%clk 0:06:10]} 22... Rxe3 {[%clk 0:03:53]} 23. Rxe3 {[%clk 0:06:10]} 23... Re8
+{[%clk 0:03:48]} 24. Nf5 {[%clk 0:05:25]} 24... Rxe3 {[%clk 0:03:42]} 25. Qxe3
+{[%clk 0:05:21]} 25... Qd7 {[%clk 0:03:37]} 26. Qh3 {[%clk 0:05:11]} 26... Kf7
+{[%clk 0:02:45]} 27. Qg4 {[%clk 0:04:11]} 27... Ne8 {[%clk 0:02:40]} 28. Qf4
+{[%clk 0:04:09]} 28... Qe6 {[%clk 0:02:19]} 29. Kf1 {[%clk 0:04:05]} 29... g6
+{[%clk 0:02:04]} 30. Ne3 {[%clk 0:03:59]} 30... gxh5 {[%clk 0:01:30]} 31. Qb8
+{[%clk 0:03:48]} 31... Nd6 {[%clk 0:01:26]} 32. Qxa7 {[%clk 0:03:39]} 32... h4
+{[%clk 0:01:25]} 33. Qb8 {[%clk 0:03:29]} 33... h3 {[%clk 0:01:20]} 34. gxh3
+{[%clk 0:03:29]} 34... Qxh3+ {[%clk 0:01:19]} 35. Ke2 {[%clk 0:03:28]} 35... Qe6
+{[%clk 0:01:18]} 36. a4 {[%clk 0:03:22]} 36... Kg6 {[%clk 0:01:16]} 37. b3
+{[%clk 0:03:05]} 37... h5 {[%clk 0:01:15]} 38. Kf1 {[%clk 0:02:31]} 38... Ne4
+{[%clk 0:00:57]} 39. Qh2 {[%clk 0:02:12]} 39... Ng5 {[%clk 0:00:55]} 40. Qg2
+{[%clk 0:02:04]} 40... Qe4 {[%clk 0:00:48]} 41. Qxe4+ {[%clk 0:02:02]} 41...
+Nxe4 {[%clk 0:00:48]} 42. f3 {[%clk 0:01:56]} 42... Nd6 {[%clk 0:00:45]} 43. c4
+{[%clk 0:01:41]} 43... dxc4 {[%clk 0:00:39]} 44. bxc4 {[%clk 0:01:41]} 44... Kg5
+{[%clk 0:00:38]} 45. a5 {[%clk 0:01:24]} 45... h4 {[%clk 0:00:28]} 46. Kg2
+{[%clk 0:01:22]} 46... f5 {[%clk 0:00:27]} 47. c5 {[%clk 0:01:07]} 47... Nb5
+{[%clk 0:00:26]} 48. d5 {[%clk 0:01:06]} 48... cxd5 {[%clk 0:00:23]} 49. Nxd5
+{[%clk 0:01:06]} 49... Na7 {[%clk 0:00:21]} 50. Nb4 {[%clk 0:01:02]} 50... Kf4
+{[%clk 0:00:20]} 51. a6 {[%clk 0:00:52]} 51... bxa6 {[%clk 0:00:19]} 52. Nxa6
+{[%clk 0:00:52]} 52... Nc6 {[%clk 0:00:19]} 53. Nc7 {[%clk 0:00:50]} 53... h3+
+{[%clk 0:00:18]} 54. Kxh3 {[%clk 0:00:45]} 54... Kxf3 {[%clk 0:00:18]} 55. Ne6
+{[%clk 0:00:44]} 55... Ke4 {[%clk 0:00:18]} 56. Kh4 {[%clk 0:00:42]} 56... Kd5
+{[%clk 0:00:17]} 57. Ng7 {[%clk 0:00:41]} 57... Kxc5 {[%clk 0:00:17]} 58. Nxf5
+{[%clk 0:00:41]} 1/2-1/2
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.4"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteElo "2738"]
+[WhiteTitle "GM"]
+[WhiteFideId "2016192"]
+[BlackElo "2819"]
+[BlackTitle "GM"]
+[BlackFideId "1503014"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "E06"]
+[Opening "Catalan Opening: Closed"]
+[StudyName "Semifinals"]
+[ChapterName "Nakamura, Hikaru - Carlsen, Magnus"]
+[UTCDate "2025.07.31"]
+[UTCTime "17:46:56"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. d4 {[%clk 0:09:59]} 1... d5 {[%clk 0:09:58]} 2. c4 {[%clk 0:09:58]} 2... e6
+{[%clk 0:09:58]} 3. Nf3 {[%clk 0:09:57]} 3... Nf6 {[%clk 0:09:56]} 4. g3 {[%clk
+0:09:55]} 4... Be7 {[%clk 0:09:56]} 5. Bg2 {[%clk 0:09:51]} 5... O-O {[%clk
+0:09:55]} 6. O-O {[%clk 0:09:50]} 6... a5 {[%clk 0:09:53]} 7. b3 {[%clk
+0:09:44]} 7... b6 {[%clk 0:09:45]} 8. cxd5 {[%clk 0:09:38]} 8... exd5 {[%clk
+0:09:44]} 9. Nc3 {[%clk 0:09:38]} 9... Bb7 {[%clk 0:09:38]} 10. Bf4 {[%clk
+0:09:37]} 10... Re8 {[%clk 0:09:33]} 11. Rc1 {[%clk 0:09:32]} 11... Na6 {[%clk
+0:09:27]} 12. Ne5 {[%clk 0:09:23]} 12... h6 {[%clk 0:09:10]} 13. Nd3 {[%clk
+0:09:05]} 13... Bf8 {[%clk 0:08:55]} 14. h4 {[%clk 0:08:56]} 14... c5 {[%clk
+0:08:42]} 15. dxc5 {[%clk 0:08:46]} 15... bxc5 {[%clk 0:08:33]} 16. Na4 {[%clk
+0:08:42]} 16... Rc8 {[%clk 0:08:26]} 17. Be5 {[%clk 0:08:16]} 17... Ne4 {[%clk
+0:08:19]} 18. Bb2 {[%clk 0:08:05]} 18... d4 {[%clk 0:08:11]} 19. Ba3 {[%clk
+0:07:24]} 19... Nb4 {[%clk 0:07:53]} 20. Bxb4 {[%clk 0:06:25]} 20... cxb4 {[%clk
+0:07:40]} 21. Rxc8 {[%clk 0:06:15]} 21... Qxc8 {[%clk 0:07:37]} 22. Nf4 {[%clk
+0:06:14]} 22... Nc3 {[%clk 0:07:21]} 23. Bxb7 {[%clk 0:05:31]} 23... Qxb7 {[%clk
+0:07:17]} 24. Qxd4 {[%clk 0:05:31]} 24... Nxe2+ {[%clk 0:07:08]} 25. Nxe2 {[%clk
+0:05:30]} 25... Rxe2 {[%clk 0:07:08]} 26. Qd8 {[%clk 0:05:03]} 26... Rxa2 {[%clk
+0:06:37]} 27. Nb6 {[%clk 0:04:34]} 27... Qe7 {[%clk 0:06:30]} 28. Qc8 {[%clk
+0:04:28]} 28... Rb2 {[%clk 0:05:54]} 29. Nd7 {[%clk 0:03:57]} 29... Rd2 {[%clk
+0:05:33]} 30. Nxf8 {[%clk 0:03:39]} 30... Qxf8 {[%clk 0:05:32]} 31. Qf5 {[%clk
+0:03:38]} 31... Qd8 {[%clk 0:05:29]} 32. h5 {[%clk 0:03:28]} 32... Qd5 {[%clk
+0:05:19]} 33. Qg4 {[%clk 0:03:20]} 33... Kh7 {[%clk 0:05:06]} 34. Ra1 {[%clk
+0:03:14]} 34... a4 {[%clk 0:04:53]} 35. bxa4 {[%clk 0:02:06]} 35... b3 {[%clk
+0:04:52]} 36. a5 {[%clk 0:02:05]} 36... b2 {[%clk 0:04:49]} 37. Re1 {[%clk
+0:01:58]} 37... Qd3 {[%clk 0:04:40]} 0-1
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.5"]
+[White "Firouzja, Alireza"]
+[Black "Erigaisi Arjun"]
+[Result "1-0"]
+[TimeControl "600"]
+[Board "1"]
+[WhiteClock "0:04:57"]
+[BlackClock "0:04:57"]
+[WhiteFideId "12573981"]
+[WhiteTitle "GM"]
+[WhiteElo "2767"]
+[BlackFideId "35009192"]
+[BlackTitle "GM"]
+[BlackElo "2708"]
+[WhiteTeam ""]
+[BlackTeam ""]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Barmen Variation"]
+[StudyName "Semifinals"]
+[ChapterName "Firouzja, Alireza - Erigaisi Arjun"]
+[UTCDate "2025.07.31"]
+[UTCTime "18:26:19"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. d4 {[%clk 0:09:58]} 1... Nf6 {[%clk 0:09:58]} 2. Nf3 {[%clk 0:09:56]} 2... e6
+{[%clk 0:09:46]} 3. c4 {[%clk 0:09:53]} 3... d5 {[%clk 0:09:44]} 4. Nc3 {[%clk
+0:09:42]} 4... Nbd7 {[%clk 0:09:42]} 5. Bf4 {[%clk 0:09:25]} 5... Bb4 {[%clk
+0:09:40]} 6. e3 {[%clk 0:09:02]} 6... c5 {[%clk 0:09:33]} 7. a3 {[%clk 0:08:13]}
+7... Bxc3+ {[%clk 0:09:31]} 8. bxc3 {[%clk 0:08:13]} 8... Qa5 {[%clk 0:09:28]}
+9. Qc2 {[%clk 0:08:06]} 9... b6 {[%clk 0:09:14]} 10. Nd2 {[%clk 0:07:29]} 10...
+O-O {[%clk 0:09:04]} 11. a4 {[%clk 0:07:16]} 11... cxd4 {[%clk 0:09:01]} 12.
+exd4 {[%clk 0:07:14]} 12... dxc4 {[%clk 0:08:56]} 13. Nxc4 {[%clk 0:07:12]}
+13... Qd5 {[%clk 0:08:38]} 14. Ne3 {[%clk 0:07:08]} 14... Qc6 {[%clk 0:08:26]}
+15. Bb5 {[%clk 0:07:02]} 15... Qb7 {[%clk 0:08:24]} 16. O-O {[%clk 0:06:42]}
+16... Nd5 {[%clk 0:08:15]} 17. Nxd5 {[%clk 0:06:35]} 17... exd5 {[%clk 0:08:15]}
+18. Rfe1 {[%clk 0:06:20]} 18... a6 {[%clk 0:08:07]} 19. Bd3 {[%clk 0:06:14]}
+19... h6 {[%clk 0:07:50]} 20. Re7 {[%clk 0:05:39]} 20... Qc6 {[%clk 0:07:42]}
+21. Rae1 {[%clk 0:05:38]} 21... Qf6 {[%clk 0:06:50]} 22. Bg3 {[%clk 0:05:02]}
+22... g6 {[%clk 0:06:21]} 23. Qd2 {[%clk 0:04:52]} 23... h5 {[%clk 0:06:11]} 24.
+Qh6 {[%clk 0:04:33]} 24... Qg7 {[%clk 0:06:03]} 25. Qg5 {[%clk 0:04:31]} 25...
+Ra7 {[%clk 0:04:57]} 26. h4 {[%clk 0:04:22]} 1-0
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.5"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteElo "2819"]
+[WhiteTitle "GM"]
+[WhiteFideId "1503014"]
+[BlackElo "2738"]
+[BlackTitle "GM"]
+[BlackFideId "2016192"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "C49"]
+[Opening "Four Knights Game: Spanish Variation, Nimzowitsch Variation"]
+[StudyName "Semifinals"]
+[ChapterName "Carlsen, Magnus - Nakamura, Hikaru"]
+[UTCDate "2025.07.31"]
+[UTCTime "18:43:20"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. e4 {[%clk 0:09:59]} 1... e5 {[%clk 0:09:44]} 2. Nf3 {[%clk 0:09:58]} 2... Nc6
+{[%clk 0:09:44]} 3. Nc3 {[%clk 0:09:53]} 3... Nf6 {[%clk 0:09:40]} 4. Bb5 {[%clk
+0:09:50]} 4... Bb4 {[%clk 0:09:30]} 5. O-O {[%clk 0:09:47]} 5... O-O {[%clk
+0:09:23]} 6. Bxc6 {[%clk 0:09:45]} 6... dxc6 {[%clk 0:09:23]} 7. Nxe5 {[%clk
+0:09:38]} 7... Bxc3 {[%clk 0:09:17]} 8. dxc3 {[%clk 0:09:36]} 8... Nxe4 {[%clk
+0:09:15]} 9. Bf4 {[%clk 0:09:28]} 9... Bf5 {[%clk 0:09:08]} 10. Re1 {[%clk
+0:09:25]} 10... Qxd1 {[%clk 0:08:44]} 11. Raxd1 {[%clk 0:09:23]} 11... Nd6
+{[%clk 0:08:44]} 12. Nd3 {[%clk 0:09:17]} 12... Rfe8 {[%clk 0:08:17]} 13. f3
+{[%clk 0:09:13]} 13... f6 {[%clk 0:08:09]} 14. g4 {[%clk 0:09:09]} 14... Bg6
+{[%clk 0:08:00]} 15. Rxe8+ {[%clk 0:09:04]} 15... Rxe8 {[%clk 0:07:59]} 16. Kf2
+{[%clk 0:09:03]} 16... Rd8 {[%clk 0:07:28]} 17. Re1 {[%clk 0:08:05]} 17... Nc4
+{[%clk 0:06:52]} 18. b3 {[%clk 0:06:38]} 18... Bxd3 {[%clk 0:06:34]} 19. cxd3
+{[%clk 0:06:37]} 19... Nb2 {[%clk 0:06:32]} 20. Re7 {[%clk 0:06:14]} 20... Nxd3+
+{[%clk 0:06:30]} 21. Kg3 {[%clk 0:06:14]} 21... Nxf4 {[%clk 0:06:22]} 22. Kxf4
+{[%clk 0:06:13]} 22... Rd2 {[%clk 0:06:18]} 23. Rxc7 {[%clk 0:05:56]} 23... Rxa2
+{[%clk 0:05:35]} 24. Rxb7 {[%clk 0:05:49]} 24... a5 {[%clk 0:05:26]} 25. Ra7
+{[%clk 0:05:32]} 25... Ra3 {[%clk 0:05:18]} 26. c4 {[%clk 0:05:29]} 26... Rxb3
+{[%clk 0:04:57]} 27. Rxa5 {[%clk 0:05:28]} 27... Rb4 {[%clk 0:04:57]} 28. Rc5
+{[%clk 0:05:27]} 28... Rb6 {[%clk 0:04:56]} 29. Ra5 {[%clk 0:05:18]} 29... Rb4
+{[%clk 0:04:55]} 30. Rc5 {[%clk 0:05:14]} 30... Rb6 {[%clk 0:04:54]} 31. Ra5
+{[%clk 0:04:48]} 31... Rb4 {[%clk 0:04:53]} 1/2-1/2
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.6"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[WhiteTitle "GM"]
+[WhiteFideId "2016192"]
+[BlackElo "2819"]
+[BlackTitle "GM"]
+[BlackFideId "1503014"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "E05"]
+[Opening "Catalan Opening: Open Defense, Classical Line"]
+[StudyName "Semifinals"]
+[ChapterName "Nakamura, Hikaru - Carlsen, Magnus"]
+[UTCDate "2025.07.31"]
+[UTCTime "18:55:49"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. d4 {[%clk 0:09:59]} 1... d5 {[%clk 0:09:58]} 2. c4 {[%clk 0:09:58]} 2... e6
+{[%clk 0:09:58]} 3. Nf3 {[%clk 0:09:56]} 3... Nf6 {[%clk 0:09:57]} 4. g3 {[%clk
+0:09:55]} 4... Be7 {[%clk 0:09:56]} 5. Bg2 {[%clk 0:09:54]} 5... O-O {[%clk
+0:09:55]} 6. O-O {[%clk 0:09:53]} 6... dxc4 {[%clk 0:09:54]} 7. Qc2 {[%clk
+0:09:52]} 7... a6 {[%clk 0:09:50]} 8. a4 {[%clk 0:09:50]} 8... Bd7 {[%clk
+0:09:47]} 9. Qxc4 {[%clk 0:09:48]} 9... Bc6 {[%clk 0:09:46]} 10. Bf4 {[%clk
+0:09:40]} 10... Bd6 {[%clk 0:09:40]} 11. Nc3 {[%clk 0:09:34]} 11... Nbd7 {[%clk
+0:09:09]} 12. Rfd1 {[%clk 0:08:53]} 12... Bxf4 {[%clk 0:08:38]} 13. gxf4 {[%clk
+0:08:53]} 13... Nb6 {[%clk 0:08:37]} 14. Qb3 {[%clk 0:08:44]} 14... Nbd5 {[%clk
+0:08:26]} 15. e3 {[%clk 0:08:40]} 15... Nxc3 {[%clk 0:08:23]} 16. bxc3 {[%clk
+0:08:39]} 16... b5 {[%clk 0:08:07]} 17. c4 {[%clk 0:08:20]} 17... bxc4 {[%clk
+0:07:35]} 18. Qxc4 {[%clk 0:08:20]} 18... Bd5 {[%clk 0:07:34]} 19. Qc5 {[%clk
+0:07:54]} 19... Nd7 {[%clk 0:07:06]} 20. Qc2 {[%clk 0:07:51]} 20... h6 {[%clk
+0:06:55]} 21. Rac1 {[%clk 0:06:31]} 21... Rc8 {[%clk 0:06:52]} 22. Qe2 {[%clk
+0:06:22]} 22... c5 {[%clk 0:06:05]} 23. Qxa6 {[%clk 0:05:43]} 23... c4 {[%clk
+0:05:42]} 24. Qd6 {[%clk 0:03:57]} 24... Rc6 {[%clk 0:05:34]} 25. Qa3 {[%clk
+0:03:56]} 25... Qa8 {[%clk 0:05:24]} 26. Ne1 {[%clk 0:03:55]} 26... Bxg2 {[%clk
+0:05:19]} 27. Nxg2 {[%clk 0:03:55]} 27... Rfc8 {[%clk 0:05:12]} 28. e4 {[%clk
+0:03:54]} 28... Ra6 {[%clk 0:05:09]} 29. d5 {[%clk 0:03:40]} 29... exd5 {[%clk
+0:05:03]} 30. Qh3 {[%clk 0:03:39]} 30... Nf6 {[%clk 0:04:10]} 31. e5 {[%clk
+0:03:38]} 31... Ne4 {[%clk 0:04:03]} 32. Rxd5 {[%clk 0:03:37]} 32... Rxa4 {[%clk
+0:03:58]} 33. Ne3 {[%clk 0:03:07]} 33... Rd8 {[%clk 0:03:42]} 34. Rxd8+ {[%clk
+0:03:04]} 34... Qxd8 {[%clk 0:03:42]} 35. Rd1 {[%clk 0:03:04]} 35... Nd2 {[%clk
+0:03:34]} 36. Nf1 {[%clk 0:02:50]} 36... Ra2 {[%clk 0:03:25]} 37. Qe3 {[%clk
+0:02:42]} 37... Qa8 {[%clk 0:03:18]} 38. Rxd2 {[%clk 0:02:32]} 38... Ra1 {[%clk
+0:03:07]} 39. Qd4 {[%clk 0:02:26]} 1-0
+
+[Event "2025 Esports World Cup Finals Playoffs"]
+[Site "https://www.chess.com"]
+[Date "????.??.??"]
+[Round "2.1.7"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteElo "2819"]
+[WhiteTitle "GM"]
+[WhiteFideId "1503014"]
+[BlackElo "2738"]
+[BlackTitle "GM"]
+[BlackFideId "2016192"]
+[TimeControl "600"]
+[Board "1"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack"]
+[StudyName "Semifinals"]
+[ChapterName "Carlsen, Magnus - Nakamura, Hikaru"]
+[UTCDate "2025.07.31"]
+[UTCTime "19:20:19"]
+[GameURL "https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"]
+
+1. Nf3 {[%clk 0:09:58]} 1... Nf6 {[%clk 0:06:11]} 2. c4 {[%clk 0:09:55]} 2... g6
+{[%clk 0:06:10]} 3. Nc3 {[%clk 0:09:54]} 3... Bg7 {[%clk 0:06:09]} 4. e4 {[%clk
+0:09:53]} 4... d6 {[%clk 0:06:09]} 5. d4 {[%clk 0:09:52]} 5... O-O {[%clk
+0:06:09]} 6. Be2 {[%clk 0:09:50]} 6... e5 {[%clk 0:06:08]} 7. O-O {[%clk
+0:09:50]} 7... Nc6 {[%clk 0:06:07]} 8. d5 {[%clk 0:09:48]} 8... Ne7 {[%clk
+0:06:07]} 9. b4 {[%clk 0:09:46]} 9... a5 {[%clk 0:06:03]} 10. bxa5 {[%clk
+0:09:44]} 10... c5 {[%clk 0:06:02]} 11. a4 {[%clk 0:09:41]} 11... Rxa5 {[%clk
+0:06:01]} 12. Re1 {[%clk 0:09:37]} 12... Ne8 {[%clk 0:05:59]} 13. Ra3 {[%clk
+0:09:33]} 13... f5 {[%clk 0:05:58]} 14. Ng5 {[%clk 0:08:49]} 14... Nc7 {[%clk
+0:05:50]} 15. Bd2 {[%clk 0:08:26]} 15... h6 {[%clk 0:05:32]} 16. Nf3 {[%clk
+0:08:25]} 16... Ra6 {[%clk 0:05:25]} 17. exf5 {[%clk 0:08:06]} 17... Nxf5 {[%clk
+0:05:19]} 18. Bd3 {[%clk 0:08:03]} 18... Ne8 {[%clk 0:05:17]} 19. h3 {[%clk
+0:07:55]} 19... Bd7 {[%clk 0:04:58]} 20. Ne4 {[%clk 0:07:50]} 20... Nf6 {[%clk
+0:04:52]} 21. Qc2 {[%clk 0:07:45]} 21... Nxe4 {[%clk 0:04:49]} 22. Bxe4 {[%clk
+0:07:45]} 22... Qf6 {[%clk 0:04:49]} 23. Bc3 {[%clk 0:07:33]} 23... g5 {[%clk
+0:04:41]} 24. Rb1 {[%clk 0:07:32]} 24... b6 {[%clk 0:04:38]} 25. Nh2 {[%clk
+0:07:28]} 25... Rfa8 {[%clk 0:04:28]} 26. Ng4 {[%clk 0:07:20]} 26... Qf8 {[%clk
+0:04:24]} 27. Qd3 {[%clk 0:06:45]} 27... Nd4 {[%clk 0:04:15]} 28. Ne3 {[%clk
+0:06:34]} 28... Rxa4 {[%clk 0:04:01]} 29. Rxa4 {[%clk 0:06:30]} 29... Rxa4
+{[%clk 0:04:01]} 30. Rxb6 {[%clk 0:06:11]} 30... Ra3 {[%clk 0:04:00]} 31. Kf1
+{[%clk 0:05:33]} 31... Ra2 {[%clk 0:03:59]} 32. Nd1 {[%clk 0:05:16]} 32... Ba4
+{[%clk 0:03:47]} 33. Qb1 {[%clk 0:05:13]} 33... Bxd1 {[%clk 0:03:10]} 34. Qxa2
+{[%clk 0:05:09]} 34... Qf4 {[%clk 0:03:10]} 35. Rb8+ {[%clk 0:05:06]} 35... Bf8
+{[%clk 0:03:09]} 36. Qb1 {[%clk 0:04:36]} 36... Be2+ {[%clk 0:03:00]} 37. Kg1
+{[%clk 0:04:35]} 37... Bxc4 {[%clk 0:03:00]} 38. Bxd4 {[%clk 0:04:34]} 38...
+exd4 {[%clk 0:02:34]} 39. Bh7+ {[%clk 0:04:33]} 39... Kh8 {[%clk 0:02:32]} 40.
+Bf5 {[%clk 0:04:30]} 40... Kg8 {[%clk 0:02:18]} 41. g3 {[%clk 0:04:16]} 41...
+Qf3 {[%clk 0:02:16]} 42. Be6+ {[%clk 0:04:12]} 42... Kh8 {[%clk 0:02:11]} 43.
+Qg6 {[%clk 0:04:09]} 1-0

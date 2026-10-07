@@ -1,0 +1,266 @@
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1998.03.04"]
+[Round "10"]
+[White "Veselin Topalov"]
+[Black "Alexey Shirov"]
+[Result "0-1"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8.
+Ba4 O-O 9. Ne2 Nd7 10. O-O e5 11. f3 Qe7 12. Be3 Rd8 13. Qc2 Nb6 14. Bb3 Be6 15.
+Rad1 Nc4 16. Bc1 b5 17. f4 exd4 18. Nxd4 Bg4 19. Rde1 Qc5 20. Kh1 a5 21. h3 Bd7
+22. a4 bxa4 23. Ba2 Be8 24. e5 Nb6 25. f5 Nd5 26. Bd2 Nb4 27. Qxa4 Nxa2 28. Qxa2
+Bxe5 29. fxg6 hxg6 30. Bg5 Rd5 31. Re3 Qd6 32. Qe2 Bd7 33. c4 Bxd4 34. cxd5 Bxe3
+35. Qxe3 Re8 36. Qc3 Qxd5 37. Bh6 Re5 38. Rf3 Qc5 39. Qa1 Bf5 40. Re3 f6 41.
+Rxe5 Qxe5 42. Qa2+ Qd5 43. Qxd5+ cxd5 44. Bd2 a4 45. Bc3 Kf7 46. h4 Ke6 47. Kg1
+Bh3 48. gxh3 Kf5 49. Kf2 Ke4 50. Bxf6 d4 51. Be7 Kd3 52. Bc5 Kc4 53. Be7 Kb3
+ 0-1
+
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1924.03.23"]
+[Round "6"]
+[White "Jose Raul Capablanca"]
+[Black "Savielly Tartakower"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[ECO "A40"]
+
+1. d4 e6 2. Nf3 f5 3. c4 Nf6 4. Bg5 Be7 5. Nc3 O-O 6. e3 b6 7. Bd3 Bb7 8. O-O
+Qe8 9. Qe2 Ne4 10. Bxe7 Nxc3 11. bxc3 Qxe7 12. a4 Bxf3 13. Qxf3 Nc6 14. Rfb1
+Rae8 15. Qh3 Rf6 16. f4 Na5 17. Qf3 d6 18. Re1 Qd7 19. e4 fxe4 20. Qxe4 g6 21.
+g3 Kf8 22. Kg2 Rf7 23. h4 d5 24. cxd5 exd5 25. Qxe8+ Qxe8 26. Rxe8+
+{[%c_highlight
+f4;keyPressed;none;opacity;0.8;square;f4;persistent;false,g3;keyPressed;none;opacity;0.8;square;g3;persistent;false,h4;keyPressed;none;opacity;0.8;square;h4;persistent;false]}
+26... Kxe8 {[%c_highlight
+g3;keyPressed;none;opacity;0.8;square;g3;persistent;false,g6;keyPressed;none;opacity;0.8;square;g6;persistent;false,h7;keyPressed;none;opacity;0.8;square;h7;persistent;false]}
+27. h5 Rf6 {[%cal df6c6,dc6c3][%c_arrow
+f6c6;keyPressed;none;opacity;0.8;from;f6;to;c6;persistent;false,c6c3;keyPressed;none;opacity;0.8;from;c6;to;c3;persistent;false]}
+28. hxg6 hxg6 29. Rh1 Kf8 30. Rh7 Rc6 31. g4 Nc4 32. g5 Ne3+ (32... Nd6 33.
+Bxg6) 33. Kf3 Nf5 34. Bxf5 gxf5 35. Kg3 (35. Ke3 {[%c_highlight
+g6;keyPressed;none;opacity;0.8;square;g6;persistent;false,f5;keyPressed;none;opacity;0.8;square;f5;persistent;false,f6;keyPressed;none;opacity;0.8;square;f6;persistent;false,e5;keyPressed;none;opacity;0.8;square;e5;persistent;false,e6;keyPressed;none;opacity;0.8;square;e6;persistent;false]}
+35... Rxc3+ 36. Ke2) 35... Rxc3+ 36. Kh4 Rf3 37. g6 Rxf4+ 38. Kg5 Re4 39. Kf6
+Kg8 40. Rg7+ Kh8 41. Rxc7 {[%cal dc7c8,dc8h8][%c_arrow
+c7c8;keyPressed;none;opacity;0.8;from;c7;to;c8;persistent;false,c8h8;keyPressed;none;opacity;0.8;from;c8;to;h8;persistent;false]}
+41... Re8 42. Kxf5 Re4 43. Kf6 {[%cal dc7c8][%c_arrow
+c7c8;keyPressed;none;opacity;0.8;from;c7;to;c8;persistent;false]} 43... Rf4+ 44.
+Ke5 Rg4 45. g7+ {[%cal de5d5,dd5c6,dc6b7,db7a7,da7b6,da4a8][%c_arrow
+e5d5;keyPressed;none;opacity;0.8;from;e5;to;d5;persistent;false,d5c6;keyPressed;none;opacity;0.8;from;d5;to;c6;persistent;false,c6b7;keyPressed;none;opacity;0.8;from;c6;to;b7;persistent;false,b7a7;keyPressed;none;opacity;0.8;from;b7;to;a7;persistent;false,a7b6;keyPressed;none;opacity;0.8;from;a7;to;b6;persistent;false,a4a8;keyPressed;none;opacity;0.8;from;a4;to;a8;persistent;false]}
+45... Kg8 46. Rxa7 Rg1 47. Kxd5 Rc1 48. Kd6 Rc2 49. d5 Rc1 50. Rc7 Ra1 51. Kc6
+Rxa4 52. d6 {[%cal
+dd6d7,dd7d8][%c_arrow
+d6d7;keyPressed;none;opacity;0.8;from;d6;to;d7;persistent;false,d7d8;keyPressed;none;opacity;0.8;from;d7;to;d8;persistent;false]}
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.07.29"]
+[Round "?"]
+[White "n1l80r"]
+[Black "SKCC_LSMP"]
+[Result "1/2-1/2"]
+[WhiteElo "1897"]
+[BlackElo "1973"]
+[ECO "B20"]
+[Termination "SKCC_LSMP won on time"]
+[TimeControl "300"]
+[EndTime "2:33:53 PDT"]
+
+1. e4 c5 2. d3 Nc6 3. c3 g6 4. f4 Bg7 5. Be2 a6 6. a4 b6 7. Bf3 Bb7 8. g3 Nf6 9.
+h4 d5 10. e5 Ng8 11. d4 e6 12. Be3 cxd4 13. Bxd4 Rc8 14. Ne2 Nge7 15. g4 Nxd4
+16. Nxd4 Nc6 17. g5 Ne7 18. Qb3 Bf8 19. Nd2 Nf5 20. Nxf5 gxf5 21. Rh2 Bc5 22.
+O-O-O Be3 23. Re2 Bxf4 24. Qb4 Bxd2+ 25. Rexd2 Qc7 26. Qf4 Kd7 27. Rd4 Qc5 28.
+Qd2 Rhf8 29. Bh5 Rc6 30. Kb1 Kc8 31. Rb4 Kb8 32. Qd4 Ka7 33. Ka1 a5 34. Rb3 Qc4
+35. Ka2 Ba6 (35... Qxa4+ 36. Qxa4) 36. Qd2 Qxa4+ 37. Ra3 (37. Kb1 Qxb3) 37...
+Qxh4 (37... Bc4+ 38. b3 (38. Ka1 Qb5 {[%cal db5c4][%c_arrow
+b5c4;keyPressed;none;opacity;0.8;from;b5;to;c4;persistent;false]}) 38... Bxb3+)
+(37... Qxd1 38. Qxd1 {[%c_highlight
+h5;keyPressed;none;opacity;0.8;square;h5;persistent;false]}) 38. Be2 Bxe2 39.
+Qxe2 Qc4+ 40. Qxc4 Rxc4 41. Rh1 Rh8 {[%cal dh1h7][%c_arrow
+h1h7;keyPressed;none;opacity;0.8;from;h1;to;h7;persistent;false]} 42. Rh6 f4 43.
+Kb3 f3 44. Ra1 Rf4 45. Rf1 Rg8 46. Rxh7 Rxg5 47. Rh8 (47. Rxf7+ Rxf7) 47... Rxe5
+48. Rd8 Re2 49. Rd7+ Ka6 50. Rd8 f2 {[%c_highlight
+d8;keyPressed;none;opacity;0.8;square;d8;persistent;false,f1;keyPressed;none;opacity;0.8;square;f1;persistent;false][%cal
+dd8f1][%c_arrow
+d8f1;keyPressed;none;opacity;0.8;from;d8;to;f1;persistent;false]} 51. Rh8 (51.
+Rxf2 Rexf2) 51... Re1 52. Rhh1 Rxf1 53. Rxf1 e5 54. Kc2 f5 55. Kd2 e4 56. Ke3
+Rf3+ 57. Ke2 f4 58. b4 Kb5 59. bxa5 bxa5 60. Rb1+ Kc4 61. Rf1 Kxc3 62. Kd1 d4
+63. Ke2 d3+ 64. Kd1 e3 65. Kc1 e2 66. Kb1 exf1=Q+ 67. Ka2 Qe2+ 68. Ka3 f1=Q 69.
+Ka4 d2 70. Ka3 d1=Q
+(70... Qa1#) 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.07.30"]
+[Round "?"]
+[White "SKCC_LSMP"]
+[Black "Txain-explore"]
+[Result "1-0"]
+[WhiteElo "2029"]
+[BlackElo "1986"]
+[ECO "D06"]
+[Termination "SKCC_LSMP won by checkmate"]
+[TimeControl "300"]
+[EndTime "4:11:47 PDT"]
+
+1. d4 d5 2. c4 Nf6 (2... c6 3. cxd5 cxd5 4. Nc3 Bf5 5. Qb3 {[%cal
+df1b5][%c_arrow
+f1b5;keyPressed;none;opacity;0.8;from;f1;to;b5;persistent;false]}) 3. cxd5 e6 4.
+d6 Bxd6 5. Nc3 O-O 6. e4 e5 7. Be3 c6 8. Bd3 Ng4 9. Nge2 Nxe3 10. fxe3 exd4 11.
+exd4 Qh4+ 12. g3 (12. Ng3 Qxg3+ (12... Bxg3+ {[%cal dh4h1][%c_arrow
+h4h1;keyPressed;none;opacity;0.8;from;h4;to;h1;persistent;false]} 13. hxg3
+Qxh1+) 13. hxg3) 12... Qh3 13. e5 Be7 14. Qd2 b5 15. O-O-O a5 16. Ne4 Qe6 17.
+Kb1 (17. b3 a4 {[%cal da4b3][%c_arrow
+a4b3;keyPressed;none;opacity;0.8;from;a4;to;b3;persistent;false]}) (17. a3)
+17... Bb4 18. Qe3 a4 19. Ng5 Qg4 20. h3 Qh5 21. Bxh7+ Kh8 22. Rhf1 Na6 23. Bc2
+Be6 24. Nf4 Qh6 (24... Qxg5 25. Ng6+ Qxg6) 25. Ngxe6 fxe6 26. Ng6+ Kg8 27. Qxh6
+gxh6 28. Nxf8 Bxf8 29. Rf6 Bg7 30. Rxe6 Nb4 (30... Nb8) 31. Be4 Rc8
+{[%c_highlight c6;keyPressed;none;opacity;0.8;square;c6;persistent;false][%cal
+de4c6,de6c6][%c_arrow
+e4c6;keyPressed;none;opacity;0.8;from;e4;to;c6;persistent;false,e6c6;keyPressed;none;opacity;0.8;from;e6;to;c6;persistent;false]}
+32. a3 (32. Bxc6 Nxc6 33. Rxc6 Rxc6) 32... Nd5 33. Bxd5 cxd5 {[%c_highlight
+d5;keyPressed;none;opacity;0.8;square;d5;persistent;false]} 34. Rd6 Rf8 35. Rd3
+(35. Ka1 Rf3 36. Rg1) (35. Rg1 {[%cal dg1g3][%c_arrow
+g1g3;keyPressed;none;opacity;0.8;from;g1;to;g3;persistent;false]}) (35. Rxd5 Rf2
+{[%cal dg7b2][%c_arrow
+g7b2;keyPressed;none;opacity;0.8;from;g7;to;b2;persistent;false]} (35... Rf3 36.
+Rg1)) 35... Rf1+ (35... Rf2 {[%cal
+db1c2,dc2c3,dc3b4,db4c5,db1a2,da2b3,da4b3][%c_arrow
+b1c2;keyPressed;none;opacity;0.8;from;b1;to;c2;persistent;false,c2c3;keyPressed;none;opacity;0.8;from;c2;to;c3;persistent;false,c3b4;keyPressed;none;opacity;0.8;from;c3;to;b4;persistent;false,b4c5;keyPressed;none;opacity;0.8;from;b4;to;c5;persistent;false,b1a2;keyPressed;none;opacity;0.8;from;b1;to;a2;persistent;false,a2b3;keyPressed;none;opacity;0.8;from;a2;to;b3;persistent;false,a4b3;keyPressed;none;opacity;0.8;from;a4;to;b3;persistent;false][%c_highlight
+c2;keyPressed;none;opacity;0.8;square;c2;persistent;false]}) 36. Kc2 Rf2+ 37.
+Kc3 b4+ {[%cal df2b2][%c_arrow
+f2b2;keyPressed;none;opacity;0.8;from;f2;to;b2;persistent;false]} 38. Kxb4 Rxb2+
+39. Kxa4 Bf8 {[%c_highlight
+d6;keyPressed;none;opacity;0.8;square;d6;persistent;false]} 40. Rxd5 Rb7 41. e6
+Ra7+ {[%cal dd4d8,de6e8][%c_arrow
+d4d8;keyPressed;none;opacity;0.8;from;d4;to;d8;persistent;false,e6e8;keyPressed;none;opacity;0.8;from;e6;to;e8;persistent;false]}
+42. Ra5 Re7 {[%c_highlight
+d4;keyPressed;none;opacity;0.8;square;d4;persistent;false,e6;keyPressed;none;opacity;0.8;square;e6;persistent;false]}
+43. d5 Bg7 44. Re3 (44. d6 Rxe6 45. d7 Bf6 46. d8=Q+ Bxd8 47. Rxd8+) 44... Bd4
+{[%c_highlight e3;keyPressed;none;opacity;0.8;square;e3;persistent;false]} 45.
+Re4 Bb6 46. Ra6 Bc7 47. Ra7 Kf8 48. Rxc7 Rxc7 49. d6 Ra7+ 50. Kb5 Rb7+ 51. Kc6
+Ra7 52. e7+ Ke8 53. Rf4 Ra6+ 54. Kc7 Ra7+ 55. Kb6 Rxe7 56. dxe7 Kxe7 57. Rc4 Ke6
+58. a4 Kd5 59. Rc5+ Kd6 60. a5 Kd7 61. a6 Ke6 62. a7 Kf6 63. a8=Q Kg6 64. Qc6+
+Kf7 65. Rd5 {[%cal dd5d7,dc6c8][%c_arrow
+d5d7;keyPressed;none;opacity;0.8;from;d5;to;d7;persistent;false,c6c8;keyPressed;none;opacity;0.8;from;c6;to;c8;persistent;false]}
+(65. Qd5+ {[%c_highlight
+c5;keyPressed;none;opacity;0.8;square;c5;persistent;false]}) 65... Ke7 66. Rd7+
+Ke8 67. Qc8#
+(67. Qe6+ Kf8 68. Qf7#) 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.07.30"]
+[White "polish_jaja"]
+[Black "SKCC_LSMP"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2006"]
+[BlackElo "2022"]
+[TimeControl "300"]
+[EndTime "2:34:22 PDT"]
+[Termination "SKCC_LSMP won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 {[%clk 0:04:56]} c5 {[%clk 0:04:58]} 2. c3 {[%clk 0:04:46]} g6 {[%clk 0:04:56]} 3. d4 {[%clk 0:04:46]} cxd4 {[%clk 0:04:55]} 4. cxd4 {[%clk 0:04:45]} Bg7 {[%clk 0:04:54]} 5. Nf3 {[%clk 0:04:45]} Nc6 {[%clk 0:04:53]} 6. Nc3 {[%clk 0:04:45]} a6 {[%clk 0:04:52]} 7. Be3 {[%clk 0:04:44]} b5 {[%clk 0:04:51]} 8. Bd3 {[%clk 0:04:42]} Bb7 {[%clk 0:04:50]} 9. O-O {[%clk 0:04:40]} e6 {[%clk 0:04:46]} 10. Re1 {[%clk 0:04:38]} Nge7 {[%clk 0:04:45]}
+ 11. Bg5 {[%clk 0:04:37]} Rc8 {[%clk 0:04:41]} 12. Qd2 {[%clk 0:04:36]} O-O {[%clk 0:04:37]} 13. e5 {[%clk 0:04:35]} Qc7 {[%clk 0:04:32]} 14. Rac1 {[%clk 0:04:32]} Nf5 {[%clk 0:04:26]} 15. Bxf5 {[%clk 0:04:21]} gxf5 {[%clk 0:04:23]} 16. Bh6 {[%clk 0:04:18]} Qd8 {[%clk 0:04:18]} 17. Bg5 {[%clk 0:04:08]} Ne7 {[%clk 0:04:10]} 18. Bh4 {[%clk 0:03:38]} Bxf3 {[%clk 0:04:08]} 19. gxf3 {[%clk 0:03:37]} Kh8 {[%clk 0:04:05]} 20. Kh1 {[%clk 0:03:36]} Rg8 {[%clk 0:04:01]}
+ 21. Rg1 {[%clk 0:03:35]} Qe8 {[%clk 0:03:58]} 22. Rxg7 {[%clk 0:03:32]} Rxg7 {[%clk 0:03:50]} 23. Bf6 {[%clk 0:03:32]} Ng8 {[%clk 0:03:43]} 24. Bxg7+ {[%clk 0:03:27]} Kxg7 {[%clk 0:03:43]} 25. Rg1+ {[%clk 0:03:25]} Kh8 {[%clk 0:03:42]} 26. Qg5 {[%clk 0:03:24]} Qf8 {[%clk 0:03:37]} 27. a3 {[%clk 0:03:03]} f6 {[%clk 0:03:36]} 28. Qh5 {[%clk 0:02:42]} Rc4 {[%clk 0:02:35]} 29. Rg3 {[%clk 0:02:32]} Rxd4 {[%clk 0:02:26]} 30. Rh3 {[%clk 0:02:31]} Qg7 {[%clk 0:02:13]}
+ 31. exf6 {[%clk 0:02:30]} Nxf6 {[%clk 0:02:10]} 32. Qh6 {[%clk 0:02:23]} Qxh6 {[%clk 0:02:05]} 33. Rxh6 {[%clk 0:02:22]} Kg7 {[%clk 0:02:05]} 34. Rh3 {[%clk 0:02:21]} Rd2 {[%clk 0:01:57]} 35. b4 {[%clk 0:02:16]} Rxf2 {[%clk 0:01:52]} 36. Kg1 {[%clk 0:02:14]} Rc2 {[%clk 0:01:51]} 37. f4 {[%clk 0:02:13]} Ng4 {[%clk 0:01:48]} 38. a4 {[%clk 0:02:01]} h6 {[%clk 0:01:45]} 39. axb5 {[%clk 0:01:55]} axb5 {[%clk 0:01:40]} 40. Nxb5 {[%clk 0:01:54]} Rb2 {[%clk 0:01:38]}
+ 41. Nd6 {[%clk 0:01:50]} Rxb4 {[%clk 0:01:34]} 42. Rg3 {[%clk 0:01:48]} Kf6 {[%clk 0:01:30]} 43. h3 {[%clk 0:01:43]} Rb1+ {[%clk 0:01:24]} 44. Kg2 {[%clk 0:01:42]} Rb2+ {[%clk 0:01:24]} 45. Kf3 {[%clk 0:01:41]} Rb3+ {[%clk 0:01:22]} 46. Kg2 {[%clk 0:01:41]} Rxg3+ {[%clk 0:01:21]} 47. Kxg3 {[%clk 0:01:40]} Ne3 {[%clk 0:01:20]} 48. Ne8+ {[%clk 0:01:38]} Ke7 {[%clk 0:01:15]} 49. Ng7 {[%clk 0:01:32]} d5 {[%clk 0:01:12]} 50. Kf3 {[%clk 0:01:32]} d4 {[%clk 0:01:11]}
+ 51. Nh5 {[%clk 0:01:30]} Nd5 {[%clk 0:01:01]} 52. Ke2 {[%clk 0:01:27]} Kd6 {[%clk 0:00:57]} 53. Kd3 {[%clk 0:01:26]} Kc5 {[%clk 0:00:56]} 54. h4 {[%clk 0:01:22]} Nb4+ {[%clk 0:00:53]} 55. Kd2 {[%clk 0:01:19]} Kc4 {[%clk 0:00:51]} 56. Ng7 {[%clk 0:01:18]} Kd5 {[%clk 0:00:45]} 57. Ne8 {[%clk 0:01:10]} Ke4 {[%clk 0:00:41]} 58. Nc7 {[%clk 0:01:02]} e5 {[%clk 0:00:37]} 59. fxe5 {[%clk 0:01:01]} Kxe5 {[%clk 0:00:37]} 60. Nb5 {[%clk 0:00:59]} Ke4 {[%clk 0:00:32]}
+ 61. Nd6+ {[%clk 0:00:58]} Kf4 {[%clk 0:00:32]} 62. Nf7 {[%clk 0:00:57]} h5 {[%clk 0:00:30]} 63. Nd6 {[%clk 0:00:53]} Kg4 {[%clk 0:00:28]} 64. Nb5 {[%clk 0:00:52]} d3 {[%clk 0:00:26]} 65. Nd4 {[%clk 0:00:50]} f4 {[%clk 0:00:24]} 66. Ne6 {[%clk 0:00:49]} f3 {[%clk 0:00:21]} 67. Ke3 {[%clk 0:00:48]} Kg3 {[%clk 0:00:17]} 68. Nd4 {[%clk 0:00:45]} f2 {[%clk 0:00:15]} 69. Nf5+ {[%clk 0:00:40]} Kg2 {[%clk 0:00:14]} 70. Ke4 {[%clk 0:00:36]} f1=Q {[%clk 0:00:13]}
+ 71. Ne3+ {[%clk 0:00:36]} Kg1 {[%clk 0:00:12]} 72. Nxf1 {[%clk 0:00:34]} Kxf1 {[%clk 0:00:11]} 73. Ke3 {[%clk 0:00:34]} Ke1 {[%clk 0:00:11]} 74. Kf4 {[%clk 0:00:30]} d2 {[%clk 0:00:11]} 75. Kg5 {[%clk 0:00:30]} d1=Q {[%clk 0:00:11]} 76. Kh6 {[%clk 0:00:29]} Qg4 {[%clk 0:00:10]} 77. Kh7 {[%clk 0:00:27]} Qxh4 {[%clk 0:00:10]} 78. Kh6 {[%clk 0:00:27]} Qg4 {[%clk 0:00:10]} 79. Kh7 {[%clk 0:00:26]} Ke2 {[%clk 0:00:09]} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.08"]
+[Round "?"]
+[White "Kosturss"]
+[Black "SKCC_LSMP"]
+[Result "1-0"]
+[WhiteElo "2036"]
+[BlackElo "2012"]
+[ECO "B20"]
+[Termination "Kosturss won by checkmate"]
+[TimeControl "300"]
+[EndTime "6:57:39 PDT"]
+
+1. e4 c5 2. Bc4 Nc6 3. f4 g6 4. Nf3 a6 5. c3 b5 6. Bb3 Bg7 7. O-O Bb7 8. d3 Rc8
+9. Be3 d6 10. Bc2 Nf6 11. Nbd2 Ng4 12. Qe2 Nxe3 13. Qxe3 h6 14. e5 Kf8 15. e6 f6
+16. d4 f5 17. d5 Na5 18. Qd3 Nc4 19. Nxc4 bxc4 20. Qxc4 Rb8 21. Qd3 Kg8 22. Rae1
+Kh7 23. b3 Rf8 24. c4 a5 25. g4 Qe8 26. Nh4 Bf6 27. g5 hxg5 28. fxg5 Bxg5 29.
+Qh3 Bxh4 30. Qxh4+ Kg7 31. Qg5 Rh8 32. Bxf5 Rh5 33. Qg4 Kh6 {[%c_highlight
+g5;keyPressed;none;opacity;0.8;square;g5;persistent;false]} 34. Bc2 Rg5 35. h3
+Rxg4+ 36. hxg4 Kg5 {[%cal dg5g4][%c_arrow
+g5g4;keyPressed;none;opacity;0.8;from;g5;to;g4;persistent;false]} 37. Re2 Qh8
+38. Rh2 Qd4+ {[%cal dd4g1][%c_arrow
+d4g1;keyPressed;none;opacity;0.8;from;d4;to;g1;persistent;false]} 39. Rff2 Rh8
+40. Rxh8 Qxh8 41. Be4 Qa1+ 42. Kg2 Qd4 {[%cal dd4e4][%c_arrow
+d4e4;keyPressed;none;opacity;0.8;from;d4;to;e4;persistent;false]} 43. Bf3 a4 44.
+Bd1 axb3 (44... Qxf2+ 45. Kxf2) 45. Bxb3 Qxg4+ 46. Kf1 Qd4 47. Rg2+ Kh6 48. Rf2
+Kg7 49. Rf7+ Kh6 50. Rxe7 Qf4+ (50... Qf6+ 51. Kg1 Qxe7 {[%cal de6e8][%c_arrow
+e6e8;keyPressed;none;opacity;0.8;from;e6;to;e8;persistent;false]}) (50... Qh4
+51. Rxb7 {[%cal de6e7,de7e8,db7e7][%c_arrow
+e6e7;keyPressed;none;opacity;0.8;from;e6;to;e7;persistent;false,e7e8;keyPressed;none;opacity;0.8;from;e7;to;e8;persistent;false,b7e7;keyPressed;none;opacity;0.8;from;b7;to;e7;persistent;false]})
+51. Ke2 Qg4+ 52. Kd3 {[%c_highlight
+d3;keyPressed;none;opacity;0.8;square;d3;persistent;false]} (52. Kd2 Qg5+ {[%cal
+dg5e7,dg5d2][%c_arrow
+g5e7;keyPressed;none;opacity;0.8;from;g5;to;e7;persistent;false,g5d2;keyPressed;none;opacity;0.8;from;g5;to;d2;persistent;false]})
+52... Qg3+ 53. Kc2 Ba6 54. Ra7 Qf2+ 55. Kd3 Qf1+ 56. Ke4 Bxc4 57. Bxc4 Qxc4+ 58.
+Ke3 Qxd5 59. e7 Qe5+ 60. Kd3 c4+ 61. Kxc4 Qe2+ 62. Kd5 Qd2+ 63. Ke6 Qe3+ 64. Kd7
+d5 65. e8=Q Qh3+ 66. Qe6 Qxe6+ 67. Kxe6 d4 68. Rd7 {[%cal dd7d1][%c_arrow
+d7d1;keyPressed;none;opacity;0.8;from;d7;to;d1;persistent;false]} 68... g5 69.
+Rxd4 g4 70. Rxg4 Kh5 71. Rg8 Kh6 {[%cal dg8g1][%c_arrow
+g8g1;keyPressed;none;opacity;0.8;from;g8;to;g1;persistent;false]} 72. Kf7 Kh5
+73. a4 Kh6 74. a5 Kh7 75. a6 Kh6 76. a7 Kh7 77. a8=Q Kh6 78. Qh1#
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.01.15"]
+[White "salvatorevazquez"]
+[Black "SKCC_LSMP"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1871"]
+[BlackElo "1864"]
+[TimeControl "300"]
+[EndTime "14:53:32 PST"]
+[Termination "SKCC_LSMP won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 {[%clk 0:04:59]} c5 {[%clk 0:04:59]} 2. Nc3 {[%clk 0:04:58]} Nc6 {[%clk 0:04:59]} 3. Nge2 {[%clk 0:04:57]} g6 {[%clk 0:04:59]} 4. Ng3 {[%clk 0:04:56]} Bg7 {[%clk 0:04:59]} 5. Be2 {[%clk 0:04:55]} d6 {[%clk 0:04:57]} 6. O-O {[%clk 0:04:55]} h5 {[%clk 0:04:56]} 7. d3 {[%clk 0:04:54]} h4 {[%clk 0:04:55]} 8. Nh1 {[%clk 0:04:53]} Nf6 {[%clk 0:04:55]} 9. h3 {[%clk 0:04:52]} Kf8 {[%clk 0:04:54]} 10. f4 {[%clk 0:04:51]} a6 {[%clk 0:04:52]}
+ 11. Nf2 {[%clk 0:04:50]} b5 {[%clk 0:04:51]} 12. Be3 {[%clk 0:04:47]} Nh5 {[%clk 0:04:49]} 13. Bxh5 {[%clk 0:04:43]} Rxh5 {[%clk 0:04:46]} 14. Ng4 {[%clk 0:04:38]} Qa5 {[%clk 0:04:29]} 15. f5 {[%clk 0:04:35]} gxf5 {[%clk 0:04:21]} 16. exf5 {[%clk 0:04:34]} Rxf5 {[%clk 0:04:15]} 17. Rxf5 {[%clk 0:04:24]} Bxf5 {[%clk 0:04:15]} 18. Nd5 {[%clk 0:04:23]} Rb8 {[%clk 0:03:41]} 19. c3 {[%clk 0:04:16]} Ne5 {[%clk 0:03:37]} 20. Nxe5 {[%clk 0:04:10]} Bxe5 {[%clk 0:03:35]}
+ 21. Bf4 {[%clk 0:04:04]} Bxf4 {[%clk 0:03:08]} 22. Nxf4 {[%clk 0:04:02]} Qa4 {[%clk 0:03:06]} 23. Qh5 {[%clk 0:03:55]} f6 {[%clk 0:02:30]} 24. Qh8+ {[%clk 0:03:45]} Kf7 {[%clk 0:02:27]} 25. Qxb8 {[%clk 0:03:44]} Qxf4 {[%clk 0:02:25]} 26. a4 {[%clk 0:03:38]} Qe3+ {[%clk 0:02:20]} 27. Kh1 {[%clk 0:03:35]} Qxd3 {[%clk 0:02:17]} 28. axb5 {[%clk 0:03:32]} axb5 {[%clk 0:02:17]} 29. Qh8 {[%clk 0:03:25]} Be4 {[%clk 0:02:12]} 30. Qxh4 {[%clk 0:03:20]} Qc2 {[%clk 0:02:08]}
+ 31. Rg1 {[%clk 0:03:17]} d5 {[%clk 0:02:04]} 32. b4 {[%clk 0:03:14]} Qxc3 {[%clk 0:01:52]} 33. bxc5 {[%clk 0:03:13]} Qxc5 {[%clk 0:01:50]} 34. Qh8 {[%clk 0:03:08]} b4 {[%clk 0:01:45]} 35. Qh5+ {[%clk 0:03:04]} Bg6 {[%clk 0:01:40]} 36. Qe2 {[%clk 0:02:56]} b3 {[%clk 0:01:36]} 37. Re1 {[%clk 0:02:55]} Be4 {[%clk 0:01:14]} 38. Qh5+ {[%clk 0:02:40]} Kg7 {[%clk 0:01:08]} 39. Qg4+ {[%clk 0:02:36]} Kf8 {[%clk 0:01:02]} 40. Qg3 {[%clk 0:02:33]} Qb4 {[%clk 0:00:54]}
+ 41. Kh2 {[%clk 0:02:14]} b2 {[%clk 0:00:51]} 42. Qh4 {[%clk 0:02:05]} Qxe1 {[%clk 0:00:39]} 43. Qxe1 {[%clk 0:02:02]} b1=Q {[%clk 0:00:38]} 44. Qa5 {[%clk 0:02:00]} Qf1 {[%clk 0:00:29]} 45. Qd2 {[%clk 0:01:57]} Kf7 {[%clk 0:00:23]} 46. h4 {[%clk 0:01:53]} Bxg2 {[%clk 0:00:18]} 47. Qxg2 {[%clk 0:01:46]} Qxg2+ {[%clk 0:00:17]} 48. Kxg2 {[%clk 0:01:45]} e5 {[%clk 0:00:17]} 49. Kf3 {[%clk 0:01:44]} f5 {[%clk 0:00:17]} 50. h5 {[%clk 0:01:43]} Kg7 {[%clk 0:00:16]}
+ 51. Ke3 {[%clk 0:01:41]} Kh6 {[%clk 0:00:16]} 52. Kd3 {[%clk 0:01:40]} Kxh5 {[%clk 0:00:16]} 53. Kc3 {[%clk 0:01:39]} Kg5 {[%clk 0:00:15]} 54. Kb4 {[%clk 0:01:38]} f4 {[%clk 0:00:15]} 55. Kc5 {[%clk 0:01:37]} e4 {[%clk 0:00:15]} 56. Kxd5 {[%clk 0:01:36]} f3 {[%clk 0:00:15]} 57. Kxe4 {[%clk 0:01:35]} f2 {[%clk 0:00:15]} 58. Kd5 {[%clk 0:01:33]} f1=Q {[%clk 0:00:15]} 59. Kd4 {[%clk 0:01:32]} Qf8 {[%clk 0:00:15]} 60. Kd5 {[%clk 0:01:31]} Kf4 {[%clk 0:00:15]}
+ 61. Ke6 {[%clk 0:01:28]} Qe8+ {[%clk 0:00:15]} 62. Kd5 {[%clk 0:01:27]} Qe5+ {[%clk 0:00:14]} 63. Kc6 {[%clk 0:01:26]} Qd4 {[%clk 0:00:13]} 64. Kc7 {[%clk 0:01:23]} Ke5 {[%clk 0:00:13]} 65. Kc6 {[%clk 0:01:21]} Qb4 {[%clk 0:00:12]} 66. Kd7 {[%clk 0:01:19]} Qd6+ {[%clk 0:00:11]} 67. Kc8 {[%clk 0:01:18]} Qe7 {[%clk 0:00:10]} 68. Kb8 {[%clk 0:01:15]} Kd6 {[%clk 0:00:10]} 69. Ka8 {[%clk 0:01:14]} Kc6 {[%clk 0:00:10]} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.01.29"]
+[White "SKCC_LSMP"]
+[Black "FCWaffle"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "1842"]
+[BlackElo "1810"]
+[TimeControl "300"]
+[EndTime "10:58:41 PST"]
+[Termination "SKCC_LSMP won by checkmate"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:04:58]} d5 {[%clk 0:04:59]} 2. c4 {[%clk 0:04:58]} e6 {[%clk 0:04:58]} 3. Nc3 {[%clk 0:04:57]} a6 {[%clk 0:04:57]} 4. cxd5 {[%clk 0:04:56]} exd5 {[%clk 0:04:57]} 5. Bf4 {[%clk 0:04:56]} Nf6 {[%clk 0:04:56]} 6. e3 {[%clk 0:04:55]} Be6 {[%clk 0:04:53]} 7. Bd3 {[%clk 0:04:52]} Bd6 {[%clk 0:04:47]} 8. Bxd6 {[%clk 0:04:50]} Qxd6 {[%clk 0:04:47]} 9. Nf3 {[%clk 0:04:48]} Nbd7 {[%clk 0:04:45]} 10. O-O {[%clk 0:04:46]} c5 {[%clk 0:04:44]}
+ 11. Rc1 {[%clk 0:04:43]} c4 {[%clk 0:04:42]} 12. Bb1 {[%clk 0:04:41]} b5 {[%clk 0:04:39]} 13. Ne1 {[%clk 0:04:39]} b4 {[%clk 0:04:32]} 14. Ne2 {[%clk 0:04:32]} a5 {[%clk 0:04:14]} 15. Nf4 {[%clk 0:04:00]} O-O {[%clk 0:03:58]} 16. f3 {[%clk 0:03:53]} a4 {[%clk 0:03:41]} 17. Nxe6 {[%clk 0:03:43]} fxe6 {[%clk 0:03:40]} 18. e4 {[%clk 0:03:41]} Qb6 {[%clk 0:03:31]} 19. e5 {[%clk 0:03:35]} Nxe5 {[%clk 0:03:25]} 20. f4 {[%clk 0:03:18]} Nc6 {[%clk 0:03:23]}
+ 21. Nf3 {[%clk 0:03:16]} Ng4 {[%clk 0:03:07]} 22. Re1 {[%clk 0:02:49]} Rxf4 {[%clk 0:02:59]} 23. Rxe6 {[%clk 0:02:35]} Raf8 {[%clk 0:02:36]} 24. h3 {[%clk 0:02:19]} Nf6 {[%clk 0:02:34]} 25. Kh2 {[%clk 0:01:57]} Re8 {[%clk 0:02:00]} 26. Qe2 {[%clk 0:01:45]} Kf7 {[%clk 0:01:36]} 27. Ng5+ {[%clk 0:01:29]} Kf8 {[%clk 0:01:17]} 28. Rxe8+ {[%clk 0:01:19]} Nxe8 {[%clk 0:01:12]} 29. Ne6+ {[%clk 0:01:07]} Kg8 {[%clk 0:01:06]} 30. Bxh7+ {[%clk 0:00:50]} Kxh7 {[%clk 0:00:58]}
+ 31. Qh5+ {[%clk 0:00:47]} Kg8 {[%clk 0:00:56]} 32. Qxe8+ {[%clk 0:00:45]} Kh7 {[%clk 0:00:53]} 33. Nxf4 {[%clk 0:00:41]} Qxd4 {[%clk 0:00:36]} 34. Qg6+ {[%clk 0:00:21]} Kg8 {[%clk 0:00:31]} 35. Qe8+ {[%clk 0:00:19]} Kh7 {[%clk 0:00:29]} 36. Qh5+ {[%clk 0:00:19]} Kg8 {[%clk 0:00:28]} 37. Qxd5+ {[%clk 0:00:19]} Qxd5 {[%clk 0:00:24]} 38. Nxd5 {[%clk 0:00:19]} Ne5 {[%clk 0:00:21]} 39. Nxb4 {[%clk 0:00:17]} Kf7 {[%clk 0:00:20]} 40. Nc6 {[%clk 0:00:15]} Nxc6 {[%clk 0:00:18]}
+ 41. Rxc4 {[%clk 0:00:14]} Ne5 {[%clk 0:00:17]} 42. Rxa4 {[%clk 0:00:14]} Kf6 {[%clk 0:00:16]} 43. Ra6+ {[%clk 0:00:13]} Ke7 {[%clk 0:00:15]} 44. a4 {[%clk 0:00:13]} Kd7 {[%clk 0:00:14]} 45. Rb6 {[%clk 0:00:13]} Kc7 {[%clk 0:00:13]} 46. Rb5 {[%clk 0:00:13]} Nc6 {[%clk 0:00:12]} 47. b4 {[%clk 0:00:13]} Kc8 {[%clk 0:00:10]} 48. Rc5 {[%clk 0:00:12]} Kb7 {[%clk 0:00:09]} 49. Rxc6 {[%clk 0:00:12]} Kxc6 {[%clk 0:00:08]} 50. a5 {[%clk 0:00:11]} Kb5 {[%clk 0:00:08]}
+ 51. Kg3 {[%clk 0:00:10]} Ka6 {[%clk 0:00:06]} 52. Kg4 {[%clk 0:00:09]} Kb5 {[%clk 0:00:06]} 53. Kg5 {[%clk 0:00:09]} Ka6 {[%clk 0:00:05]} 54. Kg6 {[%clk 0:00:07]} Kb5 {[%clk 0:00:05]} 55. Kxg7 {[%clk 0:00:07]} Kxb4 {[%clk 0:00:05]} 56. a6 {[%clk 0:00:05]} Ka5 {[%clk 0:00:05]} 57. a7 {[%clk 0:00:05]} Kb4 {[%clk 0:00:04]} 58. a8=Q {[%clk 0:00:05]} Kc4 {[%clk 0:00:04]} 59. Qd8 {[%clk 0:00:04]} Kc5 {[%clk 0:00:03]} 60. Kf6 {[%clk 0:00:04]} Kc4 {[%clk 0:00:02]}
+ 61. Ke6 {[%clk 0:00:04]} Kc5 {[%clk 0:00:02]} 62. h4 {[%clk 0:00:03]} Kc4 {[%clk 0:00:02]} 63. h5 {[%clk 0:00:03]} Kc5 {[%clk 0:00:02]} 64. h6 {[%clk 0:00:03]} Kc4 {[%clk 0:00:02]} 65. h7 {[%clk 0:00:03]} Kc5 {[%clk 0:00:02]} 66. h8=R {[%clk 0:00:03]} Kc4 {[%clk 0:00:01]} 67. Rh7 {[%clk 0:00:02]} Kc5 {[%clk 0:00:01]} 68. Rc7+ {[%clk 0:00:02]} Kb5 {[%clk 0:00:00]} 69. Qb8+ {[%clk 0:00:02]} Ka5 {[%clk 0:00:00]} 70. Ra7# {[%clk 0:00:02]}
+ 1-0

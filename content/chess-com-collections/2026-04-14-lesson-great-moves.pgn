@@ -1,0 +1,72 @@
+[Event "Thun"]
+[Site "Thun SUI"]
+[Date "1994.05.07"]
+[Round "5"]
+[White "Rene Meier"]
+[Black "Stefan Mueller"]
+[Result "1-0"]
+[ECO "A04"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. d3 Bg7 5. e4 e6 6. O-O Nge7 7. Nbd2 O-O 8. Re1
+d5 9. c3 b6 10. Nf1 Ba6 11. e5 Rc8 12. Bf4 b5 13. a3 Qb6 14. Qd2 Rfd8 15. Bh6
+Bh8 16. Qf4 Rd7 17. Ne3 d4 18. Ng5 Nf5 19. Nxf5 exf5 20. e6 fxe6 21. Rxe6 Bb7
+22. Rae1 Qd8 (22... a5 23. Re8+ Rxe8 24. Rxe8#) 23. Qc7 Rdxc7 (23... Rcxc7 24.
+Re8+ Qxe8 25. Rxe8#) (23... Qxc7 24. Re8+ Rxe8) 24. Re8+ (24. Rd6 Qxd6) 24...
+Qxe8 25. Bd5+ Qe6 26. Bxe6+ Rf7 27. Bxf7#
+1-0
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1998.03.04"]
+[Round "10"]
+[White "Veselin Topalov"]
+[Black "Alexey Shirov"]
+[Result "*"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8.
+Ba4 O-O 9. Ne2 Nd7 10. O-O e5 11. f3 Qe7 12. Be3 Rd8 13. Qc2 Nb6 14. Bb3 Be6 15.
+Rad1 Nc4 16. Bc1 b5 17. f4 exd4 18. Nxd4 Bg4 19. Rde1 Qc5 20. Kh1 a5 21. h3 Bd7
+22. a4 bxa4 23. Ba2 Be8 24. e5 Nb6 25. f5 Nd5 26. Bd2 Nb4 27. Qxa4 Nxa2 28. Qxa2
+Bxe5 29. fxg6 hxg6 30. Bg5 Rd5 31. Re3 Qd6 32. Qe2 Bd7 33. c4 Bxd4 34. cxd5 Bxe3
+35. Qxe3 Re8 36. Qc3 Qxd5 37. Bh6 Re5 38. Rf3 Qc5 39. Qa1 Bf5 40. Re3 f6 41.
+Rxe5 Qxe5 42. Qa2+ Qd5 43. Qxd5+ cxd5 44. Bd2 {[%cal dd2a5][%c_arrow
+d2a5;keyPressed;none;opacity;0.8;from;d2;to;a5;persistent;false]} 44... a4 45.
+Bc3 {[%c_highlight
+a4;keyPressed;none;opacity;0.8;square;a4;persistent;false,d5;keyPressed;none;opacity;0.8;square;d5;persistent;false]}
+45... Kf7 46. h4 Ke6 47. Kg1 Bh3 (47... Bg4 48. Kf2 Kf5 49. Ke3) 48. gxh3 Kf5
+49. Kf2 Ke4 50. Bxf6 d4 {[%cal da4a1,df6b2][%c_arrow
+a4a1;keyPressed;none;opacity;0.8;from;a4;to;a1;persistent;false,f6b2;keyPressed;none;opacity;0.8;from;f6;to;b2;persistent;false]}
+(50... Kf5 51. Be7 {[%cal de7b4,db4d2,db4a3][%c_arrow
+e7b4;keyPressed;none;opacity;0.8;from;e7;to;b4;persistent;false,b4d2;keyPressed;none;opacity;0.8;from;b4;to;d2;persistent;false,b4a3;keyPressed;none;opacity;0.8;from;b4;to;a3;persistent;false]})
+51. Be7 {[%cal de7a3][%c_arrow
+e7a3;keyPressed;none;opacity;0.8;from;e7;to;a3;persistent;false]} 51... Kd3 52.
+Bc5 Kc4 53. Be7 Kb3 54. Ke2 a3 (54... Kc3 55. Kd1) (54... Kc2 55. Bb4 d3+ 56.
+Ke1 d2+ (56... a3 57. Bxa3 d2+ 58. Ke2 d1=Q+)) 55. Bxa3 Kxa3 {[%cal
+dh4h8][%c_arrow
+h4h8;keyPressed;none;opacity;0.8;from;h4;to;h8;persistent;false]} *
+
+[Event "Madrid"]
+[Site "Madrid ESP"]
+[Date "1933.06.??"]
+[Round "?"]
+[White "Martin Ortueta Esteban"]
+[Black "Jose Sanz Aguado"]
+[Result "*"]
+[ECO "C00"]
+
+1. e4 e6 2. d3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 Bb4 6. Bd2 O-O 7. Nf3 f6 8. d4 c5
+9. Nb5 fxe5 10. dxe5 Rxf4 11. c3 Re4+ 12. Be2 Ba5 13. O-O Nxe5 14. Nxe5 Rxe5 15.
+Bf4 Rf5 16. Bd3 Rf6 17. Qc2 h6 18. Be5 Nd7 19. Bxf6 Nxf6 20. Rxf6 Qxf6 21. Rf1
+Qe7 22. Bh7+ Kh8 23. Qg6 Bd7 24. Rf7 Qg5 25. Qxg5 hxg5 26. Rxd7 Kxh7 27. Rxb7
+Bb6 28. c4 dxc4 29. Nc3 Rd8 30. h3 Rd2 {[%c_highlight
+b2;keyPressed;none;opacity;0.8;square;b2;persistent;false]} (30... g4 31. hxg4)
+31. Na4 {[%cal da4b2][%c_arrow
+a4b2;keyPressed;none;opacity;0.8;from;a4;to;b2;persistent;false]} 31... Rxb2 32.
+Nxb2 c3 33. Rxb6 (33. Nd3 c4+ 34. Rxb6 cxd3 35. Rb1 (35. Rc6) 35... c2 36. Rc1
+d2) 33... c4 (33... cxb2 34. Rxb2 {[%cal db2c2,dc2c7][%c_arrow
+b2c2;keyPressed;none;opacity;0.8;from;b2;to;c2;persistent;false,c2c7;keyPressed;none;opacity;0.8;from;c2;to;c7;persistent;false]})
+(33... c2 34. Nd3 c4 35. Nc1 axb6) 34. Rb4 (34. Nxc4 c2) (34. Nd1 c2) 34... a5
+(34... cxb2 35. Rxb2 {[%c_highlight
+c4;keyPressed;none;opacity;0.8;square;c4;persistent;false,a7;keyPressed;none;opacity;0.8;square;a7;persistent;false]})
+(34... c2 35. Rxc4) 35. Nxc4 (35. Rxc4 cxb2 36. Rc1 bxc1=Q+) 35... c2 *

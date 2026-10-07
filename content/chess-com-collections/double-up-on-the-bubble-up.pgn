@@ -1,0 +1,22 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.16"]
+[Round "?"]
+[White "SKCC_LSMP"]
+[Black "RaritanIng"]
+[Result "1-0"]
+[WhiteElo "1938"]
+[BlackElo "1827"]
+[ECO "A54"]
+[Termination "SKCC_LSMP won by checkmate"]
+[TimeControl "300"]
+[EndTime "7:40:49 PST"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. d5 Bf5 5. Bg5 Be7 6. e3 h6 7. Bxf6 Bxf6 8. e4
+Bc8 9. Bd3 O-O 10. Nge2 a5 11. O-O Nd7 12. Rc1 Nc5 13. Bb1 g6 14. b3 Bg7 15. f4
+f5 16. a3 Nxe4 17. Nxe4 fxe4 18. Bxe4 Bf5 19. Ng3 Bxe4 20. Nxe4 exf4 21. Qg4 Qe8
+22. Rfe1 Qf7 23. c5 Be5 24. cxd6 cxd6 25. Rc4 Kh7 26. Rec1 Rae8 27. Qh3 Qf5 28.
+Rc7+ Bg7 29. Qxf5 gxf5 30. Nxd6 Rd8 31. Nxb7 Rxd5 32. Re7 Rb5 33. Rcc7 Rg8 34.
+Nd6 Rd5 35. Ne8 Kh8 36. Nxg7 Rb5 37. Nh5 Rgb8 38. Rh7+ Kg8 39. Rcg7+ Kf8 40.
+Rh8#
+1-0

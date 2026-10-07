@@ -1,0 +1,89 @@
+{
+  "term": "Lichess Taster",
+  "pages": [
+    {
+      "title": "Tactics: Forks",
+      "description": "Attack two things at once and win material.",
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "061vt",
+          "hint_tier": "R1",
+          "hint_tier_target": "R1"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "09jql",
+          "hint_tier": "R3",
+          "hint_tier_target": "R3"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "01uSL",
+          "hint_tier": "R2",
+          "hint_tier_target": "R2"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "09ppX",
+          "hint_tier": "R1",
+          "hint_tier_target": "R1"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0CPHS",
+          "hint_tier": "R3",
+          "hint_tier_target": "R3"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "02Jb3",
+          "hint_tier": "R3",
+          "hint_tier_target": "R3"
+        }
+      ]
+    },
+    {
+      "title": "Checkmate in 2",
+      "description": "Find the forced checkmate in two moves.",
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0AgHL",
+          "hint_tier": "R1",
+          "hint_tier_target": "R1"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0AtFS",
+          "hint_tier": "R3",
+          "hint_tier_target": "R3"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "043Mi",
+          "hint_tier": "R1",
+          "hint_tier_target": "R1"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "07xqL",
+          "hint_tier": "R3",
+          "hint_tier_target": "R3"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0BmKe",
+          "hint_tier": "R3",
+          "hint_tier_target": "R3"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0BTSe",
+          "hint_tier": "R2",
+          "hint_tier_target": "R2"
+        }
+      ]
+    }
+  ]
+}

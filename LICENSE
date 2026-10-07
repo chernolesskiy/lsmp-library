@@ -1,0 +1,28 @@
+lsmp-library: licence
+
+Copyright (c) 2026 LSMP
+
+1. LSMP's own material
+   The collection files as assembled and annotated by LSMP, the puzzle selections, the hints,
+   the sheet layouts, the puzzle data files, the README, AGENTS and index files, and this library as a whole are licensed under the
+   Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0):
+   https://creativecommons.org/licenses/by-nc/4.0/
+   The full legal code is at https://creativecommons.org/licenses/by-nc/4.0/legalcode
+   You may copy, share and adapt this material for non-commercial purposes if you give credit,
+   link to the licence and indicate changes. Suggested credit:
+   "lsmp-library, Copyright (c) 2026 LSMP, CC BY-NC 4.0".
+
+2. Lichess puzzle data
+   Puzzle positions, ids, ratings and themes come from the Lichess puzzle database
+   (https://database.lichess.org/#puzzles), released under Creative Commons CC0 1.0 (public
+   domain dedication). That data is free to use without conditions. It is credited in
+   the credits, content/chess-com-collections/sources.md. The hints, selection and sheet design that LSMP added to it fall under clause 1.
+
+3. Third-party material
+   Games and annotations made by others (for example Lichess study authors and chess.com
+   lesson authors), the typeface embedded in the PDF sheets, and the board and piece artwork
+   in the PDF sheet diagrams are not LSMP's own material and are not covered by clause 1.
+   They remain with their owners. Credits are in content/chess-com-collections/sources.md and, per game, in the PGN
+   header tags (Source, Annotator, StudyName, ChapterURL, GameURL). Please keep them.
+
+Pupils' names are deliberately absent from this library. Please do not try to restore them.

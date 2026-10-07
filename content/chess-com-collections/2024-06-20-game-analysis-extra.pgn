@@ -1,0 +1,45 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3R4/8/5K2/7k/8/8/8 w - - 0 1"]
+
+*
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.20"]
+[White "stefaroi01"]
+[Black "Glaurung1379"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1166"]
+[BlackElo "1210"]
+[TimeControl "600"]
+[EndTime "3:18:38 PDT"]
+[Termination "Glaurung1379 won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:10:00]} d5 {[%clk 0:09:57]} 2. e3 {[%clk 0:09:57]} Nc6 {[%clk 0:09:51]} 3. Bb5 {[%clk 0:09:53]} Bd7 {[%clk 0:09:45]} 4. Bxc6 {[%clk 0:09:52]} Bxc6 {[%clk 0:09:45]} 5. c3 {[%clk 0:09:51]} f6 {[%clk 0:09:35]} 6. g3 {[%clk 0:09:39]} e5 {[%clk 0:09:33]} 7. Ne2 {[%clk 0:09:35]} Bd6 {[%clk 0:09:21]} 8. O-O {[%clk 0:09:22]} Nh6 {[%clk 0:09:19]} 9. b4 {[%clk 0:09:04]} a5 {[%clk 0:09:09]} 10. Ba3 {[%clk 0:08:59]} axb4 {[%clk 0:09:03]}
+ 11. Bxb4 {[%clk 0:08:53]} Bxb4 {[%clk 0:09:00]} 12. cxb4 {[%clk 0:08:51]} Bb5 {[%clk 0:08:57]} 13. Nbc3 {[%clk 0:08:46]} Bc4 {[%clk 0:08:52]} 14. a4 {[%clk 0:08:35]} Qd6 {[%clk 0:08:43]} 15. b5 {[%clk 0:08:22]} b6 {[%clk 0:08:37]} 16. Qc2 {[%clk 0:07:57]} c6 {[%clk 0:08:34]} 17. bxc6 {[%clk 0:07:35]} Qxc6 {[%clk 0:08:32]} 18. Rfb1 {[%clk 0:07:24]} Bxe2 {[%clk 0:08:23]} 19. Qxe2 {[%clk 0:06:53]} Qxc3 {[%clk 0:08:13]} 20. Qb5+ {[%clk 0:06:51]} Kf7 {[%clk 0:07:58]}
+ 21. Qxb6 {[%clk 0:06:48]} Rhe8 {[%clk 0:07:36]} 22. Qb7+ {[%clk 0:06:37]} Kg6 {[%clk 0:07:14]} 23. Qxd5 {[%clk 0:06:34]} Nf5 {[%clk 0:06:24]} 24. Qe4 {[%clk 0:06:23]} Kg5 {[%clk 0:06:14]} 25. h4+ {[%clk 0:06:13]} Kg6 {[%clk 0:05:54]} 26. Qg4+ {[%clk 0:06:00]} Kf7 {[%clk 0:05:34]} 27. Qxf5 {[%clk 0:05:58]} g6 {[%clk 0:05:28]} 28. Rb7+ {[%clk 0:05:54]} Re7 {[%clk 0:05:21]} 29. Qe6+ {[%clk 0:05:52]} Kxe6 {[%clk 0:05:15]} 30. Rxe7+ {[%clk 0:05:36]} Kxe7 {[%clk 0:05:13]}
+ 31. Rf1 {[%clk 0:05:30]} Rxa4 {[%clk 0:05:04]} 32. Kg2 {[%clk 0:05:26]} exd4 {[%clk 0:04:57]} 33. exd4 {[%clk 0:05:24]} Rxd4 {[%clk 0:04:56]} 34. f3 {[%clk 0:05:09]} Rd2+ {[%clk 0:04:53]} 35. Rf2 {[%clk 0:05:07]} Rxf2+ {[%clk 0:04:51]} 36. Kxf2 {[%clk 0:05:05]} Qd2+ {[%clk 0:04:50]} 37. Kg1 {[%clk 0:05:03]} Qe1+ {[%clk 0:04:44]} 38. Kg2 {[%clk 0:05:01]} h6 {[%clk 0:04:42]} 39. g4 {[%clk 0:04:58]} Qxh4 {[%clk 0:04:38]} 40. Kf1 {[%clk 0:04:55]} Qh1+ {[%clk 0:04:36]}
+ 41. Kf2 {[%clk 0:04:52]} h5 {[%clk 0:04:34]} 42. gxh5 {[%clk 0:04:51]} gxh5 {[%clk 0:04:33]} 43. Kg3 {[%clk 0:04:50]} Qg1+ {[%clk 0:04:28]} 44. Kf4 {[%clk 0:04:47]} Qg5+ {[%clk 0:04:25]} 45. Ke4 {[%clk 0:04:43]} Qe5+ {[%clk 0:04:24]} 46. Kd3 {[%clk 0:04:41]} h4 {[%clk 0:04:21]} 47. Kd2 {[%clk 0:04:38]} h3 {[%clk 0:04:20]} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 dxc4 7. Bxc4 b5 8. Bd3
+Be7 9. e4 a6 10. e5 Nd5 11. Ne4 h6 12. Nd6+ Kf8 13. Bxe7+ Qxe7 14. Rc1 Nb4 15.
+a3 Nxd3+ 16. Qxd3 Nf6 17. Nxc8 Rxc8 18. exf6 Qxf6 19. O-O Qe7 20. Ne5 Qd6 21.
+Qf3 Qe7 22. Ng6+ *

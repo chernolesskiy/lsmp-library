@@ -1,0 +1,168 @@
+[Event "US Championship 1963/64"]
+[Site "New York, NY USA"]
+[Date "1963.12.18"]
+[Round "3"]
+[White "Robert Eugene Byrne"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[ECO "E60"]
+
+1. d4 {Notes from various sources.} 1... Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5
+{5.Qb3 maintains more tension. -- Fischer} 5... cxd5 6. Nc3 Bg7 7. e3 O-O 8.
+Nge2 Nc6 9. O-O b6 10. b3 {It's hard for either side to introduce an imbalance
+into this essentially symmetrical variation. Deadeye equality also ensues afer
+10.Nf4 e6 11.b3 Ba6 12.Re1 Rc8 13.Ba3 Re8 14.Rc1 (Stahlberg-Flohr, Kemeri 1937)
+-- Fischer} 10... Ba6 11. Ba3 {After White's 11th move I should adjudicate his
+position as slightly superior, and at worst completely safe. To turn this into a
+mating position in eleven more moves is more witchcraft than chess! Quite
+honestly, I do not see the man who can stop Bobby at this time. -- K.F. Kirby,
+South African Chess Quarterly} 11... Re8 12. Qd2 e5 {! I was a bit worried about
+weakening my QP, but felt that the tremendous activity obtained by my minor
+pieces would permit White no time to exploit it. 12...e6 would probably lead to
+a draw. -- Fischer} 13. dxe5 Nxe5 14. Rfd1 {\\\"Add another to those melancholy
+case histories entitled: The Wrong Rook.\\\" -- Fischer ~ \\\"This is very much
+a case of 'the wrong rook'. One can understand Byrne's desire to break the pin
+on the e2-knight, but this turns out to be less important than other
+considerations. Fischer spends a lot of time and energy analysing the superior
+14. Rad1!, but still comes to the conclusion that Black can keep the
+advantage.\\\" -- John Nunn} 14... Nd3 {Now it's all systems go for the Fischer
+rocket. -- Robert Wade} 15. Qc2 {There is hardly any other defense to the threat
+of ...Ne4. -- Fischer} 15... Nxf2 {! The key to Black's previous play. The
+complete justification for this sac does not become apparent until White
+resigns! -- Fischer} 16. Kxf2 Ng4+ 17. Kg1 Nxe3 18. Qd2 {Byrne: As I sat
+pondering why Fischer would choose such a line, because it was so obviously lost
+for Black, there suddenly comes...} 18... Nxg2 {!! This dazzling move came as
+the shocker... the culminating combination is of such depth that, even at the
+very moment at which I resigned, both grandmasters who were commenting on the
+play for the spectators in a separate room believed I had a won game! -- Robert
+Byrne} 19. Kxg2 d4 {!} 20. Nxd4 Bb7+ {The King is at Black's mercy. -- Fischer}
+21. Kf1 {In a room set aside for commentaries on the games in progress, two
+grandmasters were stating, for the benefit of the spectators, that Byrne had a
+won game. Byrne's reply to Fischer's next move must have been jaw dropping! --
+Wade} 21... Qd7 {And White
+resigns. Fischer writes: \\\"A bitter disappointment. I'd hoped for 22.Qf2 Qh3+
+23.Kg1 Re1+!! 24.Rxe1 Bxd4 with mate to follow shortly.\\\"} 0-1
+
+[Event "Sousse Interzonal"]
+[Site "Sousse TUN"]
+[Date "1967.10.15"]
+[Round "3"]
+[White "Robert James Fischer"]
+[Black "Lhamsuren Myagmarsuren"]
+[Result "1-0"]
+[EventDate "1967.??.??"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 c5 5. Bg2 Nc6 6. Ngf3 Be7 7. O-O O-O 8. e5
+Nd7 9. Re1 b5 10. Nf1 b4 11. h4 a5 12. Bf4 a4 13. a3 bxa3 14. bxa3 Na5 15. Ne3
+Ba6 16. Bh3 d4 17. Nf1 Nb6 18. Ng5 Nd5 19. Bd2 Bxg5 20. Bxg5 Qd7 21. Qh5 Rfc8
+22. Nd2 Nc3 23. Bf6 Qe8 24. Ne4 g6 25. Qg5 Nxe4 26. Rxe4 c4 27. h5 cxd3 28. Rh4
+Ra7 29. Bg2 dxc2 30. Qh6 Qf8 31. Qxh7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.01"]
+[Round "?"]
+[White "theHamsterKickerReturns"]
+[Black "HieuFISH"]
+[Result "1-0"]
+[TimeControl "300"]
+[WhiteElo "1918"]
+[BlackElo "1974"]
+[Termination "theHamsterKickerReturns hat durch Aufgabe gewonnen"]
+[ECO "B10"]
+[EndTime "9:32:17 GMT+0000"]
+[Link "https://www.chess.com/analysis/library/3FrL9kx4K8"]
+
+1. e4 {[%clk 0:04:58.1][%timestamp 19]} 1... c6 {[%clk 0:04:59][%timestamp 10]}
+2. Bc4 {[%clk 0:04:56.3][%timestamp 18]} 2... d5 {[%clk 0:04:58.2][%timestamp
+8]} 3. exd5 {[%clk 0:04:55.1][%timestamp 12]} 3... cxd5 {[%clk
+0:04:58.1][%timestamp 1]} 4. Bb5+ {[%clk 0:04:54.3][%timestamp 8]} 4... Bd7
+{[%clk 0:04:57.1][%timestamp 10]} 5. Bxd7+ {[%clk 0:04:52.9][%timestamp 14]}
+5... Qxd7 {[%clk 0:04:56.7][%timestamp 4]} 6. Nc3 {[%clk 0:04:52.7][%timestamp
+2]} 6... e6 {[%clk 0:04:54.2][%timestamp 25]} 7. f4 {[%clk 0:04:52][%timestamp
+7]} 7... Bd6 {[%clk 0:04:52][%timestamp 22]} 8. d4 {[%clk 0:04:50.1][%timestamp
+19]} 8... Nc6 {[%clk 0:04:50.8][%timestamp 12]} 9. Nf3 {[%clk
+0:04:48.6][%timestamp 15]} 9... Nf6 {[%clk 0:04:49.5][%timestamp 13]} 10. Ne5
+{[%clk 0:04:47.2][%timestamp 14]} 10... Qc7 {[%clk 0:04:40.2][%timestamp 93]}
+11. O-O {[%clk 0:04:43.6][%timestamp 36]} 11... a6 {[%clk 0:04:24.7][%timestamp
+155]} 12. Ne2 {[%clk 0:04:26.8][%timestamp 168]} 12... Ne4 {[%clk
+0:04:19.9][%timestamp 48]} 13. c3 {[%clk 0:04:24.2][%timestamp 26]} 13... Bxe5
+{[%clk 0:04:10.6][%timestamp 93]} 14. fxe5 {[%clk 0:04:21.2][%timestamp 30]}
+14... Qb6 {[%clk 0:04:06.6][%timestamp 40]} 15. Kh1 {[%clk 0:04:17.4][%timestamp
+38]} 15... O-O {[%clk 0:03:55.6][%timestamp 110]} 16. Ng3 {[%clk
+0:04:14.3][%timestamp 31]} 16... Nxg3+ {[%clk 0:03:51.6][%timestamp 40]} 17.
+hxg3 {[%clk 0:04:11.9][%timestamp 24]} 17... Rfc8 {[%clk 0:03:45][%timestamp
+66]} 18. Qe2 {[%clk 0:04:00.3][%timestamp 116]} 18... Na5 {[%clk
+0:03:35.9][%timestamp 91]} 19. Bg5 {[%clk 0:03:57.8][%timestamp 25]} 19... h6
+{[%clk 0:03:27][%timestamp 89]} 20. Bf6 {[%clk 0:03:55.1][%timestamp 27]} 20...
+gxf6 {[%clk 0:02:18.9][%timestamp 681]} 21. Rxf6 {[%clk 0:03:46.2][%timestamp
+89]} 21... Rc7 {[%clk 0:02:05.5][%timestamp 134]} 22. Qh5 {[%clk
+0:03:43.3][%timestamp 29]} 22... Kf8 {[%clk 0:02:01][%timestamp 45]} 23. Raf1
+{[%clk 0:03:38.3][%timestamp 50]} 1-0
+
+[Event "Leipzig ol (Men) qual-D"]
+[Site "Leipzig GDR"]
+[Date "1960.10.24"]
+[Round "8"]
+[White "Rene Letelier Martner"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "E70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. e5 Ne8 6. f4 d6 7. Be3 c5 8. dxc5 Nc6
+9. cxd6 exd6 10. Ne4 Bf5 11. Ng3 Be6 12. Nf3 Qc7 13. Qb1 dxe5 14. f5 e4 15. fxe6
+exf3 16. gxf3 f5 17. f4 Nf6 18. Be2 Rfe8 19. Kf2 Rxe6 20. Re1 Rae8 21. Bf3 Rxe3
+22. Rxe3 Rxe3 23. Kxe3 Qxf4+ 0-1
+
+[Event "Spassky - Fischer World Championship Match"]
+[Site "Reykjavik ISL"]
+[Date "1972.07.23"]
+[Round "6"]
+[White "Robert James Fischer"]
+[Black "Boris Spassky"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "D59"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "81"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6 12. Qa4 c5 13. Qa3 Rc8 14. Bb5 a6
+15. dxc5 bxc5 16. O-O Ra7 17. Be2 Nd7 18. Nd4 Qf8 19. Nxe6 fxe6 20. e4 d4 21. f4
+Qe7 22. e5 Rb8 23. Bc4 Kh8 24. Qh3 Nf8 25. b3 a5 26. f5 exf5 27. Rxf5 Nh7 28.
+Rcf1 Qd8 29. Qg3 Re7 30. h4 Rbb7 31. e6 Rbc7 32. Qe5 Qe8 33. a4 Qd8 34. R1f2 Qe8
+35. R2f3 Qd8 36. Bd3 Qe8 37. Qe4 Nf6 38. Rxf6 gxf6 39. Rxf6 Kg8 40. Bc4 Kh8 41.
+Qf4 1-0
+
+[Event "Bled"]
+[Site "Bled YUG"]
+[Date "1961.09.04"]
+[Round "2"]
+[White "Robert James Fischer"]
+[Black "Mikhail Tal"]
+[Result "1-0"]
+[EventDate "1961.09.03"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 Nf6 7. Ndb5 Qb8 8.
+Bf4 Ne5 9. Be2 Bc5 10. Bxe5 Qxe5 11. f4 Qb8 12. e5 a6 13. exf6 axb5 14. fxg7 Rg8
+15. Ne4 Be7 16. Qd4 Ra4 17. Nf6+ Bxf6 18. Qxf6 Qc7 19. O-O-O Rxa2 20. Kb1 Ra6
+21. Bxb5 Rb6 22. Bd3 e5 23. fxe5 Rxf6 24. exf6 Qc5 25. Bxh7 Qg5 26. Bxg8 Qxf6
+27. Rhf1 Qxg7 28. Bxf7+ Kd8 29. Be6 Qh6 30. Bxd7 Bxd7 31. Rf7 Qxh2 32. Rdxd7+
+Ke8 33. Rde7+ Kd8 34. Rd7+ Kc8 35. Rc7+ Kd8 36. Rfd7+ Ke8 37. Rd1 b5 38. Rb7 Qh5
+39. g4 Qh3 40. g5 Qf3 41. Re1+ Kf8 42. Rxb5 Kg7 43. Rb6 Qg3 44. Rd1 Qc7 45. Rdd6
+Qc8 46. b3 Kh7 47. Ra6 1-0

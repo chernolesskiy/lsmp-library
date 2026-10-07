@@ -1,0 +1,111 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.17"]
+[Round "?"]
+[White "tecarsis"]
+[Black "SKCC_LSMP"]
+[Result "*"]
+[WhiteElo "2052"]
+[BlackElo "1919"]
+[ECO "B20"]
+[Termination "tecarsis won on time"]
+[TimeControl "300"]
+[EndTime "5:39:44 PST"]
+
+1. e4 c5 2. d3 Nc6 3. c3 g6 4. h3 Bg7 5. h4 Nf6 6. h5 d6 7. hxg6 hxg6 8. Rxh8+
+Bxh8 9. Na3 (9. Nh3) 9... Bd7 10. Nf3 Ng4 11. Ng5 f6 12. Nh3 Qa5 (12... Nh6 13.
+Bxh6) (12... Nxf2 13. Kxf2) (12... Ne3 13. fxe3) 13. Nc4 Qa6 14. d4 b5 (14...
+Nge5 15. dxe5) 15. Na3 c4 16. f3 Nh2 (16... Nf2 17. Kxf2) (16... Ne3) (16...
+Nh6) 17. Be2 O-O-O 18. Bf4 {[%cal df4h2][%c_arrow
+f4h2;keyPressed;none;opacity;0.8;from;f4;to;h2;persistent;false]} 18... e5
+(18... Ng4 19. fxg4) (18... Nxf3+ 19. Bxf3) 19. Bxh2 exd4 20. cxd4 f5 21. Nc2
+fxe4 22. fxe4 Re8 23. Bf3 Bxh3 24. gxh3 g5 25. Bxd6 Nxd4 26. Nxd4 Qxd6 27. Nf5
+Qh2 28. Qe2 Qg1+ 29. Qf1 Qb6 30. O-O-O c3 31. Nd6+ Kb8 32. Qxb5 Qxb5 (32... Rd8
+33. Qxb6+ Ka8 34. Qb7# {[%cal db7a8][%c_arrow
+b7a8;keyPressed;none;opacity;0.8;from;b7;to;a8;persistent;false]}) 33. Nxb5
+{[%c_highlight
+g5;keyPressed;none;opacity;0.8;square;g5;persistent;false,c3;keyPressed;none;opacity;0.8;square;c3;persistent;false,a7;keyPressed;none;opacity;0.8;square;a7;persistent;false]}
+*
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.22"]
+[Round "?"]
+[White "mescortes"]
+[Black "SKCC_LSMP"]
+[Result "*"]
+[WhiteElo "1909"]
+[BlackElo "1936"]
+[ECO "B31"]
+[Termination "SKCC_LSMP won by resignation"]
+[TimeControl "300"]
+[EndTime "9:11:55 PST"]
+[Link "https://www.chess.com/analysis/collection/single-blunder-t8SG8EDU/4Kfx4dGg9C/analysis?move=31"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. e5 d5 (5... d6 6. exd6) 6. exd6
+exd6 7. O-O Ne7 8. Re1 Bg7 9. Qe2 Rb8 (9... O-O 10. Qxe7 Qxe7 11. Rxe7) (9...
+Bf6) 10. Nc3 Rb7 {[%c_highlight
+g7;keyPressed;none;opacity;0.8;square;g7;persistent;false]} (10... Bf6 11. Ne4
+O-O 12. Nxf6+) 11. b3 O-O 12. Bb2 Nf5 13. Qe4 (13. Qe3 Nxe3) (13. Qa6 {[%cal
+dc8a6][%c_arrow
+c8a6;keyPressed;none;opacity;0.8;from;c8;to;a6;persistent;false]} 13... Rxb3 14.
+axb3 Bxa6) 13... Rb4 (13... Qd7 14. Qxc6 Qxc6) 14. Qxc6 Bb7 15. Qb5 (15. Qxb7
+Rxb7) 15... Rxb5 16. Nxb5 Bxb2
+*
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.08"]
+[Round "?"]
+[White "elziesee"]
+[Black "SKCC_LSMP"]
+[Result "*"]
+[WhiteElo "1863"]
+[BlackElo "1866"]
+[ECO "B21"]
+[Termination "SKCC_LSMP won on time"]
+[TimeControl "300"]
+[EndTime "5:06:54 PST"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bc4 Bg7 5. O-O d6 6. c3 (6. d4 Nxd4 7. Nxd4
+Bxd4+) (6. d3) 6... Bg4 7. d3 Nf6 8. Qb3 O-O (8... b6 9. Bxf7+ Kf8) (8... Rb8 9.
+Bxf7+ Kf8 {[%cal df7e6][%c_arrow
+f7e6;keyPressed;none;opacity;0.8;from;f7;to;e6;persistent;false][%c_highlight
+e6;keyPressed;none;opacity;0.8;square;e6;persistent;false]}) 9. Qxb7 Na5 10. Qa6
+Nxc4 11. Qxc4 {[%c_highlight
+a8;keyPressed;none;opacity;0.8;square;a8;persistent;false]} 11... Rb8 12. a3
+{[%cal da2a3][%c_arrow
+a2a3;keyPressed;none;opacity;0.8;from;a2;to;a3;persistent;false]} (12. Be3 Rxb2)
+12... e6 13. Nbd2 {[%cal df6d7,dd7b6][%c_arrow
+f6d7;keyPressed;none;opacity;0.8;from;f6;to;d7;persistent;false,d7b6;keyPressed;none;opacity;0.8;from;d7;to;b6;persistent;false]}
+13... Nd7 14. Ng5 Nb6 {[%cal dc4d3][%c_arrow
+c4d3;keyPressed;none;opacity;0.8;from;c4;to;d3;persistent;false][%c_highlight
+d3;keyPressed;none;opacity;0.8;square;d3;persistent;false]} 15. Qa2 (15. a4
+Nxc4) (15. Qb3 Nd5 16. Qc2 Ne3 {[%cal de3c2,de3f1][%c_arrow
+e3c2;keyPressed;none;opacity;0.8;from;e3;to;c2;persistent;false,e3f1;keyPressed;none;opacity;0.8;from;e3;to;f1;persistent;false]})
+15... Be2 16. Rf2 Bxd3 17. h4 d5 18. e5 Na4 (18... c4 19. b3) 19. Ndf3 (19. b3
+Nxc3 20. Qb2 Nd1 {[%cal dd1f2,dd1b2][%c_arrow
+d1f2;keyPressed;none;opacity;0.8;from;d1;to;f2;persistent;false,d1b2;keyPressed;none;opacity;0.8;from;d1;to;b2;persistent;false]})
+19... c4 20. Be3 (20. b3 Nxc3) (20. Qb1) (20. b4) 20... Rb3 {[%cal
+dd3b1][%c_arrow
+d3b1;keyPressed;none;opacity;0.8;from;d3;to;b1;persistent;false][%c_highlight
+b1;keyPressed;none;opacity;0.8;square;b1;persistent;false]} 21. Ne1
+{[%c_highlight
+e1;keyPressed;none;opacity;0.8;square;e1;persistent;false,d3;keyPressed;none;opacity;0.8;square;d3;persistent;false]}
+(21. Qb1) (21. Qxb3 cxb3) 21... Bf5 22. Nef3 h6 23. Nh3 Qa5 {[%cal
+da5a7,de3a7][%c_arrow
+a5a7;keyPressed;none;opacity;0.8;from;a5;to;a7;persistent;false,e3a7;keyPressed;none;opacity;0.8;from;e3;to;a7;persistent;false]}
+24. Nd4 Rfb8 (24... Be4 25. Nxb3 cxb3 26. Qxb3 {[%cal db3b7][%c_arrow
+b3b7;keyPressed;none;opacity;0.8;from;b3;to;b7;persistent;false]}) (24... Bc2
+25. Nxc2) 25. Nxb3 Rxb3 (25... cxb3 {[%cal db3a2,db8b3][%c_arrow
+b3a2;keyPressed;none;opacity;0.8;from;b3;to;a2;persistent;false,b8b3;keyPressed;none;opacity;0.8;from;b8;to;b3;persistent;false]}
+26. Qb1 (26. Qxb3 Rxb3 27. c4 dxc4) 26... Bxb1) 26. Rd2 Bf8 27. Nf2 Bc5
+{[%c_highlight a2;keyPressed;none;opacity;0.8;square;a2;persistent;false]} 28.
+Nd1 Bxe3+ 29. Nxe3 Qc5 {[%cal dc5g1][%c_arrow
+c5g1;keyPressed;none;opacity;0.8;from;c5;to;g1;persistent;false]} 30. Kf2 {[%cal
+dg1f2][%c_arrow
+g1f2;keyPressed;none;opacity;0.8;from;g1;to;f2;persistent;false]} 30... Be4
+{[%cal dd2b2][%c_arrow
+d2b2;keyPressed;none;opacity;0.8;from;d2;to;b2;persistent;false][%c_highlight
+b2;keyPressed;none;opacity;0.8;square;b2;persistent;false]} 31. Rd4 Rxb2+ 32.
+Qxb2 Nxb2 33. Ra2 Nd3+ 34. Kg3 Bf5 35. Nxf5 gxf5 *

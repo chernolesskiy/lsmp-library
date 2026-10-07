@@ -1,0 +1,268 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.01"]
+[Round "-"]
+[White "MiddleGame122"]
+[Black "SKCC_LSMP"]
+[Result "0-1"]
+[WhiteElo "1837"]
+[BlackElo "1927"]
+[ECO "B21"]
+[Termination "SKCC_LSMP won on time"]
+[TimeControl "300"]
+[EndTime "12:01:28"]
+[EndDate "2026.03.01"]
+
+1. e4 c5 2. d4 Nc6 3. d5 Nb8 4. f4 g6 5. Nf3 Bg7 6. Nc3 d6 7. Bc4 Bg4 8. Be3 Nd7
+9. h3 Bxf3 10. Qxf3 Ngf6 11. a4 a6 12. Bd3 Qa5 13. g4 h5 14. g5 Nh7 15. h4 (15.
+Bd2) 15... O-O 16. f5 Bxc3+ 17. bxc3 Qxc3+ {[%cal de3d2][%c_arrow
+e3d2;keyPressed;none;opacity;0.8;from;e3;to;d2;persistent;false]} 18. Ke2 Ne5
+{[%cal de5f3][%c_arrow
+e5f3;keyPressed;none;opacity;0.8;from;e5;to;f3;persistent;false][%c_highlight
+f3;keyPressed;none;opacity;0.8;square;f3;persistent;false]} 19. Qg3 {[%cal
+dc5c4,dc4d3][%c_arrow
+c5c4;keyPressed;none;opacity;0.8;from;c5;to;c4;persistent;false,c4d3;keyPressed;none;opacity;0.8;from;c4;to;d3;persistent;false]}
+19... Nxd3 20. cxd3 c4 21. dxc4 Qxc4+ 22. Kf3 Rac8 23. Rhc1 Qb3 24. Rab1 {[%cal
+db1b7][%c_arrow
+b1b7;keyPressed;none;opacity;0.8;from;b1;to;b7;persistent;false]} 24... Qa3
+{[%cal da3f3][%c_arrow
+a3f3;keyPressed;none;opacity;0.8;from;a3;to;f3;persistent;false]} 25. Rxc8 Rxc8
+{[%cal db1b7][%c_arrow
+b1b7;keyPressed;none;opacity;0.8;from;b1;to;b7;persistent;false]} 26. Rxb7 Rc3
+27. Kf4 (27. Qf4) 27... Nf8 28. Rxe7 {[%cal df8d7,dd7e5][%c_arrow
+f8d7;keyPressed;none;opacity;0.8;from;f8;to;d7;persistent;false,d7e5;keyPressed;none;opacity;0.8;from;d7;to;e5;persistent;false][%c_highlight
+e5;keyPressed;none;opacity;0.8;square;e5;persistent;false]} 28... Qxa4 29. f6
+Qa1 {[%cal da1f1][%c_arrow
+a1f1;keyPressed;none;opacity;0.8;from;a1;to;f1;persistent;false][%c_highlight
+f1;keyPressed;none;opacity;0.8;square;f1;persistent;false]} 30. Qf2 Qd1 31. Qf3
+Qe1 32. Qf2 Qd1 {[%cal dd1g4][%c_arrow
+d1g4;keyPressed;none;opacity;0.8;from;d1;to;g4;persistent;false][%c_highlight
+g4;keyPressed;none;opacity;0.8;square;g4;persistent;false]} 33. Qg1 Qa4 {[%cal
+da4d7,df8d7,dd7e5][%c_arrow
+a4d7;keyPressed;none;opacity;0.8;from;a4;to;d7;persistent;false,f8d7;keyPressed;none;opacity;0.8;from;f8;to;d7;persistent;false,d7e5;keyPressed;none;opacity;0.8;from;d7;to;e5;persistent;false][%c_highlight
+d7;keyPressed;none;opacity;0.8;square;d7;persistent;false]} (33... Qe2 34. Qf2
+Rxe3 35. Qxe3 Qg4#) 34. Bd4 Rd3 {[%cal dd3d4][%c_arrow
+d3d4;keyPressed;none;opacity;0.8;from;d3;to;d4;persistent;false]} 35. Be3 Rd1
+{[%cal dd1g1][%c_arrow
+d1g1;keyPressed;none;opacity;0.8;from;d1;to;g1;persistent;false]} 36. Qf2 Nd7
+37. Qe2 Ne5 38. Rxe5 dxe5+ 39. Kxe5 Rh1 40. Qf2 Qb5 41. Kf4 Rf1 {[%cal
+df1f4][%c_arrow
+f1f4;keyPressed;none;opacity;0.8;from;f1;to;f4;persistent;false]} 42. Qxf1 Qxf1+
+43. Ke5 Qf3 44. d6 Qxe3 45. d7 Qd2
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.08"]
+[White "SKCC_LSMP"]
+[Black "francototti"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "1850"]
+[BlackElo "1851"]
+[TimeControl "300"]
+[EndTime "3:50:40 PST"]
+[Termination "SKCC_LSMP won by checkmate"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:04:59]} Nf6 {[%clk 0:04:58]} 2. c4 {[%clk 0:04:59]} e6 {[%clk 0:04:57]} 3. Nc3 {[%clk 0:04:58]} d5 {[%clk 0:04:56]} 4. cxd5 {[%clk 0:04:56]} exd5 {[%clk 0:04:56]} 5. Bg5 {[%clk 0:04:54]} c6 {[%clk 0:04:55]} 6. e3 {[%clk 0:04:52]} Bf5 {[%clk 0:04:54]} 7. Nf3 {[%clk 0:04:50]} Be7 {[%clk 0:04:52]} 8. Bd3 {[%clk 0:04:49]} Qd7 {[%clk 0:04:50]} 9. Ne5 {[%clk 0:04:45]} Qc8 {[%clk 0:04:49]} 10. Rc1 {[%clk 0:04:43]} Bxd3 {[%clk 0:04:48]}
+ 11. Qxd3 {[%clk 0:04:41]} Qe6 {[%clk 0:04:46]} 12. O-O {[%clk 0:04:37]} Nbd7 {[%clk 0:04:46]} 13. f4 {[%clk 0:04:35]} O-O {[%clk 0:04:42]} 14. Rf3 {[%clk 0:04:15]} Rfe8 {[%clk 0:04:41]} 15. Rcf1 {[%clk 0:04:10]} Bf8 {[%clk 0:04:30]} 16. Rh3 {[%clk 0:03:51]} h6 {[%clk 0:04:26]} 17. Bxf6 {[%clk 0:03:40]} Nxf6 {[%clk 0:04:24]} 18. Ne2 {[%clk 0:03:30]} Ne4 {[%clk 0:04:21]} 19. Ng3 {[%clk 0:03:26]} Nd6 {[%clk 0:04:10]} 20. f5 {[%clk 0:03:22]} Qc8 {[%clk 0:03:52]}
+ 21. f6 {[%clk 0:03:18]} g5 {[%clk 0:03:47]} 22. Nf5 {[%clk 0:02:45]} Nxf5 {[%clk 0:03:41]} 23. Rxf5 {[%clk 0:02:45]} Re6 {[%clk 0:03:34]} 24. Rxg5+ {[%clk 0:02:42]} Kh8 {[%clk 0:03:21]} 25. Nxf7# {[%clk 0:02:40]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.08"]
+[White "SKCC_LSMP"]
+[Black "luisitoac01"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "1876"]
+[BlackElo "1945"]
+[TimeControl "300"]
+[EndTime "6:08:58 PST"]
+[Termination "SKCC_LSMP won on time"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:04:59]} Nf6 {[%clk 0:04:57]} 2. c4 {[%clk 0:04:58]} g6 {[%clk 0:04:56]} 3. Nc3 {[%clk 0:04:57]} d5 {[%clk 0:04:55]} 4. cxd5 {[%clk 0:04:56]} Nxd5 {[%clk 0:04:54]} 5. e4 {[%clk 0:04:55]} Nxc3 {[%clk 0:04:53]} 6. bxc3 {[%clk 0:04:55]} Bg7 {[%clk 0:04:52]} 7. Bd3 {[%clk 0:04:54]} O-O {[%clk 0:04:51]} 8. Ne2 {[%clk 0:04:53]} c5 {[%clk 0:04:50]} 9. Bb2 {[%clk 0:04:51]} cxd4 {[%clk 0:04:48]} 10. cxd4 {[%clk 0:04:51]} e6 {[%clk 0:04:47]}
+ 11. O-O {[%clk 0:04:48]} Nc6 {[%clk 0:04:45]} 12. e5 {[%clk 0:04:47]} b6 {[%clk 0:04:40]} 13. f4 {[%clk 0:04:45]} Bb7 {[%clk 0:04:38]} 14. Rc1 {[%clk 0:04:36]} Qd5 {[%clk 0:04:35]} 15. Rf2 {[%clk 0:04:25]} Bh6 {[%clk 0:04:28]} 16. Bb1 {[%clk 0:04:12]} Rfd8 {[%clk 0:04:19]} 17. Rc2 {[%clk 0:03:45]} Rac8 {[%clk 0:04:07]} 18. Rd2 {[%clk 0:03:43]} Nxe5 {[%clk 0:03:39]} 19. fxe5 {[%clk 0:03:27]} Bxd2 {[%clk 0:03:37]} 20. Qxd2 {[%clk 0:03:22]} Qxe5 {[%clk 0:03:31]}
+ 21. Ng3 {[%clk 0:02:36]} Qb5 {[%clk 0:03:10]} 22. Qf4 {[%clk 0:01:49]} Rd7 {[%clk 0:02:58]} 23. d5 {[%clk 0:01:42]} Qxd5 {[%clk 0:02:33]} 24. Qf6 {[%clk 0:01:25]} e5 {[%clk 0:02:23]} 25. Be4 {[%clk 0:00:43]} Qb5 {[%clk 0:01:45]} 26. Bxe5 {[%clk 0:00:30]} Rc1+ {[%clk 0:01:21]} 27. Nf1 {[%clk 0:00:18]} Rxf1+ {[%clk 0:01:10]} 28. Rxf1 {[%clk 0:00:17]} Qc5+ {[%clk 0:01:05]} 29. Kh1 {[%clk 0:00:16]} Kf8 {[%clk 0:00:48]} 30. Bxb7 {[%clk 0:00:11]} Rxb7 {[%clk 0:00:38]}
+ 31. Bd6+ {[%clk 0:00:10]} Qxd6 {[%clk 0:00:33]} 32. Qxd6+ {[%clk 0:00:10]} Kg8 {[%clk 0:00:26]} 33. h4 {[%clk 0:00:10]} h5 {[%clk 0:00:18]} 34. Qc6 {[%clk 0:00:09]} Re7 {[%clk 0:00:15]} 35. Qc8+ {[%clk 0:00:08]} Kg7 {[%clk 0:00:13]} 36. Qd8 {[%clk 0:00:08]} Re6 {[%clk 0:00:10]} 37. Qd4+ {[%clk 0:00:07]} Kg8 {[%clk 0:00:09]} 38. a4 {[%clk 0:00:07]} a5 {[%clk 0:00:05]} 39. Qd8+ {[%clk 0:00:07]} Kg7 {[%clk 0:00:04]} 40. Qd4+ {[%clk 0:00:07]} Kg8 {[%clk 0:00:03]}
+ 41. Rc1 {[%clk 0:00:07]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.08"]
+[Round "?"]
+[White "Aronukas11"]
+[Black "SKCC_LSMP"]
+[Result "0-1"]
+[WhiteElo "1849"]
+[BlackElo "1866"]
+[ECO "B00"]
+[Termination "SKCC_LSMP won by checkmate"]
+[TimeControl "300"]
+[EndTime "5:24:42 PST"]
+
+1. e4 f5 2. exf5 Nf6 3. Bc4 d5 4. Bb3 Bxf5 5. Nf3 c5 6. d3 Nc6 7. Bf4 e6 (7...
+Qa5+ 8. Bd2 {[%cal dd2a5][%c_arrow
+d2a5;keyPressed;none;opacity;0.8;from;d2;to;a5;persistent;false][%c_highlight
+a5;keyPressed;none;opacity;0.8;square;a5;persistent;false]}) 8. Qe2 Bd6 9. Bxd6
+Qxd6 10. Ba4 O-O 11. Bxc6 bxc6 12. Nc3 e5 13. Nxe5 Rfe8 14. f4 Ng4 15. O-O Nxe5
+16. fxe5 Rxe5 17. Qf3 Rae8 18. g4 Bg6 19. Qg3 Qe6 20. h4 h5 21. g5 d4 22. Nd1
+Re2 23. Rf2 Re1+ 24. Kh2 Qd7 25. Qf3 Bf7 26. Rf1 Bd5 27. Qf2 R1e2 28. Qxe2 Rxe2+
+29. Rf2 Qg4 30. Rxe2 Qxe2+ 31. Kg3 Qg2+ 32. Kf4 Qh2+ 33. Kf5 g6+ 34. Kxg6 Qf4
+35. Nf2 Qf7+ 36. Kh6 Qh7#
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.08"]
+[White "SKCC_LSMP"]
+[Black "hossein_h_12"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "1890"]
+[BlackElo "1884"]
+[TimeControl "300"]
+[EndTime "8:07:40 PST"]
+[Termination "SKCC_LSMP won by checkmate"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:04:59]} Nf6 {[%clk 0:04:57]} 2. c4 {[%clk 0:04:59]} e6 {[%clk 0:04:56]} 3. Nc3 {[%clk 0:04:58]} d5 {[%clk 0:04:55]} 4. cxd5 {[%clk 0:04:57]} exd5 {[%clk 0:04:52]} 5. Bg5 {[%clk 0:04:56]} Be7 {[%clk 0:04:48]} 6. Nf3 {[%clk 0:04:55]} Be6 {[%clk 0:04:47]} 7. e3 {[%clk 0:04:54]} O-O {[%clk 0:04:46]} 8. Rc1 {[%clk 0:04:53]} c5 {[%clk 0:04:43]} 9. Bd3 {[%clk 0:04:51]} c4 {[%clk 0:04:42]} 10. Bb1 {[%clk 0:04:49]} Nc6 {[%clk 0:04:41]}
+ 11. O-O {[%clk 0:04:47]} h6 {[%clk 0:04:40]} 12. Bxf6 {[%clk 0:04:45]} Bxf6 {[%clk 0:04:39]} 13. Kh1 {[%clk 0:04:39]} a6 {[%clk 0:04:33]} 14. Ng1 {[%clk 0:04:31]} b5 {[%clk 0:04:31]} 15. Nge2 {[%clk 0:04:29]} b4 {[%clk 0:04:30]} 16. Na4 {[%clk 0:04:28]} Bg4 {[%clk 0:04:26]} 17. f3 {[%clk 0:04:26]} Bh5 {[%clk 0:04:24]} 18. Nf4 {[%clk 0:04:13]} Bg6 {[%clk 0:04:21]} 19. Nxg6 {[%clk 0:04:04]} fxg6 {[%clk 0:04:20]} 20. Bxg6 {[%clk 0:04:04]} Ne7 {[%clk 0:04:16]}
+ 21. Bb1 {[%clk 0:03:43]} Qd6 {[%clk 0:04:13]} 22. Nc5 {[%clk 0:03:34]} Nc6 {[%clk 0:04:08]} 23. Qc2 {[%clk 0:03:15]} Rae8 {[%clk 0:03:51]} 24. Rce1 {[%clk 0:03:05]} Ne7 {[%clk 0:03:44]} 25. Qh7+ {[%clk 0:03:01]} Kf7 {[%clk 0:03:43]} 26. e4 {[%clk 0:02:21]} Rh8 {[%clk 0:03:41]} 27. e5 {[%clk 0:02:20]} Bxe5 {[%clk 0:03:39]} 28. dxe5 {[%clk 0:02:16]} Qxc5 {[%clk 0:03:35]} 29. e6+ {[%clk 0:01:59]} Kf6 {[%clk 0:03:32]} 30. Qc2 {[%clk 0:01:48]} Nc6 {[%clk 0:03:27]}
+ 31. Qf5+ {[%clk 0:01:41]} Ke7 {[%clk 0:03:22]} 32. Qf7+ {[%clk 0:01:40]} Kd6 {[%clk 0:03:21]} 33. Qd7# {[%clk 0:01:39]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.11"]
+[White "GipsyKing1901"]
+[Black "SKCC_LSMP"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "1976"]
+[BlackElo "1930"]
+[TimeControl "300"]
+[EndTime "13:05:04 PST"]
+[Termination "SKCC_LSMP won by checkmate"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:04:57]} f5 {[%clk 0:04:58]} 2. Nf3 {[%clk 0:04:53]} Nf6 {[%clk 0:04:57]} 3. Bf4 {[%clk 0:04:51]} e6 {[%clk 0:04:57]} 4. h3 {[%clk 0:04:50]} Be7 {[%clk 0:04:54]} 5. e3 {[%clk 0:04:49]} O-O {[%clk 0:04:54]} 6. c4 {[%clk 0:04:48]} b6 {[%clk 0:04:53]} 7. Nc3 {[%clk 0:04:47]} Bb7 {[%clk 0:04:52]} 8. Be2 {[%clk 0:04:45]} d6 {[%clk 0:04:50]} 9. Qb3 {[%clk 0:04:42]} a6 {[%clk 0:04:48]} 10. c5 {[%clk 0:04:38]} b5 {[%clk 0:04:32]}
+ 11. Qxe6+ {[%clk 0:04:35]} Kh8 {[%clk 0:04:28]} 12. cxd6 {[%clk 0:04:30]} Bxd6 {[%clk 0:04:17]} 13. Bxd6 {[%clk 0:04:25]} cxd6 {[%clk 0:04:14]} 14. Qb3 {[%clk 0:04:10]} Ne4 {[%clk 0:04:05]} 15. O-O {[%clk 0:04:04]} Nd7 {[%clk 0:03:59]} 16. Rad1 {[%clk 0:03:55]} Ng5 {[%clk 0:03:57]} 17. d5 {[%clk 0:03:40]} Nxf3+ {[%clk 0:03:51]} 18. Bxf3 {[%clk 0:03:39]} Ne5 {[%clk 0:03:51]} 19. Be2 {[%clk 0:03:30]} f4 {[%clk 0:03:41]} 20. exf4 {[%clk 0:03:24]} Rxf4 {[%clk 0:03:37]}
+ 21. a4 {[%clk 0:02:59]} Qg5 {[%clk 0:03:02]} 22. axb5 {[%clk 0:02:52]} a5 {[%clk 0:02:53]} 23. Qa3 {[%clk 0:02:45]} Qh6 {[%clk 0:02:37]} 24. f3 {[%clk 0:02:27]} Raf8 {[%clk 0:02:33]} 25. Qxa5 {[%clk 0:02:22]} Bc8 {[%clk 0:02:31]} 26. b6 {[%clk 0:02:05]} Bxh3 {[%clk 0:02:28]} 27. b7 {[%clk 0:02:03]} Bxg2 {[%clk 0:02:09]} 28. Kxg2 {[%clk 0:01:56]} Qg5+ {[%clk 0:02:02]} 29. Kf2 {[%clk 0:01:55]} Qh4+ {[%clk 0:02:00]} 30. Ke3 {[%clk 0:01:53]} Qg5 {[%clk 0:01:46]}
+ 31. Rg1 {[%clk 0:01:42]} Qh6 {[%clk 0:01:41]} 32. Rh1 {[%clk 0:01:29]} Rh4+ {[%clk 0:01:38]} 33. Kf2 {[%clk 0:01:24]} Rxh1 {[%clk 0:01:25]} 34. Rxh1 {[%clk 0:01:22]} Qxh1 {[%clk 0:01:25]} 35. Qc7 {[%clk 0:01:15]} Ng4+ {[%clk 0:01:22]} 36. Kg3 {[%clk 0:01:09]} Qh2+ {[%clk 0:01:06]} 37. Kxg4 {[%clk 0:01:06]} Rf4+ {[%clk 0:01:06]} 38. Kg5 {[%clk 0:00:59]} Qh4# {[%clk 0:01:06]} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.11"]
+[White "SKCC_LSMP"]
+[Black "hailesselassie"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "1929"]
+[BlackElo "1913"]
+[TimeControl "300"]
+[EndTime "14:37:50 PST"]
+[Termination "SKCC_LSMP won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:04:59]} d5 {[%clk 0:04:59]} 2. c4 {[%clk 0:04:59]} Nf6 {[%clk 0:04:57]} 3. Nc3 {[%clk 0:04:59]} e6 {[%clk 0:04:56]} 4. cxd5 {[%clk 0:04:58]} exd5 {[%clk 0:04:55]} 5. Bg5 {[%clk 0:04:57]} Be7 {[%clk 0:04:54]} 6. e3 {[%clk 0:04:57]} Ne4 {[%clk 0:04:52]} 7. Bxe7 {[%clk 0:04:54]} Qxe7 {[%clk 0:04:51]} 8. Bd3 {[%clk 0:04:51]} Qb4 {[%clk 0:04:48]} 9. Nge2 {[%clk 0:04:49]} Qxb2 {[%clk 0:04:41]} 10. Bxe4 {[%clk 0:04:39]} dxe4 {[%clk 0:04:40]}
+ 11. Nxe4 {[%clk 0:04:37]} Bf5 {[%clk 0:04:37]} 12. f3 {[%clk 0:04:29]} Qb6 {[%clk 0:04:31]} 13. Rb1 {[%clk 0:04:26]} Qc6 {[%clk 0:04:28]} 14. O-O {[%clk 0:04:20]} O-O {[%clk 0:04:26]} 15. N2g3 {[%clk 0:04:12]} Bg6 {[%clk 0:04:22]} 16. Rb3 {[%clk 0:04:05]} b6 {[%clk 0:04:20]} 17. Nc3 {[%clk 0:03:42]} Nd7 {[%clk 0:04:17]} 18. e4 {[%clk 0:03:40]} Rad8 {[%clk 0:04:15]} 19. d5 {[%clk 0:03:35]} Qd6 {[%clk 0:04:12]} 20. Nb5 {[%clk 0:03:32]} Qe5 {[%clk 0:04:09]}
+ 21. f4 {[%clk 0:03:24]} Qe7 {[%clk 0:03:56]} 22. e5 {[%clk 0:03:17]} Nc5 {[%clk 0:03:50]} 23. Nxa7 {[%clk 0:03:04]} Nxb3 {[%clk 0:03:46]} 24. Qxb3 {[%clk 0:02:57]} Qc5+ {[%clk 0:03:43]} 25. Kh1 {[%clk 0:02:52]} Rxd5 {[%clk 0:03:40]} 26. f5 {[%clk 0:02:48]} Rxe5 {[%clk 0:03:34]} 27. fxg6 {[%clk 0:02:40]} hxg6 {[%clk 0:03:34]} 28. a4 {[%clk 0:02:32]} Rfe8 {[%clk 0:03:30]} 29. Qxf7+ {[%clk 0:02:12]} Kh7 {[%clk 0:03:29]} 30. Nb5 {[%clk 0:02:09]} Re1 {[%clk 0:03:25]}
+ 31. h3 {[%clk 0:01:28]} Qe3 {[%clk 0:03:03]} 32. Rxe1 {[%clk 0:01:24]} Qxe1+ {[%clk 0:03:01]} 33. Kh2 {[%clk 0:01:23]} Re7 {[%clk 0:02:47]} 34. Qf4 {[%clk 0:01:16]} c5 {[%clk 0:02:41]} 35. Nd6 {[%clk 0:01:12]} Qe6 {[%clk 0:02:34]} 36. Nde4 {[%clk 0:01:10]} Kg8 {[%clk 0:02:15]} 37. Ng5 {[%clk 0:01:07]} Qe5 {[%clk 0:02:11]} 38. Qh4 {[%clk 0:01:05]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.11"]
+[White "SKCC_LSMP"]
+[Black "Weakpawns93"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "1947"]
+[BlackElo "2002"]
+[TimeControl "300"]
+[EndTime "15:04:08 PST"]
+[Termination "SKCC_LSMP won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:04:59]} d5 {[%clk 0:04:58]} 2. c4 {[%clk 0:04:59]} e6 {[%clk 0:04:52]} 3. Nc3 {[%clk 0:04:58]} Be7 {[%clk 0:04:50]} 4. cxd5 {[%clk 0:04:58]} exd5 {[%clk 0:04:47]} 5. Bf4 {[%clk 0:04:57]} c6 {[%clk 0:04:45]} 6. e3 {[%clk 0:04:56]} Bf5 {[%clk 0:04:43]} 7. Bd3 {[%clk 0:04:55]} Bxd3 {[%clk 0:04:37]} 8. Qxd3 {[%clk 0:04:55]} Nf6 {[%clk 0:04:33]} 9. Nf3 {[%clk 0:04:54]} Nbd7 {[%clk 0:04:31]} 10. O-O {[%clk 0:04:50]} O-O {[%clk 0:04:18]}
+ 11. Be5 {[%clk 0:04:42]} Re8 {[%clk 0:04:07]} 12. Ng5 {[%clk 0:04:36]} h6 {[%clk 0:03:48]} 13. Nh3 {[%clk 0:04:33]} Nxe5 {[%clk 0:03:38]} 14. dxe5 {[%clk 0:04:29]} Ng4 {[%clk 0:03:38]} 15. f4 {[%clk 0:04:23]} Bc5 {[%clk 0:03:34]} 16. Rf3 {[%clk 0:04:14]} Nxe3 {[%clk 0:03:27]} 17. Rxe3 {[%clk 0:04:12]} Bxe3+ {[%clk 0:03:25]} 18. Qxe3 {[%clk 0:04:10]} d4 {[%clk 0:03:24]} 19. Qg3 {[%clk 0:04:01]} dxc3 {[%clk 0:03:22]} 20. bxc3 {[%clk 0:03:55]} Qb6+ {[%clk 0:03:20]}
+ 21. Kh1 {[%clk 0:03:53]} Rad8 {[%clk 0:03:13]} 22. Rg1 {[%clk 0:03:33]} Qc5 {[%clk 0:02:49]} 23. Nf2 {[%clk 0:03:30]} Qd5 {[%clk 0:02:39]} 24. Ng4 {[%clk 0:03:25]} Kh7 {[%clk 0:02:34]} 25. f5 {[%clk 0:02:58]} Qd3 {[%clk 0:02:24]} 26. Qf4 {[%clk 0:02:40]} Qd2 {[%clk 0:02:18]} 27. Qe4 {[%clk 0:02:29]} Qd5 {[%clk 0:02:08]} 28. Qf4 {[%clk 0:02:14]} h5 {[%clk 0:01:59]} 29. Nf6+ {[%clk 0:01:47]} gxf6 {[%clk 0:01:51]} 30. exf6 {[%clk 0:01:44]} Re4 {[%clk 0:01:46]}
+ 31. Qg5 {[%clk 0:01:38]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.20"]
+[Round "-"]
+[White "The_Punisher1"]
+[Black "SKCC_LSMP"]
+[Result "0-1"]
+[CurrentPosition "4r1k1/6pp/pQ6/Pp3P2/2p5/2P1pPqP/5b2/R1N2R1K w - - 1 31"]
+[Timezone "UTC"]
+[ECO "A80"]
+[ECOUrl "https://www.chess.com/openings/Dutch-Defense-Barcza-Variation"]
+[UTCDate "2026.02.20"]
+[UTCTime "12:12:14"]
+[WhiteElo "2027"]
+[BlackElo "1948"]
+[TimeControl "300"]
+[Termination "SKCC_LSMP won on time"]
+[StartTime "12:12:14"]
+[EndDate "2026.02.20"]
+[EndTime "12:20:59"]
+[Link "https://www.chess.com/game/live/164956028582"]
+[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[WhiteCountry "2"]
+[WhiteTitle ""]
+[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[BlackCountry "164"]
+[BlackTitle ""]
+
+1. d4 {[%clk 0:04:59]} 1... f5 {[%clk 0:04:51.2]} 2. Nf3 {[%clk 0:04:54.9]} 2...
+Nf6 {[%clk 0:04:49.6]} 3. c3 {[%clk 0:04:53.9]} 3... e6 {[%clk 0:04:48.2]} 4.
+Bf4 {[%clk 0:04:53.1]} 4... Be7 {[%clk 0:04:47.8]} 5. e3 {[%clk 0:04:52.4]} 5...
+O-O {[%clk 0:04:46.4]} 6. h3 {[%clk 0:04:51.4]} 6... b6 {[%clk 0:04:45.9]} 7.
+Bc4 {[%clk 0:04:49.7]} 7... Bb7 {[%clk 0:04:42.5]} 8. Nbd2 {[%clk 0:04:48.7]}
+8... Ne4 {[%clk 0:04:40]} 9. O-O {[%clk 0:04:46.6]} 9... Nc6 {[%clk 0:04:14.4]}
+10. a4 {[%clk 0:04:44.3]} 10... Rc8 {[%clk 0:04:09.9]} 11. Nxe4 {[%clk
+0:04:32.3]} 11... fxe4 {[%clk 0:04:07.8]} 12. Nd2 {[%clk 0:04:31.1]} 12... d5
+{[%clk 0:04:07.1]} 13. Be2 {[%clk 0:04:27.2]} 13... a6 {[%clk 0:04:06.3]} 14. f3
+{[%clk 0:04:13.3]} 14... Rxf4 {[%clk 0:03:48.5]} 15. exf4 {[%clk 0:04:09.6]}
+15... e3 {[%clk 0:03:40]} 16. Nb3 {[%clk 0:04:03.1]} 16... Bh4 {[%clk
+0:03:34.1]} 17. Qd3 {[%clk 0:03:49.4]} 17... Bf2+ {[%clk 0:03:30.6]} 18. Kh1
+{[%clk 0:03:42.5]} 18... Qh4 {[%clk 0:03:19.4]} 19. f5 {[%clk 0:03:32.4]} 19...
+e5 {[%clk 0:02:48.3]} 20. dxe5 {[%clk 0:03:23.6]} 20... Nxe5 {[%clk 0:02:41.1]}
+21. Qd4 {[%clk 0:03:21]} 21... Qf6 {[%clk 0:02:27.9]} 22. a5 {[%clk 0:02:52.3]}
+22... c5 {[%clk 0:02:25.8]} 23. Qd1 {[%clk 0:02:41.1]} 23... b5 {[%clk
+0:02:15.4]} 24. Nc1 {[%clk 0:02:39.8]} 24... c4 {[%clk 0:02:02.6]} 25. Qd4
+{[%clk 0:02:38.6]} 25... Re8 {[%clk 0:01:57.8]} 26. b3 {[%clk 0:02:28.8]} 26...
+Qg5 {[%clk 0:01:46.9]} 27. bxc4 {[%clk 0:02:07.1]} 27... dxc4 {[%clk 0:01:41.7]}
+28. Qb6 {[%clk 0:02:05.5]} 28... Bxf3 {[%clk 0:01:34]} 29. Bxf3 {[%clk
+0:01:53.2]} 29... Nxf3 {[%clk 0:01:31.5]} 30. gxf3 {[%clk 0:01:44]} 30... Qg3
+{[%clk 0:01:24.6]}
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.22"]
+[White "SKCC_LSMP"]
+[Black "okletsdoprocedure"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "1944"]
+[BlackElo "1919"]
+[TimeControl "300"]
+[EndTime "9:18:49 PST"]
+[Termination "SKCC_LSMP won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:04:59]} Nf6 {[%clk 0:04:58]} 2. c4 {[%clk 0:04:59]} g6 {[%clk 0:04:57]} 3. Nc3 {[%clk 0:04:59]} Bg7 {[%clk 0:04:56]} 4. Bg5 {[%clk 0:04:58]} d6 {[%clk 0:04:55]} 5. e4 {[%clk 0:04:58]} O-O {[%clk 0:04:53]} 6. Bd3 {[%clk 0:04:57]} Nbd7 {[%clk 0:04:48]} 7. Nge2 {[%clk 0:04:57]} c5 {[%clk 0:04:47]} 8. d5 {[%clk 0:04:55]} Ne5 {[%clk 0:04:43]} 9. f4 {[%clk 0:04:53]} Nxd3+ {[%clk 0:04:41]} 10. Qxd3 {[%clk 0:04:52]} Bg4 {[%clk 0:04:37]}
+ 11. O-O {[%clk 0:04:50]} h6 {[%clk 0:04:32]} 12. Bxf6 {[%clk 0:04:47]} Bxf6 {[%clk 0:04:30]} 13. Rae1 {[%clk 0:04:33]} Kg7 {[%clk 0:04:25]} 14. Ng3 {[%clk 0:04:01]} Bd4+ {[%clk 0:04:23]} 15. Kh1 {[%clk 0:03:59]} Bd7 {[%clk 0:04:19]} 16. e5 {[%clk 0:03:57]} dxe5 {[%clk 0:04:12]} 17. fxe5 {[%clk 0:03:55]} Rb8 {[%clk 0:04:03]} 18. Qe4 {[%clk 0:02:28]} b5 {[%clk 0:03:56]} 19. Nge2 {[%clk 0:02:24]} bxc4 {[%clk 0:03:46]} 20. e6 {[%clk 0:02:18]} fxe6 {[%clk 0:03:40]}
+ 21. dxe6 {[%clk 0:02:16]} Bb5 {[%clk 0:03:27]} 22. Rf7+ {[%clk 0:02:11]} Rxf7 {[%clk 0:03:22]} 23. exf7 {[%clk 0:02:08]} Kxf7 {[%clk 0:03:18]} 24. Nf4 {[%clk 0:02:02]} Qd6 {[%clk 0:03:03]} 25. Ncd5 {[%clk 0:01:55]} Bc6 {[%clk 0:02:55]} 26. Nxg6 {[%clk 0:01:46]} Bxd5 {[%clk 0:02:50]} 27. Qf5+ {[%clk 0:01:36]} Qf6 {[%clk 0:02:28]} 28. Rxe7+ {[%clk 0:01:27]} Kg8 {[%clk 0:02:02]} 29. Qxd5+ {[%clk 0:01:25]} 1-0

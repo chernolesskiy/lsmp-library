@@ -1,0 +1,2390 @@
+{
+  "name": "lsmp-library",
+  "schema": 2,
+  "generated": "2026-10-07",
+  "generator": "publish/publish_library.py",
+  "item_count": 105,
+  "items": [
+    {
+      "id": "chesscom-2025-03-08-endgames",
+      "title": "Endgames, 2025-03-08: online games",
+      "path": "content/chess-com-collections/2025-03-08-endgames.pgn",
+      "type": "pgn-collection",
+      "count": 10,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 5,
+      "date": "2025-03-08",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 29958,
+      "sha256": "545534876cfe0a65e919949777192b8dde85fd023228221c8352254cd9e94101"
+    },
+    {
+      "id": "chesscom-2026-05-09-lesson",
+      "title": "Lesson, 2026-05-09: Pillsbury, Lasker and Steinitz games",
+      "path": "content/chess-com-collections/2026-05-09-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2026-05-09",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 7702,
+      "sha256": "c15e2f00ee72863bb9a8ea03f9594bdd62e8e4fab720bdfbbb3af925c83c3a20"
+    },
+    {
+      "id": "chesscom-2024-06-13-tactics-and-checkmates",
+      "title": "Tactics and Checkmates",
+      "path": "content/chess-com-collections/2024-06-13-tactics-and-checkmates.pgn",
+      "type": "pgn-collection",
+      "count": 9,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 9,
+      "date": "2024-06-13",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: GM Benjamin Finegold on YouTube, probably: https://www.youtube.com/watch?v=4NXJQo0iBcs"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1826,
+      "sha256": "30d150ec6c580020b62b5ce27e35e63be7a5d5822bb8a1889c76d44e5c5db740"
+    },
+    {
+      "id": "chesscom-2024-07-18-great-sacrifices",
+      "title": "Great Sacrifices",
+      "path": "content/chess-com-collections/2024-07-18-great-sacrifices.pgn",
+      "type": "pgn-collection",
+      "count": 7,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 7,
+      "date": "2024-07-18",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: Greatest Sacrifices in Chess History: Lecture by GM Ben Finegold (YouTube 25/02/2024)"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1992,
+      "sha256": "b2e68a571152459ddd52c08a9a1d23d1a8540139925d07762993c26aad52c3b6"
+    },
+    {
+      "id": "chesscom-2024-07-18-very-difficult-puzzles-set-1",
+      "title": "Very Difficult Puzzles Set 1",
+      "path": "content/chess-com-collections/2024-07-18-very-difficult-puzzles-set-1.pgn",
+      "type": "pgn-collection",
+      "count": 10,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 9,
+      "date": "2024-07-18",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: https://www.pinterest.co.uk/braineaser/chess-puzzles/"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1578,
+      "sha256": "92cb27c20e57122772ab207e45408467077f36bf0870cd55c3ddf274aa92fc2d"
+    },
+    {
+      "id": "chesscom-2024-07-19-blunders",
+      "title": "Blunders",
+      "path": "content/chess-com-collections/2024-07-19-blunders.pgn",
+      "type": "pgn-collection",
+      "count": 9,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 9,
+      "date": "2024-07-19",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: BLUNDERS! Lecture with GM Ben Finegold (YouTube 03/07/2024)"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 4441,
+      "sha256": "ef1605558d41a72e86deac1494e08a7edc5c58164a801b988529d14fc8f1a7ce"
+    },
+    {
+      "id": "chesscom-2024-06-20-game-analysis-extra",
+      "title": "Game Analysis + Extra",
+      "path": "content/chess-com-collections/2024-06-20-game-analysis-extra.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 2,
+      "date": "2024-06-20",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: by GM Benjamin Finegold on YouTube"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 3018,
+      "sha256": "d79f89565a5594178ff4483266ed7bbd6b1b44a43f0172613ff7ed9715d288ee"
+    },
+    {
+      "id": "chesscom-2025-10-23",
+      "title": "Classic games, 2025-10-23: Spassky, Petrosian, Short",
+      "path": "content/chess-com-collections/2025-10-23.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2025-10-23",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2143,
+      "sha256": "0eedc98442cf6617553f1fc81c1b383644c64709cc90c0afb026ed34a8b7ee2e"
+    },
+    {
+      "id": "chesscom-2025-10-24",
+      "title": "Classic games, 2025-10-24: Nezhmetdinov, Petrosian",
+      "path": "content/chess-com-collections/2025-10-24.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2025-10-24",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1334,
+      "sha256": "17a55687856aaab21d6cfd20e22bc23ff3f685fb0451afe9b83dd1a20f76cb2c"
+    },
+    {
+      "id": "chesscom-2025-07-25-positional-lesson",
+      "title": "Positional Lesson",
+      "path": "content/chess-com-collections/2025-07-25-positional-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 10,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": true,
+      "games_with_fen": 4,
+      "date": "2025-07-25",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 11907,
+      "sha256": "c30f9b4d79097af70832984dd70298f34b4230a767d96b53696295f30bfc5f7a"
+    },
+    {
+      "id": "chesscom-2026-05-26-camp-lesson",
+      "title": "Camp lesson",
+      "path": "content/chess-com-collections/2026-05-26-camp-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2026-05-26",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 485,
+      "sha256": "c87c8399e2349e4eb79c279b8e85fd7022263bae10709b3ea9adef0785e55481"
+    },
+    {
+      "id": "chesscom-2024-06-27-opera-game-analysis-extra",
+      "title": "Opera Game Analysis + Extra",
+      "path": "content/chess-com-collections/2024-06-27-opera-game-analysis-extra.pgn",
+      "type": "pgn-collection",
+      "count": 4,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 3,
+      "date": "2024-06-27",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 900,
+      "sha256": "9df2f21c9055ffcd038ced3d5fbd8c6b07c4b863cf68d8510b46d86a0c0f4a7b"
+    },
+    {
+      "id": "chesscom-2025-10-28",
+      "title": "Morphy games, 2025-10-28: Baucher and Meek",
+      "path": "content/chess-com-collections/2025-10-28.pgn",
+      "type": "pgn-collection",
+      "count": 2,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2025-10-28",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "Source tag: The Book of the First American Chess Congress, Fiske, New York 1859, pp201-203"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 3895,
+      "sha256": "4e9e478bb2fc43c71a75745d401af65df63f53d410b1de106f98475621b818a2"
+    },
+    {
+      "id": "chesscom-2024-07-30-pawn-endgames",
+      "title": "Pawn Endgames",
+      "path": "content/chess-com-collections/2024-07-30-pawn-endgames.pgn",
+      "type": "pgn-collection",
+      "count": 7,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 7,
+      "date": "2024-07-30",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: Rook and Pawn Endgames and King and Pawn Endings, with GM Benjamin Finegold (Youtube) and How to Win a King and Pawn vs King Endgame (ragchess.com)"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1267,
+      "sha256": "cac9455520f7bd54edaa995173d709af90d341200e38122ec3cbd51d3b917d28"
+    },
+    {
+      "id": "chesscom-2024-05-31-double-attacks-in-opening",
+      "title": "Double Attacks in Opening",
+      "path": "content/chess-com-collections/2024-05-31-double-attacks-in-opening.pgn",
+      "type": "pgn-collection",
+      "count": 9,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2024-05-31",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: Opening Traps and Loose Pieces with GM Ben Finegold 21.06.2018"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 3237,
+      "sha256": "9bc9d81f52b393fe38262422d721d904cede08dd4f33ffc4845284768b3fb87c"
+    },
+    {
+      "id": "chesscom-adolf-anderssen",
+      "title": "Adolf Anderssen",
+      "path": "content/chess-com-collections/adolf-anderssen.pgn",
+      "type": "pgn-collection",
+      "count": 2,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "Source tag: Schachzeitung, v7 n9, September 1852, pp338-339",
+        "SourceNote tag: ending given in Schachzeitung, v7 n10, October 1852, p383"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1346,
+      "sha256": "f082f282942a9d4632f8c0f93499c7bbd92d1dcff05a20db0b2c86c738284315"
+    },
+    {
+      "id": "chesscom-alexander-alekhine",
+      "title": "Alexander Alekhine",
+      "path": "content/chess-com-collections/alexander-alekhine.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 10685,
+      "sha256": "3b84f52b1a79956b9f89ba570863f640480af5b36c18de4b2e99b9f0e7992cc6"
+    },
+    {
+      "id": "chesscom-2026-02-19-anderssen",
+      "title": "Anderssen",
+      "path": "content/chess-com-collections/2026-02-19-anderssen.pgn",
+      "type": "pgn-collection",
+      "count": 10,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2026-02-19",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "Source tag: Schachzeitung, v6 n2, February 1851, p51",
+        "Source tag: Neue Berliner Schachzeitung, v6 n9, September 1869, pp270-271",
+        "Source tag: Ueber Land und Meer, March 1863, p.366",
+        "Source tag: Schachzeitung, v7 n9, September 1852, pp338-339",
+        "SourceNote tag: ending given in Schachzeitung, v7 n10, October 1852, p383"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 11037,
+      "sha256": "efb074c9b5877886615ac7f8d76ea2ae3f2dcacbf3503c92d1e41e02e58469ed"
+    },
+    {
+      "id": "chesscom-april-2025-camp",
+      "title": "April 2025 Camp",
+      "path": "content/chess-com-collections/april-2025-camp.pgn",
+      "type": "pgn-collection",
+      "count": 7,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": true,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 5,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 5959,
+      "sha256": "7cd826908a3febe84fbff4d504a26afe369d281f6e52f4d00cd043752d85a8c6"
+    },
+    {
+      "id": "chesscom-autumn-2026",
+      "title": "Autumn 2026",
+      "path": "content/chess-com-collections/autumn-2026.pgn",
+      "type": "pgn-collection",
+      "count": 6,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 5568,
+      "sha256": "e3ed53152806781b469435e80f0740d29180749fbeaaeb4a35b3a96006d69baf"
+    },
+    {
+      "id": "chesscom-2025-03-30-back-rank-checkmate-collection",
+      "title": "Back Rank Checkmate Collection",
+      "path": "content/chess-com-collections/2025-03-30-back-rank-checkmate-collection.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 4,
+      "date": "2025-03-30",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: GM Ben Finegold https://www.youtube.com/watch?v=HexpZXtxFfM"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2686,
+      "sha256": "0c816af1946c766774801f51a1c8ba08c04ecdeb24cc263644d6f804b78a7b76"
+    },
+    {
+      "id": "chesscom-breaking-the-rules",
+      "title": "Breaking the rules",
+      "path": "content/chess-com-collections/breaking-the-rules.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 958,
+      "sha256": "8681804e66afe3d103bec163539f643d8f57cfe2708d185e235b8411059616cf"
+    },
+    {
+      "id": "chesscom-camp-feb26-day-one",
+      "title": "Camp Feb26 Day One",
+      "path": "content/chess-com-collections/camp-feb26-day-one.pgn",
+      "type": "pgn-collection",
+      "count": 2,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2568,
+      "sha256": "f205d052a9e3c51411f490b425ccb256a8c76fae0fea003a7a14d88189f31033"
+    },
+    {
+      "id": "chesscom-diagonal-attacks-on-the-uncastled-king",
+      "title": "Diagonal Attacks on the Uncastled King",
+      "path": "content/chess-com-collections/diagonal-attacks-on-the-uncastled-king.pgn",
+      "type": "pgn-collection",
+      "count": 7,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: https://www.youtube.com/watch?v=ic6Sk1ncsW"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 7835,
+      "sha256": "2fd45341497556be719ac2e1b0cb430ee339efda8741ae0f55091cdde4896b9e"
+    },
+    {
+      "id": "chesscom-double-up-on-the-bubble-up",
+      "title": "Double Up on the Bubble Up",
+      "path": "content/chess-com-collections/double-up-on-the-bubble-up.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 748,
+      "sha256": "3c9b91dfab9b01c01e84546be8c5deafd0659b167f3d467f06b90525c32f2c7c"
+    },
+    {
+      "id": "chesscom-emanuel-lasker",
+      "title": "Emanuel Lasker",
+      "path": "content/chess-com-collections/emanuel-lasker.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2024,
+      "sha256": "0cdd95e14acdf03751bc73a77a11f5484013f075f54045e4b3927e340f668f2a"
+    },
+    {
+      "id": "chesscom-2026-03-21-endgame-lesson",
+      "title": "Endgame Lesson, 2026-03-21",
+      "path": "content/chess-com-collections/2026-03-21-endgame-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 4,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": true,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 4,
+      "date": "2026-03-21",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1773,
+      "sha256": "6ce63b36087b7d99900b521ab477ca4089292027c1a60e1807aa740982f104f6"
+    },
+    {
+      "id": "chesscom-2025-05-28-endgame-lesson",
+      "title": "Endgame Lesson, 2025-05-28: McDonnell and Ortueta games",
+      "path": "content/chess-com-collections/2025-05-28-endgame-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 2,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2025-05-28",
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: https://www.youtube.com/watch?v=7N_oy1KPdGg"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1323,
+      "sha256": "c0829936f26a4d42a9b9f01bddee88a77f62a5f174d54dbd0eae7f00ea52b601"
+    },
+    {
+      "id": "chesscom-2026-02-07-endgames",
+      "title": "Endgames, 2026-02-07: master and online games",
+      "path": "content/chess-com-collections/2026-02-07-endgames.pgn",
+      "type": "pgn-collection",
+      "count": 8,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": true,
+      "games_with_fen": 3,
+      "date": "2026-02-07",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 22155,
+      "sha256": "144a7c1301eae8da67f3a665449af7c6e6613e3a6609d4d9d9289e378004572e"
+    },
+    {
+      "id": "chesscom-esports-world-cup-2025",
+      "title": "Esports World Cup 2025",
+      "path": "content/chess-com-collections/esports-world-cup-2025.pgn",
+      "type": "pgn-collection",
+      "count": 12,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "StudyName tag: Semifinals",
+        "GameURL tag: https://lichess.org/broadcast/esports-world-cup-2025--playoffs/semifinals/XcuEh2bt"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 33009,
+      "sha256": "597948a849b92fa41f8a5a84776f80256de7f9fe9df2ba81a6e361c697c42c7c"
+    },
+    {
+      "id": "chesscom-2026-04-08-fischer-games",
+      "title": "Fischer Games",
+      "path": "content/chess-com-collections/2026-04-08-fischer-games.pgn",
+      "type": "pgn-collection",
+      "count": 2,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2026-04-08",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2200,
+      "sha256": "507c3d105e084075d65fdf2a1678ec5608801f656d19276f42c73014d8b8e698"
+    },
+    {
+      "id": "chesscom-2026-07-28-game-analyses",
+      "title": "Game Analyses",
+      "path": "content/chess-com-collections/2026-07-28-game-analyses.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": false,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2026-07-28",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1066,
+      "sha256": "7f5fe6273fdc66e05287aabbbbca1c436e3af70c5af8d378225f3fb54c417336"
+    },
+    {
+      "id": "chesscom-games-of-paul-morphy",
+      "title": "Games of Paul Morphy",
+      "path": "content/chess-com-collections/games-of-paul-morphy.pgn",
+      "type": "pgn-collection",
+      "count": 12,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 4,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "Source tag: Morphy's Games, Lowenthal, New York 1860, Appleton, p314",
+        "Source tag: Chess Monthly, vol.ii, January 1858, p.21",
+        "Source tag: (London) Field, 1859.01.29, p.83",
+        "Source tag: The Book of the First American Chess Congress, Fiske, New York 1859, pp252-255",
+        "Source tag: (London) Field, London, 1858.12.04, p458"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 7018,
+      "sha256": "8792c5d876d7383a6864395fcc3a6b03bcd7a8ca243d8b2a07a72bca692c22ac"
+    },
+    {
+      "id": "chesscom-garry-kasparov",
+      "title": "Garry Kasparov",
+      "path": "content/chess-com-collections/garry-kasparov.pgn",
+      "type": "pgn-collection",
+      "count": 10,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 6762,
+      "sha256": "ef875b3a9a48ae4f8468ce7626a4f74b1dd1f9179e48b2719bc6d4b81a52fa24"
+    },
+    {
+      "id": "chesscom-getting-crushed-in-the-dutch-defence",
+      "title": "Getting crushed in the Dutch Defence",
+      "path": "content/chess-com-collections/getting-crushed-in-the-dutch-defence.pgn",
+      "type": "pgn-collection",
+      "count": 2,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 1,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1835,
+      "sha256": "0942acecfe690ae107d481643a24375857b206f40a2926d698fb67d41bdada7d"
+    },
+    {
+      "id": "chesscom-greek-gift",
+      "title": "Greek Gift",
+      "path": "content/chess-com-collections/greek-gift.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 1,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1651,
+      "sha256": "06fbaa45ee6d8561e0307bdc025623b9efc1d0e94e5237831bbddd15d7faa961"
+    },
+    {
+      "id": "chesscom-hammer-puzzles",
+      "title": "Hammer Puzzles",
+      "path": "content/chess-com-collections/hammer-puzzles.pgn",
+      "type": "pgn-collection",
+      "count": 6,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 6,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2159,
+      "sha256": "e761eae531580094894f23dc078bc58858f6663e9e02810ed787f391b8127ccc"
+    },
+    {
+      "id": "chesscom-2026-06-08-online-games-and-lasker-v-bauer",
+      "title": "Online games Apr-May 2026, and Lasker v Bauer 1889",
+      "path": "content/chess-com-collections/2026-06-08-online-games-and-lasker-v-bauer.pgn",
+      "type": "pgn-collection",
+      "count": 4,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 2,
+      "date": "2026-06-08",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 6288,
+      "sha256": "ac237492f285e657e42debf944887dc5d9ca66b570c1a462c04037c534d92603"
+    },
+    {
+      "id": "chesscom-jose-raul-capablanca",
+      "title": "José Raúl Capablanca",
+      "path": "content/chess-com-collections/jose-raul-capablanca.pgn",
+      "type": "pgn-collection",
+      "count": 6,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": true,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: https://www.youtube.com/watch?v=Axm4P0v55QY"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 6315,
+      "sha256": "9f17e8875c42c01c498a73b5d8b45ada248a0d6fd39c89caaf0e03883b242472"
+    },
+    {
+      "id": "chesscom-know-when-to-change-plans",
+      "title": "Know when to change plans",
+      "path": "content/chess-com-collections/know-when-to-change-plans.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 824,
+      "sha256": "86a99c9dcbae7a35b1b1841c73c995ec288b559ba52e3dbf917ad4db8f69ebf0"
+    },
+    {
+      "id": "chesscom-2026-04-14-lesson-great-moves",
+      "title": "Lesson: Great Moves",
+      "path": "content/chess-com-collections/2026-04-14-lesson-great-moves.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2026-04-14",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 3641,
+      "sha256": "138fa7877d5a95fa708a506f266ec9669e91b8acb77c3a78081ba6afa802502b"
+    },
+    {
+      "id": "chesscom-2026-04-16-lesson",
+      "title": "Lesson, 2026-04-16: online games",
+      "path": "content/chess-com-collections/2026-04-16-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2026-04-16",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 6002,
+      "sha256": "2723e6e52df638c0d0d8a740e531ede8c0ffd5640c1edef79c688a2ba167fed0"
+    },
+    {
+      "id": "chesscom-2026-01-24-lesson",
+      "title": "Lesson, 2026-01-24: Fischer v Spassky, Karpov v Topalov",
+      "path": "content/chess-com-collections/2026-01-24-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": "2026-01-24",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1907,
+      "sha256": "d852af8b7c062d3c90aa98515768dae409a18b8e865aeb94b087537de98d8019"
+    },
+    {
+      "id": "chesscom-2026-02-28-lesson",
+      "title": "Lesson, 2026-02-28: online games",
+      "path": "content/chess-com-collections/2026-02-28-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": true,
+      "games_with_fen": 2,
+      "date": "2026-02-28",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 11052,
+      "sha256": "f1915b93a662b5c684a16fd2c7e40b0c6c784ff9e0aee7fe36065dd49ff8957e"
+    },
+    {
+      "id": "chesscom-low-rated-player-mistakes",
+      "title": "Low rated player mistakes",
+      "path": "content/chess-com-collections/low-rated-player-mistakes.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 576,
+      "sha256": "ce92a5055ff22b1e1c61495fc701eb97b86aa2c040881bafbddea6bd578ec46f"
+    },
+    {
+      "id": "chesscom-magnus-carlsen",
+      "title": "Magnus Carlsen",
+      "path": "content/chess-com-collections/magnus-carlsen.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 5079,
+      "sha256": "4212c2474187202a148386394d1af8061a0fde357405725852c535202edd529f"
+    },
+    {
+      "id": "chesscom-mikhail-tal",
+      "title": "Mikhail Tal",
+      "path": "content/chess-com-collections/mikhail-tal.pgn",
+      "type": "pgn-collection",
+      "count": 7,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "Annotator tag: https://lichess.org/@/BlunderOven",
+        "StudyName tag: Mikhail Tal vs. Georgi Tringov",
+        "ChapterURL tag: https://lichess.org/study/SeOsShhE/vy7dR32N"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 7804,
+      "sha256": "438aec52f82e8a494f1b810c6a2366901bd22e98cf6e685085cbb2ab2e16f04b"
+    },
+    {
+      "id": "chesscom-opponent-is-just-better",
+      "title": "Opponent is just better",
+      "path": "content/chess-com-collections/opponent-is-just-better.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 611,
+      "sha256": "7c4785d27454a1372d4ef6786394db00f6ba6d89734b1a1f31cae24c400e7058"
+    },
+    {
+      "id": "chesscom-opponent-got-too-impatient",
+      "title": "Opponent got too impatient",
+      "path": "content/chess-com-collections/opponent-got-too-impatient.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 596,
+      "sha256": "66eee4eac8ba7a1be9b673d34900bbbb9bb708f2cabb71ed508dfd9e14681804"
+    },
+    {
+      "id": "chesscom-paul-morphy-part-2",
+      "title": "Paul Morphy Part 2",
+      "path": "content/chess-com-collections/paul-morphy-part-2.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1378,
+      "sha256": "a3e3bd841b3fe272f0b576ff2f45ce0fe44863c4668d4d4d5d4d2f61a1fb7c67"
+    },
+    {
+      "id": "chesscom-paul-morphy-part-3",
+      "title": "Paul Morphy Part 3",
+      "path": "content/chess-com-collections/paul-morphy-part-3.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: https://www.youtube.com/watch?v=JkeKTuvMGD0",
+        "Source tag: New York Clipper, 1856.07.26, p.110",
+        "Source tag: (London) Field, 1859.04.16, p.307",
+        "Source tag: The Chess Monthly, vol.ii (February 1858), p.50"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2725,
+      "sha256": "8be65a5d6f245e436a11fa29eaa07f231369b79bbeaeb5ffd63832a5cd9e1f4a"
+    },
+    {
+      "id": "chesscom-pinned-pieces",
+      "title": "Pinned pieces",
+      "path": "content/chess-com-collections/pinned-pieces.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 514,
+      "sha256": "dc19f53e2c6a24b8ed11b43eb04142996585f959e63527fbbc9d96ecfdde24ec"
+    },
+    {
+      "id": "chesscom-poor-king-safety-checkmate",
+      "title": "Poor King Safety -- checkmate",
+      "path": "content/chess-com-collections/poor-king-safety-checkmate.pgn",
+      "type": "pgn-collection",
+      "count": 10,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": true,
+      "games_with_fen": 7,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 19111,
+      "sha256": "f0ccab3a111edd28fbeb36ff94a9ba2cc39e2e207dda2588b15b65e2f4800482"
+    },
+    {
+      "id": "chesscom-rashid-nezhmetdinov",
+      "title": "Rashid Nezhmetdinov",
+      "path": "content/chess-com-collections/rashid-nezhmetdinov.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2704,
+      "sha256": "3a93298caedcb53b2ef6bb960a9f36eb7912b5d86726506deffc1bad54a66e83"
+    },
+    {
+      "id": "chesscom-removing-the-defender-low-lesson",
+      "title": "Removing the Defender Low Lesson",
+      "path": "content/chess-com-collections/removing-the-defender-low-lesson.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 731,
+      "sha256": "3dcbfa7d8a855decb56b2b6528515e12893bd24b7a67794917ac4e3dfaf96388"
+    },
+    {
+      "id": "chesscom-robert-fischer",
+      "title": "Robert Fischer",
+      "path": "content/chess-com-collections/robert-fischer.pgn",
+      "type": "pgn-collection",
+      "count": 6,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 7811,
+      "sha256": "f5d7e61fc29f405ed141d6d93e4156e23d7ff4e5bd5e1d39c52e9c6eff60f30e"
+    },
+    {
+      "id": "chesscom-savielly-tartakower",
+      "title": "Savielly Tartakower",
+      "path": "content/chess-com-collections/savielly-tartakower.pgn",
+      "type": "pgn-collection",
+      "count": 4,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 3961,
+      "sha256": "9fa9074955092cee0f1ac6449d1e0e765586b7a5c8075f7ce29be52905f7e774"
+    },
+    {
+      "id": "chesscom-single-blunder",
+      "title": "Single blunder",
+      "path": "content/chess-com-collections/single-blunder.pgn",
+      "type": "pgn-collection",
+      "count": 16,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": true,
+      "games_with_fen": 4,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 21750,
+      "sha256": "efd450f1f0b25b984aed836f38e33dd37f272fa0904236c7a44542af25b12596"
+    },
+    {
+      "id": "chesscom-soviet-era-chess",
+      "title": "Soviet-Era Chess",
+      "path": "content/chess-com-collections/soviet-era-chess.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2820,
+      "sha256": "e471e3b985eca3098b4b0368e483f3a91390dba03ca2d6916caa681af1e10895"
+    },
+    {
+      "id": "chesscom-space-advantage-for-one-side",
+      "title": "Space advantage for one side",
+      "path": "content/chess-com-collections/space-advantage-for-one-side.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 573,
+      "sha256": "2e77dfbbac4de3ac071488d1fef60696ff1f83d439b16d3387a8814f2a545c87"
+    },
+    {
+      "id": "chesscom-tigran-petrosian",
+      "title": "Tigran Petrosian",
+      "path": "content/chess-com-collections/tigran-petrosian.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": true,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2976,
+      "sha256": "f0e0da41a0c57ee9c5c48c69942a85505aa45117f371850efd5b5d5929df1e65"
+    },
+    {
+      "id": "chesscom-trapped-pieces",
+      "title": "Trapped Pieces",
+      "path": "content/chess-com-collections/trapped-pieces.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": true,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 5326,
+      "sha256": "b3462af211c01a0addae515f36051be3f143b279eea484d52c8598f9fb43a7dd"
+    },
+    {
+      "id": "chesscom-viswanathan-anand",
+      "title": "Viswanathan Anand",
+      "path": "content/chess-com-collections/viswanathan-anand.pgn",
+      "type": "pgn-collection",
+      "count": 9,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 3,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: https://www.youtube.com/watch?v=VCX4yxuWFII , https://www.youtube.com/watch?v=l2nDiHbEhhw , https://www.youtube.com/watch?v=tdLZmsaOs4I&t=110s"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 3790,
+      "sha256": "d4d07ea673e4d073ae9ec2084e5c53e6d58d41caf4f76a7910d289da18aed0ac"
+    },
+    {
+      "id": "chesscom-week-1-analysis",
+      "title": "Week 1 Analysis",
+      "path": "content/chess-com-collections/week-1-analysis.pgn",
+      "type": "pgn-collection",
+      "count": 6,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2051,
+      "sha256": "ed6d6cb58d9d835c8b7cd196dcacfaf26efff9da0fffb3453f99db30f91e2a49"
+    },
+    {
+      "id": "chesscom-week-1-autumn-2025-mistakes-in-the-opening",
+      "title": "Week 1 Autumn 2025: Mistakes in the Opening",
+      "path": "content/chess-com-collections/week-1-autumn-2025-mistakes-in-the-opening.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 1,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 5418,
+      "sha256": "c1bd9482b3105426f4f8ff424e9c0369d96b0fe0cac2068a9c766829fdbc6d2b"
+    },
+    {
+      "id": "chesscom-week-2-autumn-2025-caro-kann",
+      "title": "Week 2 Autumn 2025: Caro Kann",
+      "path": "content/chess-com-collections/week-2-autumn-2025-caro-kann.pgn",
+      "type": "pgn-collection",
+      "count": 9,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 8,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 15331,
+      "sha256": "f20d97143542571f34e19e9e59e59bd4318a44f20ff8dcf9ae67ea3c7f1cd477"
+    },
+    {
+      "id": "chesscom-week-3-harry-nelson-pillsbury",
+      "title": "Week 3 Harry Nelson Pillsbury",
+      "path": "content/chess-com-collections/week-3-harry-nelson-pillsbury.pgn",
+      "type": "pgn-collection",
+      "count": 4,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2112,
+      "sha256": "808259385bb7669ac3b0256ede839cacb35bddf5e64110a3cce4c67d63b856c0"
+    },
+    {
+      "id": "chesscom-week-3-howard-staunton",
+      "title": "Week 3 Howard Staunton",
+      "path": "content/chess-com-collections/week-3-howard-staunton.pgn",
+      "type": "pgn-collection",
+      "count": 5,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05",
+        "original note: https://www.youtube.com/watch?v=QGlEy8yIN2M",
+        "Source tag: New Court Gazette, 1840.10.03, p.639",
+        "Source tag: Illustrated London News, 1846.02.14, p.115"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 2233,
+      "sha256": "eb55f551409373520514ddf82141c3d0dd752a55551d25e8bb53e10cb3b3641c"
+    },
+    {
+      "id": "chesscom-week-4-queens-gambit",
+      "title": "Week 4: Queen's Gambit",
+      "path": "content/chess-com-collections/week-4-queens-gambit.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 705,
+      "sha256": "447ecfd87b57a6597279b23c08c9a0da9c277788fdcafea2e9bdfa59e0a12d2f"
+    },
+    {
+      "id": "chesscom-week-5-game-analyses",
+      "title": "Week 5: Game Analyses",
+      "path": "content/chess-com-collections/week-5-game-analyses.pgn",
+      "type": "pgn-collection",
+      "count": 16,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 5283,
+      "sha256": "e1f664ecffc9cf031f8f1c1c0c269b7ea6a6cdac3ce36d7f5d486d8ef476a809"
+    },
+    {
+      "id": "chesscom-week-5-games-played",
+      "title": "Week 5: Games played",
+      "path": "content/chess-com-collections/week-5-games-played.pgn",
+      "type": "pgn-collection",
+      "count": 2,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 719,
+      "sha256": "b6cb3a5090b1f2b3c80b6d5bba5c7771368741ca85a42fce8578bc637018b074"
+    },
+    {
+      "id": "chesscom-brilliancies",
+      "title": "Brilliancies",
+      "path": "content/chess-com-collections/brilliancies.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 0,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 597,
+      "sha256": "64336d284981aa5278e709debd109b12dc7d671bc6cc032322ea24a261a8c6a1"
+    },
+    {
+      "id": "chesscom-memorable-2",
+      "title": "Memorable 2",
+      "path": "content/chess-com-collections/memorable-2.pgn",
+      "type": "pgn-collection",
+      "count": 3,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 2,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 4878,
+      "sha256": "2bad2c9b02c868e882336ef31ec74c72920494f8a007a87f0f53fc82f27abea9"
+    },
+    {
+      "id": "chesscom-memorable",
+      "title": "Memorable",
+      "path": "content/chess-com-collections/memorable.pgn",
+      "type": "pgn-collection",
+      "count": 25,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": true,
+      "has_highlights": false,
+      "has_clock": true,
+      "games_with_fen": 17,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 48479,
+      "sha256": "a29f009a1f91774e97a9bc77fb899deefe5ab23bcfbefc04043a0635d057deb0"
+    },
+    {
+      "id": "chesscom-prelim1",
+      "title": "Prelim1",
+      "path": "content/chess-com-collections/prelim1.pgn",
+      "type": "pgn-collection",
+      "count": 4,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": false,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 2,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1967,
+      "sha256": "983895009b7cbf00a32dc7ecfbcaef4e0805deb550327fff03e6ff4887522169"
+    },
+    {
+      "id": "chesscom-studies",
+      "title": "Studies",
+      "path": "content/chess-com-collections/studies.pgn",
+      "type": "pgn-collection",
+      "count": 1,
+      "count_unit": "games",
+      "has_comments": false,
+      "has_variations": true,
+      "has_arrows": false,
+      "has_highlights": false,
+      "has_clock": false,
+      "games_with_fen": 1,
+      "date": null,
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 391,
+      "sha256": "c28605cb9a5585f959ebe79a1c7ae0d80965ae26badccfbc248e46f42d387ceb"
+    },
+    {
+      "id": "lichess-level-1-rating-400-899-2026-09-24",
+      "title": "Lichess homework sheet, Level 1 (rating 400-899), set of 2026-09-24",
+      "path": "content/lichess-exemplar-sheets/levels/level-1-rating-400-899/level-1-rating-400-899-2026-09-24.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "levels",
+        "name": "level-1-rating-400-899"
+      },
+      "data": "lichess-level-1-rating-400-899-2026-09-24-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "has_hints": true,
+      "size_bytes": 668697,
+      "sha256": "1c0ca5b021e7c8d9f72c76e4bb41781cc524450c4cc8cbfba359fb5981e34168"
+    },
+    {
+      "id": "lichess-level-1-rating-400-899-2026-09-24-data",
+      "title": "Lichess homework sheet, Level 1 (rating 400-899), set of 2026-09-24 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/levels/level-1-rating-400-899/level-1-rating-400-899-2026-09-24.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "levels",
+        "name": "level-1-rating-400-899"
+      },
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-level-1-rating-400-899-2026-09-24",
+      "hints_on_sheet": true,
+      "size_bytes": 3965,
+      "sha256": "7b4a8121882c0afa52d816b8d69dbb96aa8e41bbc651a83177a786affc841682"
+    },
+    {
+      "id": "lichess-level-2-rating-900-1299-2026-09-24",
+      "title": "Lichess homework sheet, Level 2 (rating 900-1299), set of 2026-09-24",
+      "path": "content/lichess-exemplar-sheets/levels/level-2-rating-900-1299/level-2-rating-900-1299-2026-09-24.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "levels",
+        "name": "level-2-rating-900-1299"
+      },
+      "data": "lichess-level-2-rating-900-1299-2026-09-24-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "has_hints": true,
+      "size_bytes": 1013326,
+      "sha256": "872331cf66464e98f9667d5a055c64b63f616904d1fa60203ab3eda3e0ae675e"
+    },
+    {
+      "id": "lichess-level-2-rating-900-1299-2026-09-24-data",
+      "title": "Lichess homework sheet, Level 2 (rating 900-1299), set of 2026-09-24 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/levels/level-2-rating-900-1299/level-2-rating-900-1299-2026-09-24.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "levels",
+        "name": "level-2-rating-900-1299"
+      },
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-level-2-rating-900-1299-2026-09-24",
+      "hints_on_sheet": true,
+      "size_bytes": 3913,
+      "sha256": "53e863e16366cc5528cd90a0364b2c8f52be0c1abf2f80c234d3eae817ffb1bd"
+    },
+    {
+      "id": "lichess-level-3-rating-1300-1699-2026-09-24",
+      "title": "Lichess homework sheet, Level 3 (rating 1300-1699), set of 2026-09-24",
+      "path": "content/lichess-exemplar-sheets/levels/level-3-rating-1300-1699/level-3-rating-1300-1699-2026-09-24.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "levels",
+        "name": "level-3-rating-1300-1699"
+      },
+      "data": "lichess-level-3-rating-1300-1699-2026-09-24-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "has_hints": true,
+      "size_bytes": 776152,
+      "sha256": "8ac6fff52f1260f56a06be6a33cbd9b5ff324018d252e256a15d391ed137b3b9"
+    },
+    {
+      "id": "lichess-level-3-rating-1300-1699-2026-09-24-data",
+      "title": "Lichess homework sheet, Level 3 (rating 1300-1699), set of 2026-09-24 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/levels/level-3-rating-1300-1699/level-3-rating-1300-1699-2026-09-24.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "levels",
+        "name": "level-3-rating-1300-1699"
+      },
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-level-3-rating-1300-1699-2026-09-24",
+      "hints_on_sheet": true,
+      "size_bytes": 3841,
+      "sha256": "9168539a1d24f17a90a933821f6067a24e184a16e90cdf2932ef8199f65f2564"
+    },
+    {
+      "id": "lichess-level-4-rating-1700-plus-2026-09-24",
+      "title": "Lichess homework sheet, Level 4 (rating 1700+), set of 2026-09-24",
+      "path": "content/lichess-exemplar-sheets/levels/level-4-rating-1700-plus/level-4-rating-1700-plus-2026-09-24.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "levels",
+        "name": "level-4-rating-1700-plus"
+      },
+      "data": "lichess-level-4-rating-1700-plus-2026-09-24-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "has_hints": true,
+      "size_bytes": 726458,
+      "sha256": "d11a027b1a7ad1ad7e9732d9facabae8c9c98c761d0e06b24e35606562e512cd"
+    },
+    {
+      "id": "lichess-level-4-rating-1700-plus-2026-09-24-data",
+      "title": "Lichess homework sheet, Level 4 (rating 1700+), set of 2026-09-24 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/levels/level-4-rating-1700-plus/level-4-rating-1700-plus-2026-09-24.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "levels",
+        "name": "level-4-rating-1700-plus"
+      },
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-level-4-rating-1700-plus-2026-09-24",
+      "hints_on_sheet": true,
+      "size_bytes": 3818,
+      "sha256": "c5008388997ef30fa0621c38bca9cbe4af0e01ddcbf9260d532b88f619933d7b"
+    },
+    {
+      "id": "lichess-theme-forks-and-pins-2026-09-24",
+      "title": "Lichess homework sheet, theme: Forks and Pins, set of 2026-09-24",
+      "path": "content/lichess-exemplar-sheets/themes/forks-and-pins/forks-and-pins-2026-09-24.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "themes",
+        "name": "forks-and-pins"
+      },
+      "data": "lichess-theme-forks-and-pins-2026-09-24-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Tactics: Forks",
+        "Tactics: Pins"
+      ],
+      "has_hints": true,
+      "size_bytes": 946846,
+      "sha256": "ef2ebd6480557146d253e2761480883d2d82aac133d48c4a5906ec6cbf81c11c"
+    },
+    {
+      "id": "lichess-theme-forks-and-pins-2026-09-24-data",
+      "title": "Lichess homework sheet, theme: Forks and Pins, set of 2026-09-24 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/themes/forks-and-pins/forks-and-pins-2026-09-24.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "themes",
+        "name": "forks-and-pins"
+      },
+      "themes": [
+        "Tactics: Forks",
+        "Tactics: Pins"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-theme-forks-and-pins-2026-09-24",
+      "hints_on_sheet": true,
+      "size_bytes": 3853,
+      "sha256": "13ad77d2343b0f0ad17c378effae81d3a2ff9f9811b35afecf3910dc7ac207e3"
+    },
+    {
+      "id": "lichess-theme-skewers-and-discovered-attacks-2026-09-24",
+      "title": "Lichess homework sheet, theme: Skewers and Discovered Attacks, set of 2026-09-24",
+      "path": "content/lichess-exemplar-sheets/themes/skewers-and-discovered-attacks/skewers-and-discovered-attacks-2026-09-24.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "themes",
+        "name": "skewers-and-discovered-attacks"
+      },
+      "data": "lichess-theme-skewers-and-discovered-attacks-2026-09-24-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Tactics: Skewers",
+        "Tactics: Discovered Attacks"
+      ],
+      "has_hints": true,
+      "size_bytes": 856412,
+      "sha256": "f84f87eb9ea1ba7b7609158d86b80590940db9ee7a6a0573273b39f861954ed4"
+    },
+    {
+      "id": "lichess-theme-skewers-and-discovered-attacks-2026-09-24-data",
+      "title": "Lichess homework sheet, theme: Skewers and Discovered Attacks, set of 2026-09-24 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/themes/skewers-and-discovered-attacks/skewers-and-discovered-attacks-2026-09-24.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "themes",
+        "name": "skewers-and-discovered-attacks"
+      },
+      "themes": [
+        "Tactics: Skewers",
+        "Tactics: Discovered Attacks"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-theme-skewers-and-discovered-attacks-2026-09-24",
+      "hints_on_sheet": true,
+      "size_bytes": 4001,
+      "sha256": "a9200ec3ab692c8df078bc93fe37d095c35ac71f60065c88cdd689f8c00481e2"
+    },
+    {
+      "id": "lichess-level-1-rating-400-899-2026-10-02",
+      "title": "Lichess homework sheet, Level 1 (rating 400-899), set of 2026-10-02",
+      "path": "content/lichess-exemplar-sheets/levels/level-1-rating-400-899/level-1-rating-400-899-2026-10-02.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "levels",
+        "name": "level-1-rating-400-899"
+      },
+      "data": "lichess-level-1-rating-400-899-2026-10-02-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "has_hints": true,
+      "size_bytes": 723406,
+      "sha256": "f09719e749a2d7db6b1422e152a0a81117901e244ae4138ae4e53516533f149c"
+    },
+    {
+      "id": "lichess-level-1-rating-400-899-2026-10-02-data",
+      "title": "Lichess homework sheet, Level 1 (rating 400-899), set of 2026-10-02 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/levels/level-1-rating-400-899/level-1-rating-400-899-2026-10-02.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "levels",
+        "name": "level-1-rating-400-899"
+      },
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-level-1-rating-400-899-2026-10-02",
+      "hints_on_sheet": true,
+      "size_bytes": 3884,
+      "sha256": "d191ea500987e9f205bef608945ee62444de72d41bfb8d4fc9625e8e4a5bbe81"
+    },
+    {
+      "id": "lichess-level-2-rating-900-1299-2026-10-02",
+      "title": "Lichess homework sheet, Level 2 (rating 900-1299), set of 2026-10-02",
+      "path": "content/lichess-exemplar-sheets/levels/level-2-rating-900-1299/level-2-rating-900-1299-2026-10-02.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "levels",
+        "name": "level-2-rating-900-1299"
+      },
+      "data": "lichess-level-2-rating-900-1299-2026-10-02-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "has_hints": true,
+      "size_bytes": 826529,
+      "sha256": "036385b5e05f95cb3d10b553489e57eeca1d43001dd66149371bcbcadc9c4411"
+    },
+    {
+      "id": "lichess-level-2-rating-900-1299-2026-10-02-data",
+      "title": "Lichess homework sheet, Level 2 (rating 900-1299), set of 2026-10-02 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/levels/level-2-rating-900-1299/level-2-rating-900-1299-2026-10-02.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "levels",
+        "name": "level-2-rating-900-1299"
+      },
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-level-2-rating-900-1299-2026-10-02",
+      "hints_on_sheet": true,
+      "size_bytes": 3925,
+      "sha256": "d8ed387c5faeadb8979825469a462c78842a4418fb94961d3bb8873f2ed2a0c6"
+    },
+    {
+      "id": "lichess-level-3-rating-1300-1699-2026-10-02",
+      "title": "Lichess homework sheet, Level 3 (rating 1300-1699), set of 2026-10-02",
+      "path": "content/lichess-exemplar-sheets/levels/level-3-rating-1300-1699/level-3-rating-1300-1699-2026-10-02.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "levels",
+        "name": "level-3-rating-1300-1699"
+      },
+      "data": "lichess-level-3-rating-1300-1699-2026-10-02-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "has_hints": true,
+      "size_bytes": 742748,
+      "sha256": "b71f05f33acba46bace76b2006c1d74f0d355fc0e46e07513563ccfe5aeb1b3b"
+    },
+    {
+      "id": "lichess-level-3-rating-1300-1699-2026-10-02-data",
+      "title": "Lichess homework sheet, Level 3 (rating 1300-1699), set of 2026-10-02 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/levels/level-3-rating-1300-1699/level-3-rating-1300-1699-2026-10-02.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "levels",
+        "name": "level-3-rating-1300-1699"
+      },
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-level-3-rating-1300-1699-2026-10-02",
+      "hints_on_sheet": true,
+      "size_bytes": 3865,
+      "sha256": "694d04426065b5977e4b7f7cab2cb2a0468a96ef08be57a0b83c729718578ba4"
+    },
+    {
+      "id": "lichess-level-4-rating-1700-plus-2026-10-02",
+      "title": "Lichess homework sheet, Level 4 (rating 1700+), set of 2026-10-02",
+      "path": "content/lichess-exemplar-sheets/levels/level-4-rating-1700-plus/level-4-rating-1700-plus-2026-10-02.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "levels",
+        "name": "level-4-rating-1700-plus"
+      },
+      "data": "lichess-level-4-rating-1700-plus-2026-10-02-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "has_hints": true,
+      "size_bytes": 695852,
+      "sha256": "981d75ea864ec7dc14ee1220f69e520fccffcfb6479cc2dafdbe5bb4930a7bf6"
+    },
+    {
+      "id": "lichess-level-4-rating-1700-plus-2026-10-02-data",
+      "title": "Lichess homework sheet, Level 4 (rating 1700+), set of 2026-10-02 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/levels/level-4-rating-1700-plus/level-4-rating-1700-plus-2026-10-02.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": true,
+      "hint_tiers_only": false,
+      "group": {
+        "kind": "levels",
+        "name": "level-4-rating-1700-plus"
+      },
+      "themes": [
+        "Checkmate!",
+        "Win Material!"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-level-4-rating-1700-plus-2026-10-02",
+      "hints_on_sheet": true,
+      "size_bytes": 3814,
+      "sha256": "033e150a7235ef1a760ca5bc118f069d99110b3baf6445924e3d90080e58d276"
+    },
+    {
+      "id": "lichess-taster",
+      "title": "Lichess taster sheet: forks and checkmate in 2",
+      "path": "content/lichess-exemplar-sheets/tasters/lichess-taster/lichess-taster.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "tasters",
+        "name": "lichess-taster"
+      },
+      "data": "lichess-taster-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Tactics: Forks",
+        "Checkmate in 2"
+      ],
+      "has_hints": true,
+      "size_bytes": 821096,
+      "sha256": "ac455c179199c2262a433e8f10d4b61e220ab75488ad39bcb15e5c6e69a29757"
+    },
+    {
+      "id": "lichess-taster-data",
+      "title": "Lichess taster sheet: forks and checkmate in 2 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/tasters/lichess-taster/lichess-taster.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": false,
+      "hint_tiers_only": true,
+      "group": {
+        "kind": "tasters",
+        "name": "lichess-taster"
+      },
+      "themes": [
+        "Tactics: Forks",
+        "Checkmate in 2"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-taster",
+      "hints_on_sheet": true,
+      "hints_note": "Selection only: this file lists puzzle ids and hint tiers, not hint text. The hint text is printed on the sheet lichess-taster.",
+      "size_bytes": 2195,
+      "sha256": "9fbbadf4edafee67dd323fd91e09015d43646d2a4e4f41f131fa37a4ef165ed1"
+    },
+    {
+      "id": "lichess-taster-mate-in-1-and-3",
+      "title": "Lichess taster sheet: checkmate in 1 and in 3",
+      "path": "content/lichess-exemplar-sheets/tasters/lichess-taster-mate-in-1-and-3/lichess-taster-mate-in-1-and-3.pdf",
+      "type": "pdf-sheet",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "group": {
+        "kind": "tasters",
+        "name": "lichess-taster-mate-in-1-and-3"
+      },
+      "data": "lichess-taster-mate-in-1-and-3-data",
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "themes": [
+        "Checkmate in 1",
+        "Checkmate in 3"
+      ],
+      "has_hints": true,
+      "size_bytes": 1016709,
+      "sha256": "bd56508663557286568067c086adbf0cf5129aa9ec7e3278689d3abf70c04e5f"
+    },
+    {
+      "id": "lichess-taster-mate-in-1-and-3-data",
+      "title": "Lichess taster sheet: checkmate in 1 and in 3 (puzzle data)",
+      "path": "content/lichess-exemplar-sheets/tasters/lichess-taster-mate-in-1-and-3/lichess-taster-mate-in-1-and-3.json",
+      "type": "puzzle-data",
+      "count": 12,
+      "count_unit": "puzzles",
+      "has_comments": null,
+      "has_variations": null,
+      "has_hints": false,
+      "hint_tiers_only": true,
+      "group": {
+        "kind": "tasters",
+        "name": "lichess-taster-mate-in-1-and-3"
+      },
+      "themes": [
+        "Checkmate in 1",
+        "Checkmate in 3"
+      ],
+      "sources": [
+        "Lichess puzzle database (https://database.lichess.org/#puzzles, CC0)",
+        "LSMP hint_generation (rule-based hints)"
+      ],
+      "licence": "CC0-1.0 + CC-BY-NC-4.0",
+      "sheet": "lichess-taster-mate-in-1-and-3",
+      "hints_on_sheet": true,
+      "hints_note": "Selection only: this file lists puzzle ids and hint tiers, not hint text. The hint text is printed on the sheet lichess-taster-mate-in-1-and-3.",
+      "size_bytes": 2203,
+      "sha256": "22e48d9cf7d5d667d6ec47b145f99485298207308c9c0678434cd8a93f3f0c3f"
+    },
+    {
+      "id": "chesscom-sources",
+      "title": "Sources for the chess.com collections",
+      "path": "content/chess-com-collections/sources.md",
+      "type": "sources",
+      "count": 14,
+      "count_unit": "collections",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "has_comments": null,
+      "has_variations": null,
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 3749,
+      "sha256": "d38b6e5b64855b5fddf0496333fc4de271291f6f7bd8f5c62eddd4beff308c02"
+    },
+    {
+      "id": "chesscom-mapping",
+      "title": "Name and hash mapping for the chess.com collections",
+      "path": "content/chess-com-collections/mapping.json",
+      "type": "mapping",
+      "count": 76,
+      "count_unit": "files",
+      "sources": [
+        "chess.com library export of 2026-10-05"
+      ],
+      "has_comments": null,
+      "has_variations": null,
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 23181,
+      "sha256": "ea18eea8ce073612dd7ef76be63551e88ea7cba3ea39c623eef880f443581c47"
+    },
+    {
+      "id": "readme",
+      "title": "Library README",
+      "path": "README.md",
+      "type": "readme",
+      "count": null,
+      "count_unit": null,
+      "sources": [],
+      "has_comments": null,
+      "has_variations": null,
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1693,
+      "sha256": "7c2555f77b53de1c3ac42b9c1729af481937d6b57d2ce4b659b0a72994eddfb1"
+    },
+    {
+      "id": "agents",
+      "title": "Guide for AI agents working on a copy",
+      "path": "AGENTS.md",
+      "type": "agents-guide",
+      "count": null,
+      "count_unit": null,
+      "sources": [],
+      "has_comments": null,
+      "has_variations": null,
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 4831,
+      "sha256": "9bda3bfe64d087b62ad9dbd86aff03ea4d74e0ddda0004d03f425dbc87ed00b4"
+    },
+    {
+      "id": "license",
+      "title": "Licence and credits",
+      "path": "LICENSE",
+      "type": "license",
+      "count": null,
+      "count_unit": null,
+      "sources": [],
+      "has_comments": null,
+      "has_variations": null,
+      "licence": "CC-BY-NC-4.0",
+      "size_bytes": 1754,
+      "sha256": "09613a660709b6ce91129cb9bc0f50d436ae0b95a64a0a0b4b1db7dac1c8d025"
+    }
+  ]
+}

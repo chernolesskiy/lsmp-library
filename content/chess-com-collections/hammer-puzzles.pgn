@@ -1,0 +1,84 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p1b2pp/3p1r2/p2Pbp2/2P4Q/2N3P1/PP5P/2qBRR1K w - - 0 1"]
+
+1. Ba4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/1pp2ppp/6n1/p3P3/2bN4/P5B1/1P2PPPP/R2QKB1R b KQkq - 0 1"]
+
+1... Qd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3rqk1/5pp1/bp3n1p/p1bpB3/3Nn3/4PNPB/PPQ2P1P/R2R2K1 w - - 0 1"]
+
+1. Rac1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/6N1/p1qp1Qp1/1p4P1/6pP/3PB3/8/4K3 b - - 0 1"]
+
+1... g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppq2ppp/2nbpn2/3pN3/2pP1B2/2P1PN2/PPB2PPP/R2Q1RK1 b - - 0 1"]
+
+{[%cal df6d5,df6h7][%c_arrow
+f6d5;keyPressed;none;opacity;0.8;from;f6;to;d5;persistent;false,f6h7;keyPressed;none;opacity;0.8;from;f6;to;h7;persistent;false][%c_highlight
+d5;keyPressed;none;opacity;0.8;square;d5;persistent;false,h7;keyPressed;none;opacity;0.8;square;h7;persistent;false]}
+1... Nh5 2. Rb1 (2. Bb1) (2. Bxh7+ Kxh7 3. Qc2+ (3. Ng5+ Kg8 4. Qxh5 f6 (4... g6
+5. Qh7#) (4... Rd8) (4... Re8 5. Qh7+ Kf8 6. Qh8+ Ke7 7. Qxg7 {[%cal
+dg5f4][%c_arrow
+g5f4;keyPressed;none;opacity;0.8;from;g5;to;f4;persistent;false]}) 5. Qh7#)) *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/pbq2p1p/1p3PpQ/n7/3p4/3BB3/P1P3PP/R4RK1 b - - 0 1"]
+
+1... Rg8 2. Bxg6 (2. Bxd4 Qc6) (2. Bf4 Qc6 {[%cal de3f4][%c_arrow
+e3f4;keyPressed;none;opacity;0.8;from;e3;to;f4;persistent;false][%c_highlight
+f4;keyPressed;none;opacity;0.8;square;f4;persistent;false]}) (2. Rf3 a6 3. Rh3)
+(2. Rf4 Qe5 3. Rh4 (3. Qxh7+ Kxh7 4. Rh4+ Qh5 5. Rxh5#) 3... Qxe3+ 4. Kh1 Qxh6
+5. Rxh6) 2... fxg6 {[%cal dc7h7][%c_arrow
+c7h7;keyPressed;none;opacity;0.8;from;c7;to;h7;persistent;false][%c_highlight
+h7;keyPressed;none;opacity;0.8;square;h7;persistent;false,g7;keyPressed;none;opacity;0.8;square;g7;persistent;false]}
+*

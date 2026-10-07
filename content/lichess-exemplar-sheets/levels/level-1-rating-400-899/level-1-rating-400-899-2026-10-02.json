@@ -1,0 +1,132 @@
+{
+  "kind": "level 1",
+  "seed": 330315697,
+  "created": "2026-10-02T21:19:31",
+  "reveal": {
+    "policy_level": 1,
+    "policy": "hint_generation/reveal_policy.yaml",
+    "harder_first": null
+  },
+  "pages": [
+    {
+      "title": "Checkmate!",
+      "description": "Every puzzle here ends in checkmate. Checks first!",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 0,
+        "R2": 0,
+        "R3": 6
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "02iYi",
+          "rating": 671,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Checkmate in one move with your queen. Look for checks first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "06PUC",
+          "rating": 682,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Check with your queen first, then checkmate with your queen. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "01I0q",
+          "rating": 810,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Check with your queen first, then checkmate with your queen."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05q11",
+          "rating": 815,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Use your queen to check first, then checkmate with your queen."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "03pZy",
+          "rating": 860,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Always play checkmate in one move! Use your queen."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "08LEO",
+          "rating": 876,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Checkmate in one move with your queen. Find it!"
+        }
+      ]
+    },
+    {
+      "title": "Win Material!",
+      "description": "Find the tactic that wins material.",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 0,
+        "R2": 1,
+        "R3": 5
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05qIk",
+          "rating": 483,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Win material! Not a check this time -- look for a quiet move!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "07roS",
+          "rating": 686,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Play a fork: check with your knight first, then take the hanging rook. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "03BlZ",
+          "rating": 728,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Sacrifice your bishop with check first, then take the hanging rook. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05cZt",
+          "rating": 807,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Take the hanging rook first, then play a quiet pawn move."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0CGDp",
+          "rating": 821,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Sacrifice your bishop first, then win the queen."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "01lB9",
+          "rating": 888,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "A fork is waiting! Check with your knight first, then take the hanging queen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+[Event "Goglidze Memorial"]
+[Site "Tbilisi URS"]
+[Date "1969.12.30"]
+[Round "11"]
+[White "Mikhail Tal"]
+[Black "Alexey Suetin"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[ECO "B42"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. Nc3 Nbc6 7. Nb3 Ng6 8.
+O-O b5 9. Be3 d6 10. f4 Be7 11. Qh5 Bf6 12. Rad1 Bxc3 13. bxc3 Qc7 14. Rd2 Nce7
+15. Nd4 Bd7 16. f5 exf5 17. exf5 Ne5 18. Ne6 Bxe6 19. fxe6 g6 20. Qxe5 dxe5 21.
+exf7+ 1-0
+
+[Event "Tal - Larsen Candidates Semifinal"]
+[Site "Bled YUG"]
+[Date "1965.08.08"]
+[Round "10"]
+[White "Mikhail Tal"]
+[Black "Bent Larsen"]
+[Result "1-0"]
+[EventDate "1965.07.23"]
+[ECO "B82"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[MovePly "73"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be3 Nf6 7. f4 Be7 8. Qf3
+O-O 9. O-O-O Qc7 10. Ndb5 Qb8 11. g4 a6 12. Nd4 Nxd4 13. Bxd4 b5 14. g5 Nd7 15.
+Bd3 b4 16. Nd5 {!} 16... exd5 17. exd5 {The piece sacrifice is a positional one,
+since it has been used to erect an invisible barrier on the e-file. A number of
+squares on it (e5 and e6) are controlled by white pawns, and a white rook will
+soon be moved to e1. -- Iakov Damsky} 17... f5 18. Rde1 Rf7 19. h4 Bb7 20. Bxf5
+Rxf5 21. Rxe7 Ne5 22. Qe4 Qf8 23. fxe5 Rf4 24. Qe3 Rf3 25. Qe2 Qxe7 26. Qxf3
+dxe5 27. Re1 Rd8 28. Rxe5 Qd6 29. Qf4 {! With this simple tactic 29 ...Bxd5 30.
+Re8+ White keeps his two extra pawns. The finish is straightforward. -- Damsky}
+29... Rf8 30. Qe4 b3 31. axb3 Rf1+ 32. Kd2 Qb4+ 33. c3 Qd6 34. Bc5 Qxc5 35. Re8+
+Rf8 36. Qe6+ Kh8 37. Qf7 1-0
+
+[Event "Tal - Portisch Candidates Quarterfinal"]
+[Site "Bled YUG"]
+[Date "1965.06.28"]
+[Round "2"]
+[White "Mikhail Tal"]
+[Black "Lajos Portisch"]
+[Result "1-0"]
+[EventDate "1965.06.26"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bg4 5. h3 Bxf3 6. Qxf3 Nd7 7. d4 Ngf6 8.
+Bd3 Nxe4 9. Qxe4 e6 10. O-O Be7 11. c3 Nf6 12. Qh4 Nd5 13. Qg4 Bf6 14. Re1 Qb6
+15. c4 Nb4 16. Rxe6+ fxe6 17. Qxe6+ Kf8 18. Bf4 Rd8 19. c5 Nxd3 20. cxb6 Nxf4
+21. Qg4 Nd5 22. bxa7 Ke7 23. b4 Ra8 24. Re1+ Kd6 25. b5 Rxa7 26. Re6+ Kc7 27.
+Rxf6 1-0
+
+[Event "Bled-Zagreb-Belgrade Candidates"]
+[Site "Bled, Zagreb & Belgrade YUG"]
+[Date "1959.10.11"]
+[Round "20"]
+[White "Mikhail Tal"]
+[Black "Robert James Fischer"]
+[Result "1-0"]
+[EventDate "1959.09.07"]
+[ECO "E93"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. Bg5 h6
+9. Bh4 a6 10. O-O Qe8 11. Nd2 Nh7 12. b4 Bf6 13. Bxf6 Nhxf6 14. Nb3 Qe7 15. Qd2
+Kh7 16. Qe3 Ng8 17. c5 f5 18. exf5 gxf5 19. f4 exf4 20. Qxf4 dxc5 21. Bd3 cxb4
+22. Rae1 Qf6 23. Re6 Qxc3 24. Bxf5+ Rxf5 25. Qxf5+ Kh8 26. Rf3 Qb2 27. Re8 Nf6
+28. Qxf6+ Qxf6 29. Rxf6 Kg7 30. Rff8 Ne7 31. Na5 h5 32. h4 Rb8 33. Nc4 b5 34.
+Ne5 1-0
+
+[Event "8th Soviet Team Cup"]
+[Site "Moscow URS"]
+[Date "1974.08.26"]
+[Round "5"]
+[White "Mikhail Tal"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "1-0"]
+[EventDate "1974.08.20"]
+[ECO "B08"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "45"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Nc6 7. d5 Nb8 8. Re1
+e5 9. dxe6 Bxe6 10. Bf4 h6 11. Nd4 Bd7 12. Qd2 Kh7 13. e5 dxe5 14. Bxe5 Ne4 15.
+Nxe4 Bxe5 16. Nf3 Bg7 17. Rad1 Qc8 18. Bc4 Be8 19. Neg5+ hxg5 20. Nxg5+ Kg8 21.
+Qf4 Nd7 22. Rxd7 Bxd7 23. Bxf7+ 1-0
+
+[Event "Mikhail Tal vs. Georgi Tringov: Amsterdam 1964 (2)"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Modern Defense: Two Knights Variation, Suttles Variation, Tal Gambit"]
+[StudyName "Mikhail Tal vs. Georgi Tringov"]
+[ChapterName "Amsterdam 1964 (2)"]
+[UTCDate "2021.05.01"]
+[UTCTime "14:32:51"]
+[Annotator "https://lichess.org/@/BlunderOven"]
+[ChapterURL "https://lichess.org/study/SeOsShhE/vy7dR32N"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 c6 {Black makes an unnecessary pawn move,
+before he has finished developing. Stronger was} (4... Nf6) 5. Bg5 {The other
+active bishop move, 5.♗c4, was not so effective, since there the bishop could
+become an object of attack by a later ...b7-b5 or ...d6-d5.} (5. Bc4 {[%csl
+Gd5,Gb5][%cal Gd6d5,Gb7b5]}) 5... Qb6? {And this is already a serious mistake.
+It was essential to play 5...♘f6.} (5... Nf6) 6. Qd2! {Instead of passively
+defending the pawn, White prepares its sacrifice and gains additional tempi for
+development.} 6... Qxb2 7. Rb1 Qa3 8. Bc4 Qa5 9. O-O e6 10. Rfe1 a6 11. Bf4 e5
+(11... Qc7) 12. dxe5 dxe5 13. Qd6! Qxc3 14. Red1 Nd7 15. Bxf7+ Kxf7 16. Ng5+ Ke8
+17. Qe6+ {1-0 Black resigns.} 1-0
+
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1957.02.16"]
+[Round "18"]
+[White "Bukhuti Gurgenidze"]
+[Black "Mikhail Tal"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[ECO "A78"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 {[%cal dd1g4][%c_arrow
+d1g4;keyPressed;none;opacity;0.8;from;d1;to;g4;persistent;false]} 10... Na6 11.
+Re1 {[%cal df1f2][%c_arrow
+f1f2;keyPressed;none;opacity;0.8;from;f1;to;f2;persistent;false][%c_highlight
+f2;keyPressed;none;opacity;0.8;square;f2;persistent;false]} 11... Nc7 12. a4 b6
+13. Qc2 {[%cal dd1c2][%c_arrow
+d1c2;keyPressed;none;opacity;0.8;from;d1;to;c2;persistent;false]} 13... Ng4
+{[%c_highlight g2;keyPressed;none;opacity;0.8;square;g2;persistent;false]} 14.
+h3 {[%c_highlight
+f2;keyPressed;none;opacity;0.8;square;f2;persistent;false,g3;keyPressed;none;opacity;0.8;square;g3;persistent;false][%cal
+df2g3][%c_arrow
+f2g3;keyPressed;none;opacity;0.8;from;f2;to;g3;persistent;false]} 14... Nxf2 15.
+Kxf2 Qh4+ 16. Kf1 (16. g3 Qxh3 17. Kg1 Qxg3+) 16... Bd4 17. Nd1 Qxh3 18. Bf3
+{[%cal df3g2,df1e2,de2d3,dd3c4][%c_arrow
+f3g2;keyPressed;none;opacity;0.8;from;f3;to;g2;persistent;false,f1e2;keyPressed;none;opacity;0.8;from;f1;to;e2;persistent;false,e2d3;keyPressed;none;opacity;0.8;from;e2;to;d3;persistent;false,d3c4;keyPressed;none;opacity;0.8;from;d3;to;c4;persistent;false][%c_highlight
+g2;keyPressed;none;opacity;0.8;square;g2;persistent;false]} (18. gxh3 Bxh3#)
+18... Qh2 19. Ne3 {[%cal de3g2][%c_arrow
+e3g2;keyPressed;none;opacity;0.8;from;e3;to;g2;persistent;false][%c_highlight
+g2;keyPressed;none;opacity;0.8;square;g2;persistent;false]} 19... f5 20. Ndc4
+fxe4 {[%cal df8f1][%c_arrow
+f8f1;keyPressed;none;opacity;0.8;from;f8;to;f1;persistent;false]} 21. Bxe4 Ba6
+{[%cal de1e3][%c_arrow
+e1e3;keyPressed;none;opacity;0.8;from;e1;to;e3;persistent;false]} (21... Bf5 22.
+Nxf5 (22. Nd2 {[%cal dd2e4][%c_arrow
+d2e4;keyPressed;none;opacity;0.8;from;d2;to;e4;persistent;false][%c_highlight
+e4;keyPressed;none;opacity;0.8;square;e4;persistent;false]}) 22... gxf5 23.
+Bxf5) 22. Bf3 Re5 {[%cal dc4e5][%c_arrow
+c4e5;keyPressed;none;opacity;0.8;from;c4;to;e5;persistent;false][%c_highlight
+e5;keyPressed;none;opacity;0.8;square;e5;persistent;false]} 23. Ra3 {[%cal
+da3f3][%c_arrow
+a3f3;keyPressed;none;opacity;0.8;from;a3;to;f3;persistent;false][%c_highlight
+e3;keyPressed;none;opacity;0.8;square;e3;persistent;false,f3;keyPressed;none;opacity;0.8;square;f3;persistent;false]}
+23... Rae8 {[%cal de8e5,de5e8][%c_arrow
+e8e5;keyPressed;none;opacity;0.8;from;e8;to;e5;persistent;false,e5e8;keyPressed;none;opacity;0.8;from;e5;to;e8;persistent;false]}
+24. Bd2 Nxd5 {[%cal dd4g1,da6f1][%c_arrow
+d4g1;keyPressed;none;opacity;0.8;from;d4;to;g1;persistent;false,a6f1;keyPressed;none;opacity;0.8;from;a6;to;f1;persistent;false]}
+25. Bxd5+ (25. Nxd5 Qg1# {[%cal de5e2,dd4g1][%c_arrow
+e5e2;keyPressed;none;opacity;0.8;from;e5;to;e2;persistent;false,d4g1;keyPressed;none;opacity;0.8;from;d4;to;g1;persistent;false][%c_highlight
+e2;keyPressed;none;opacity;0.8;square;e2;persistent;false]}) 25... Rxd5 26. Ke2
+(26. Nxd5 Qg1#) 26... Bxe3 27. Rxe3 {[%cal da6e2][%c_arrow
+a6e2;keyPressed;none;opacity;0.8;from;a6;to;e2;persistent;false]} 27... Bxc4+
+28. Qxc4 (28. Kd1 Rxe3 29. Rxe3 Qg1+ 30. Re1 Qxg2 31. a5 Bb3 32. Qxb3 Qxd2#)
+28... Qxg2+ 29. Kd1 Qxd2#
+0-1

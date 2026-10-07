@@ -1,0 +1,132 @@
+{
+  "kind": "themes forks-pins",
+  "seed": 526591627,
+  "created": "2026-09-25T12:35:23",
+  "reveal": {
+    "policy_level": "by rating band",
+    "policy": "hint_generation/reveal_policy.yaml",
+    "harder_first": null
+  },
+  "pages": [
+    {
+      "title": "Tactics: Forks",
+      "description": "Attack two things at once with one piece.",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 1,
+        "R2": 2,
+        "R3": 3
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "02h9I",
+          "rating": 902,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Look for a fork! Use your knight to check first, then use your knight to check."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "039f2",
+          "rating": 938,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Look for a fork! Use your rook to check first, then take the hanging bishop."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "038xL",
+          "rating": 957,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Start with a bishop check. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0BGzN",
+          "rating": 1072,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Can we check the king and the queen at the same time? Forcing moves first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0AFYZ",
+          "rating": 1329,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "There is only one check here, and it leaves only one legal reply. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0B7j6",
+          "rating": 1596,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Start with a quiet knight move (not a check!), then win the queen."
+        }
+      ]
+    },
+    {
+      "title": "Tactics: Pins",
+      "description": "Pin a piece so it can't (or shouldn't) move.",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 2,
+        "R2": 1,
+        "R3": 3
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "02T47",
+          "rating": 1168,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Take the knight with your bishop. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "08QKN",
+          "rating": 1273,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Check with your knight first, then take the hanging knight. Forcing moves first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "04Az3",
+          "rating": 1337,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "Win the queen. Always look for checks!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "07nlA",
+          "rating": 1462,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Start with a quiet rook move (not a check!)."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "06D6f",
+          "rating": 1555,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "Win material! Win the knight."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "094GW",
+          "rating": 1578,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Win material! Start by taking the knight."
+        }
+      ]
+    }
+  ]
+}

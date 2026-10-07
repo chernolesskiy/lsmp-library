@@ -1,0 +1,20 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.02.17"]
+[Round "?"]
+[White "hengkyferdinal"]
+[Black "SKCC_LSMP"]
+[Result "0-1"]
+[WhiteElo "1900"]
+[BlackElo "1938"]
+[ECO "B21"]
+[Termination "SKCC_LSMP won by checkmate"]
+[TimeControl "300"]
+[EndTime "11:28:00 PST"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bc4 Bg7 5. O-O a6 6. c3 b5 7. Bb3 Nf6 8. e5 Ng8
+9. d4 cxd4 10. cxd4 e6 11. Be3 Nce7 12. Nbd2 Bb7 13. Ng5 Nd5 14. Bxd5 Bxd5 15.
+Nde4 Bf8 16. Nd6+ Bxd6 17. exd6 Nf6 18. f5 gxf5 19. Bf4 Rc8 20. Be5 Rg8 21. h4
+Ne4 22. Nxh7 Qxh4 23. Rc1 Rc4 24. Rxc4 bxc4 25. Qa4 Rxg2+ 26. Kxg2 Nc3+ 27. Kg1
+Ne2#
+0-1

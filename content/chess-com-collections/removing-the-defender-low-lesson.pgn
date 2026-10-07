@@ -1,0 +1,20 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.03"]
+[Round "?"]
+[White "SKCC_LSMP"]
+[Black "KhenaEmmanuel"]
+[Result "*"]
+[WhiteElo "1941"]
+[BlackElo "1926"]
+[ECO "D35"]
+[Termination "SKCC_LSMP won by resignation"]
+[TimeControl "300"]
+[EndTime "6:37:00 PST"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Nf3 Be7 7. e3 O-O 8. Bd3
+Bg4 9. Rc1 Nbd7 10. Qb3 Nb6 11. Ne5 h6 (11... Bh5 12. Bxf6 Bxf6 {[%c_highlight
+g4;keyPressed;none;opacity;0.8;square;g4;persistent;false][%cal de5g4][%c_arrow
+e5g4;keyPressed;none;opacity;0.8;from;e5;to;g4;persistent;false]}) (11... a6
+{[%c_highlight f6;keyPressed;none;opacity;0.8;square;f6;persistent;false]} 12.
+Nxg4 Nxg4) 12. Bxf6 (12. Bxh6) (12. Nxg4 Nxg4) 12... Bxf6 13. Nxg4 *

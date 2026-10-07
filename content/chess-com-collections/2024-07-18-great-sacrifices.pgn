@@ -1,0 +1,91 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Donald Byrne"]
+[Black "Bobby Fischer"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r4rk1/pp2Bpbp/1qp3p1/8/2BP2b1/Q1n2N2/P4PPP/3RK2R w K - 0 1"]
+
+1. Bc5 Rfe8+ 2. Kf1 Be6 3. Bxb6 Bxc4+ 4. Kg1 Ne2+ 5. Kf1 Nxd4+ 6. Kg1 Ne2+ 7.
+Kf1 Nc3+ 8. Kg1 axb6 9. Qb4 Ra4 10. Qxb6 Nxd1 11. h3 Rxa2 12. Kh2 Nxf2 13. Re1
+Rxe1 14. Qd8+ Bf8 15. Nxe1 Bd5 16. Nf3 Ne4 17. Qb8 b5 18. h4 h5 19. Ne5 Kg7 20.
+Kg1 Bc5+ 21. Kf1 Ng3+ 22. Ke1 Bb4+ 23. Kd1 Bb3+ 24. Kc1 Ne2+ 25. Kb1 Nc3+ 26.
+Kc1 Rc2#
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqk2r/p1pp1Npp/5n2/1p2p3/2BnP3/3K4/PPPP1bPP/RNBQ3R w kq - 0 1"]
+
+1. Bb3 Nxe4 2. Nxd8 Nc5+ 3. Kc3 Ne2+ 4. Qxe2 Bd4+ 5. Kb4 a5+ 6. Kxb5 Ba6+ 7.
+Kxa5 Bd3+ 8. Kb4 Na6+ 9. Ka4 Nb4+ 10. Kxb4 c5# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnb1kb1r/2qn1ppp/p3p3/1p2P1B1/3N4/2N5/PPP1Q1PP/2KR1B1R b kq - 0 1"]
+
+1... Bb7 2. Nxe6 fxe6 3. Qg4 Qb6 4. Rd6 Bxd6 5. Qxe6+ Kf8 6. Bc4 bxc4 7. Rf1+
+Nf6 8. Rxf6+ gxf6 9. Bh6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1kb1r/pp3ppp/2p2n2/q3P3/4N3/3Q4/PPPB1PPP/R3KBNR b KQkq - 0 1"]
+
+1... Qxe5 2. O-O-O Nxe4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbpp2pp/1p2pb2/4N3/3PN3/3B4/PPP2PPP/R2QK2R w KQ - 0 1"]
+
+1. Qh5 Qe7 2. Qxh7+ Kxh7 3. Nxf6+ Kh6 4. Neg4+ Kg5 5. h4+ Kf4 6. g3+ Kf3 7. Be2+
+Kg2 8. Rh2+ Kg1 9. O-O-O# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp4pp/4p2r/4R2Q/3n4/2q4B/P1P2PPP/5RK1 w - - 0 1"]
+
+1. Qg5 Rxh3 2. Rc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/r3bpp1/1p1p4/5R1P/4PQ1q/5P2/6KP/2R5 b - - 0 1"]
+
+1... Ra2+ 2. Kh1 Qf2 *

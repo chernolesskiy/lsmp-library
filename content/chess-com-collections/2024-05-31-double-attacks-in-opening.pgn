@@ -1,0 +1,114 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. f3 Nfd7 8. Nxc4
+e5 9. dxe5 Qh4+ {[%cal dh4c4][%c_arrow
+h4c4;keyPressed;none;opacity;0.8;from;h4;to;c4;persistent;false]} 10. g3 Qxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 d6 {[%cal da4e8,de8a4][%c_arrow
+a4e8;keyPressed;none;opacity;0.8;from;a4;to;e8;persistent;false,e8a4;keyPressed;none;opacity;0.8;from;e8;to;a4;persistent;false]}
+3. c3 Nf6 {[%cal df6e4][%c_arrow
+f6e4;keyPressed;none;opacity;0.8;from;f6;to;e4;persistent;false][%c_highlight
+e4;keyPressed;none;opacity;0.8;square;e4;persistent;false]} 4. Be2
+{[%c_highlight e4;keyPressed;none;opacity;0.8;square;e4;persistent;false]} 4...
+Nxe4 5. Qa4+ Bd7 6. Qxe4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. Nf3 d6 2. c4 Bg4 3. Qb3 Qc8 4. h3 Bh5 5. Qb5+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. cxd5 cxd5 6. Qa4+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. Nf3 Nc6 6. Bd2 e5 7. d5 Bxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 {[%c_highlight
+e5;keyPressed;none;opacity;0.8;square;e5;persistent;false]} 6... d5 {[%cal
+dd5c4,de5f6][%c_arrow
+d5c4;keyPressed;none;opacity;0.8;from;d5;to;c4;persistent;false,e5f6;keyPressed;none;opacity;0.8;from;e5;to;f6;persistent;false][%c_highlight
+c4;keyPressed;none;opacity;0.8;square;c4;persistent;false,f6;keyPressed;none;opacity;0.8;square;f6;persistent;false]}
+7. exf6 dxc4 8. Re1+ Be6 9. Ng5 {[%cal dg5f7][%c_arrow
+g5f7;keyPressed;none;opacity;0.8;from;g5;to;f7;persistent;false]} 9... Qxf6
+{[%c_highlight f7;keyPressed;none;opacity;0.8;square;f7;persistent;false][%cal
+de8h5,dh5e8][%c_arrow
+e8h5;keyPressed;none;opacity;0.8;from;e8;to;h5;persistent;false,h5e8;keyPressed;none;opacity;0.8;from;h5;to;e8;persistent;false]}
+10. Nxe6 fxe6 11. Qh5+ Kf8 12. Qxc5+ {[%cal dc5f8][%c_arrow
+c5f8;keyPressed;none;opacity;0.8;from;c5;to;f8;persistent;false][%c_highlight
+f8;keyPressed;none;opacity;0.8;square;f8;persistent;false]} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. h4 h5 5. Bb5 Bg7 6. Qe2 Nd4 7. Nxd4 cxd4
+{[%c_highlight c3;keyPressed;none;opacity;0.8;square;c3;persistent;false]} 8.
+Nd5 e6 9. Nf4 Qc7 {[%cal de2b5,db5e2][%c_arrow
+e2b5;keyPressed;none;opacity;0.8;from;e2;to;b5;persistent;false,b5e2;keyPressed;none;opacity;0.8;from;b5;to;e2;persistent;false][%c_highlight
+e2;keyPressed;none;opacity;0.8;square;e2;persistent;false]} 10. d3 Qa5+ 11. Bd2
+Qxb5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c6 4. e3 Qb6 5. Qc1 e5 *

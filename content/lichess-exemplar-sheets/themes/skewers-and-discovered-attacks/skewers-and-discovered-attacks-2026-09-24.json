@@ -1,0 +1,132 @@
+{
+  "kind": "themes skewers-discovered",
+  "seed": 526591627,
+  "created": "2026-09-25T12:35:27",
+  "reveal": {
+    "policy_level": "by rating band",
+    "policy": "hint_generation/reveal_policy.yaml",
+    "harder_first": null
+  },
+  "pages": [
+    {
+      "title": "Tactics: Skewers",
+      "description": "Attack a big piece and win the one behind it.",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 2,
+        "R2": 1,
+        "R3": 3
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "06H5L",
+          "rating": 927,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Start with a rook check. Look for checks first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0240A",
+          "rating": 1186,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "There is only one check here, and it leaves only one legal reply. Look for checks first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05ya7",
+          "rating": 1332,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Start with a quiet rook move (not a check!), then give a check, then win the rook."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0CL2Z",
+          "rating": 1464,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Take the rook with your rook first, then give a check. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "01243",
+          "rating": 1527,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "Win the queen. Look for checks first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0B7og",
+          "rating": 1641,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Use your queen to check first, then use your knight to check, then win the queen."
+        }
+      ]
+    },
+    {
+      "title": "Tactics: Discovered Attacks",
+      "description": "Move one piece to unleash an attack from another.",
+      "tier_quota": {
+        "R0": 1,
+        "R1": 1,
+        "R2": 2,
+        "R3": 2
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0BP3P",
+          "rating": 1129,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Move your pawn out of the way to give a discovered check first, then use your queen to check."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05eJI",
+          "rating": 1317,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "Win the queen. Slow down and look at every option."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "065ae",
+          "rating": 1322,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Start with a knight check. Look at every check and capture first."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "04PtE",
+          "rating": 1335,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Start with a queen check. Slow down and look at every option."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0CBoj",
+          "rating": 1411,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Sacrifice your rook with check first, then use your rook to check, then give a check."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "099Ug",
+          "rating": 1433,
+          "hint_tier": "R0",
+          "hint_tier_target": "R0",
+          "hint": "Win material! Slow down and look at every option."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nf6 6. exd5 Nxd5 7. N2f3 Bb4+
+8. Bd2 O-O 9. Bc4 Bc5 10. Nb3 Be7 11. O-O Nc6 12. Qe2 Qc7 13. Bxd5 exd5 14. Nfd4
+Nxd4 15. Nxd4 Bf6 16. Be3 Re8 17. Qd2 (17. h3 Bxd4 18. Bxd4 Rxe2) 17... Bg4
+(17... Bxd4 18. Bxd4 {[%cal de8e1][%c_arrow
+e8e1;keyPressed;none;opacity;0.8;from;e8;to;e1;persistent;false]}) 18. Rfe1 Bh5
+19. c3 Qd7 20. Nc2 Qf5 21. Nb4 Red8 22. Bd4 Bg5 23. Qd3 Qg6 24. Qg3 Bf6 25. Bxf6
+Qxf6 26. Re5 {[%cal de5d5,de5h5][%c_arrow
+e5d5;keyPressed;none;opacity;0.8;from;e5;to;d5;persistent;false,e5h5;keyPressed;none;opacity;0.8;from;e5;to;h5;persistent;false]}
+26... Bg6 27. Nxd5 {[%cal dd5f6][%c_arrow
+d5f6;keyPressed;none;opacity;0.8;from;d5;to;f6;persistent;false][%c_highlight
+f6;keyPressed;none;opacity;0.8;square;f6;persistent;false]} 27... Qa6 28. Nc7
+Qxa2 29. Ree1 (29. Rxa2 Rd1+ {[%cal dd1h1][%c_arrow
+d1h1;keyPressed;none;opacity;0.8;from;d1;to;h1;persistent;false]} 30. Re1 Rxe1#)
+(29. Qf3 Qxa1+ {[%cal da1h1][%c_arrow
+a1h1;keyPressed;none;opacity;0.8;from;a1;to;h1;persistent;false]}) 29... Qxb2
+30. Nxa8 Rxa8 31. Rxa7 (31. Qb8+ Rxb8 {[%cal db8h8][%c_arrow
+b8h8;keyPressed;none;opacity;0.8;from;b8;to;h8;persistent;false]}) 31... Rf8
+(31... Rxa7 32. Re8# {[%cal de8h8][%c_arrow
+e8h8;keyPressed;none;opacity;0.8;from;e8;to;h8;persistent;false]}) 32. Qd6 Rc8
+(32... Qxc3 33. Qxf8+ Kxf8 34. Ra8+ {[%cal da8h8,de1e8][%c_arrow
+a8h8;keyPressed;none;opacity;0.8;from;a8;to;h8;persistent;false,e1e8;keyPressed;none;opacity;0.8;from;e1;to;e8;persistent;false][%c_highlight
+e7;keyPressed;none;opacity;0.8;square;e7;persistent;false]}) 33. Qd7 Rf8 34. Ra8
+Rxa8 35. Qe8+ Rxe8 36. Rxe8#
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5p1p/5P2/3K4/8/8/4R3/6R1 w - - 0 1"]
+
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1k1b1r/pp1ppp1p/5np1/2N5/3P4/4PN2/5PPP/2R1KB1R b - - 0 1"]
+
+1... b6 2. Nb7+ (2. Ne6+ dxe6) (2. Nxd7 Kxd7) 2... Ke8 3. Rc8#
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/1p2nppp/p7/6Q1/2R5/qP6/P4PPP/6K1 w - - 0 1"]
+
+1. Rc8+ Nxc8 2. Qd8# {[%cal
+dd8h8][%c_arrow
+d8h8;keyPressed;none;opacity;0.8;from;d8;to;h8;persistent;false]} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r5k1/p4ppp/1q6/8/8/8/P3QPPP/4R1K1 w - - 0 1"]
+
+1. Qe8+ Rxe8 2. Rxe8# {[%cal
+de8h8][%c_arrow
+e8h8;keyPressed;none;opacity;0.8;from;e8;to;h8;persistent;false]} 1-0

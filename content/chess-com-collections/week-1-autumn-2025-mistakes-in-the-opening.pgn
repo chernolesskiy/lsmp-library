@@ -1,0 +1,118 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.08"]
+[Round "?"]
+[White "SKCC_LSMP"]
+[Black "Antony1512"]
+[Result "1-0"]
+[WhiteElo "1900"]
+[BlackElo "1912"]
+[ECO "A60"]
+[Termination "SKCC_LSMP won by resignation"]
+[TimeControl "900+10"]
+[EndTime "9:33:57 PDT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Bf4 Be7 7. Nf3 Nbd7 8. g3
+a6 9. a4 Nb6 10. e4 Bg4 11. a5 Nc8 12. Bg2 b6 13. axb6 Nxb6 14. O-O Nh5 15. Bd2
+Nc4 16. Qa4+ Bd7 17. Qxc4 Bb5 18. Nxb5 axb5 19. Qxb5+ Kf8 20. Rxa8 Qxa8 21. b4
+cxb4 22. Bxb4 Nf6 23. e5 Nxd5 24. exd6 Nxb4 25. dxe7+
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.08"]
+[White "SKCC_LSMP"]
+[Black "OmpampasSOU23"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "1913"]
+[BlackElo "1916"]
+[TimeControl "600"]
+[EndTime "7:36:30 PDT"]
+[Termination "SKCC_LSMP won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:09:59]} f5 {[%clk 0:09:55]} 2. c4 {[%clk 0:09:58]} Nf6 {[%clk 0:09:53]} 3. Nc3 {[%clk 0:09:56]} g6 {[%clk 0:09:49]} 4. Bg5 {[%clk 0:09:54]} Bg7 {[%clk 0:09:47]} 5. e3 {[%clk 0:09:50]} O-O {[%clk 0:09:45]} 6. Bd3 {[%clk 0:09:48]} d6 {[%clk 0:09:40]} 7. Nge2 {[%clk 0:09:44]} e5 {[%clk 0:09:38]} 8. O-O {[%clk 0:09:15]} e4 {[%clk 0:09:34]} 9. Bc2 {[%clk 0:09:11]} c6 {[%clk 0:09:33]} 10. f3 {[%clk 0:09:03]} d5 {[%clk 0:09:28]}
+ 11. cxd5 {[%clk 0:08:57]} cxd5 {[%clk 0:09:28]} 12. Nxd5 {[%clk 0:08:56]} Qxd5 {[%clk 0:09:22]} 13. Bb3 {[%clk 0:08:50]} Kh8 {[%clk 0:09:14]} 14. Bxd5 {[%clk 0:08:45]} Nxd5 {[%clk 0:09:14]} 15. Nc3 {[%clk 0:08:21]} Nb4 {[%clk 0:09:07]} 16. fxe4 {[%clk 0:08:13]} fxe4 {[%clk 0:08:51]} 17. Rxf8+ {[%clk 0:08:10]} Bxf8 {[%clk 0:08:51]} 18. Bf6+ {[%clk 0:08:09]} Bg7 {[%clk 0:08:50]} 19. Qb3 {[%clk 0:08:08]} N8c6 {[%clk 0:08:41]} 20. Bxg7+ {[%clk 0:08:01]} Kxg7 {[%clk 0:08:39]}
+ 21. d5 {[%clk 0:07:59]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.07"]
+[Round "?"]
+[White "SKCC_LSMP"]
+[Black "apollo_jul_1969"]
+[Result "1-0"]
+[TimeControl "900+10"]
+[WhiteElo "1909"]
+[BlackElo "1933"]
+[Termination "SKCC_LSMP hat durch Aufgabe gewonnen"]
+[ECO "D10"]
+[EndTime "21:03:46 GMT+0000"]
+[Link "https://www.chess.com/game/live/141610289154?move=35"]
+
+1. d4 {[%clk 0:15:08.1][%timestamp 19]} 1... Nf6 {[%clk 0:14:59.4][%timestamp
+106]} 2. c4 {[%clk 0:15:15.5][%timestamp 26]} 2... c6 {[%clk
+0:14:56.1][%timestamp 133]} 3. Nc3 {[%clk 0:15:16.8][%timestamp 87]} 3... d5
+{[%clk 0:15:03.9][%timestamp 22]} 4. Bg5 {[%clk 0:15:22.5][%timestamp 43]} 4...
+e6 {[%clk 0:15:09.7][%timestamp 42]} 5. e3 {[%clk 0:15:27.1][%timestamp 54]}
+5... Be7 {[%clk 0:15:16.5][%timestamp 32]} 6. Bd3 {[%clk 0:15:29.8][%timestamp
+73]} 6... dxc4 {[%clk 0:15:16][%timestamp 105]} 7. Bxc4 {[%clk
+0:15:37][%timestamp 28]} 7... b5 {[%clk 0:15:24.5][%timestamp 15]} 8. Bd3 {[%clk
+0:15:43.1][%timestamp 39]} 8... Bb7 {[%clk 0:15:33.2][%timestamp 13]} 9. Nge2
+{[%clk 0:15:49.1][%timestamp 40]} 9... Na6 {[%clk 0:15:18.9][%timestamp 243]}
+10. Rc1 {[%clk 0:14:54.4][%timestamp 647]} 10... Nb4 {[%clk
+0:15:21.4][%timestamp 75]} 11. Bb1 {[%clk 0:14:53.6][%timestamp 108]} 11... Rc8
+{[%clk 0:15:25.3][%timestamp 61]} 12. Ng3 {[%clk 0:14:29.6][%timestamp 340]}
+12... a6 {[%clk 0:15:30.5][%timestamp 48]} 13. O-O {[%clk 0:14:13.1][%timestamp
+265]} 13... Nbd5 {[%clk 0:15:03.6][%timestamp 369]} 14. Nce4 {[%clk
+0:13:00.1][%timestamp 830]} 14... Nxe4 {[%clk 0:14:32.8][%timestamp 408]} 15.
+Bxe7 {[%clk 0:13:07.5][%timestamp 26]} 15... Nxe7 {[%clk 0:14:29.3][%timestamp
+135]} 16. Nxe4 {[%clk 0:13:12.2][%timestamp 53]} 16... f5 {[%clk
+0:14:16.7][%timestamp 226]} 17. Nc5 {[%clk 0:13:14.2][%timestamp 80]} 17... Qb6
+{[%clk 0:13:57.3][%timestamp 294]} 18. Nxe6 {[%clk 0:13:11.8][%timestamp 124]}
+18... Kf7 {[%clk 0:14:05.6][%timestamp 17]} 19. Qb3 {[%clk 0:12:28.6][%timestamp
+532]} 19... Nd5 {[%clk 0:14:09.9][%timestamp 57]} 20. Bxf5 {[%clk
+0:12:32.3][%timestamp 63]} 20... Rce8 {[%clk 0:14:05][%timestamp 149]} 21. Nc5
+{[%clk 0:12:25.2][%timestamp 171]} 21... g6 {[%clk 0:14:08.6][%timestamp 64]}
+22. Bd7 {[%clk 0:12:21.7][%timestamp 135]} 22... Re7 {[%clk
+0:14:07.8][%timestamp 108]} 23. e4 {[%clk 0:12:23.5][%timestamp 82]} 23... Rxe4
+{[%clk 0:14:13.9][%timestamp 39]} 24. Nxe4 {[%clk 0:12:26.4][%timestamp 71]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.09.19"]
+[Round "?"]
+[White "Guest0978187018"]
+[Black "Guest3053125005"]
+[Result "0-1"]
+[TimeControl "900+10"]
+[WhiteElo "1600"]
+[BlackElo "1200"]
+[Termination "Guest3053125005 won by checkmate"]
+[Link "https://www.chess.com/game/143319946074"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 e5 4. cxd5 Nxd4 5. e3 Nf5 6. Bd3 Bd6 7. Nge2 Bd7 8.
+Qb3 Rb8 9. Qc4 b5 10. Qg4 Nf6 11. Qf3 Nh4 12. Qg3 Nh5 13. O-O Nxg3 14. Nxg3 f5
+15. f3 O-O 16. b3 c6 17. Bb2 Qg5 18. Rae1 b4 19. f4 exf4 20. exf4 Bxf4 21. Nce2
+Be3+ 22. Kh1 f4 23. Ng1 fxg3 24. Rxe3 Qxe3 25. Bc4 Rxf1 26. Bxf1 gxh2 27. Kxh2
+Qf4+ 28. Kh1 Qxf1 29. dxc6 Qxg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.09.19"]
+[Round "?"]
+[White "Guest0978187018"]
+[Black "Guest0162681593"]
+[Result "1-0"]
+[TimeControl "900+10"]
+[WhiteElo "1600"]
+[BlackElo "800"]
+[Termination "Guest0978187018 won by checkmate"]
+[Link "https://www.chess.com/game/143318985726"]
+
+1. d4 d6 2. c4 e6 3. Nc3 Bd7 4. Bf4 Be7 5. e4 Bh4 6. Bd3 Nf6 7. Nge2 Ng4 8. O-O
+Bc6 9. Ng3 Qf6 10. Qxg4 g5 11. Nh5 Qh6 12. Qxh4 gxh4 13. Bxh6 Rf8 14. d5 exd5
+15. exd5 Bd7 16. Bg5 f6 17. Bxf6 h6 18. Rae1+ Be6 19. Rxe6+ Kf7 20. Re7+ Kg8 21.
+Bh7# 1-0

@@ -1,0 +1,132 @@
+{
+  "kind": "level 1",
+  "seed": 526591627,
+  "created": "2026-09-25T12:35:06",
+  "reveal": {
+    "policy_level": 1,
+    "policy": "hint_generation/reveal_policy.yaml",
+    "harder_first": null
+  },
+  "pages": [
+    {
+      "title": "Checkmate!",
+      "description": "Every puzzle here ends in checkmate. Checks first!",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 0,
+        "R2": 1,
+        "R3": 5
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "052is",
+          "rating": 437,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Use your rook to check first, then checkmate with your rook. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0B90s",
+          "rating": 578,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "There are two checks here, but only one is checkmate. Use your queen!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "03spI",
+          "rating": 591,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Sacrifice your queen with check first, then checkmate with your rook."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05GFz",
+          "rating": 645,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Always play checkmate in one move! Use your knight. Always look for checks!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "02yBm",
+          "rating": 815,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Checkmate in one move with your queen. Look only at checks!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0AMJw",
+          "rating": 822,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Checkmate in two moves! Start with a rook check."
+        }
+      ]
+    },
+    {
+      "title": "Win Material!",
+      "description": "Find the tactic that wins material.",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 0,
+        "R2": 0,
+        "R3": 6
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "03Ejm",
+          "rating": 576,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Start with two quiet pawn moves (no checks!)."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0BtUA",
+          "rating": 619,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Use your rook to check first, then take the hanging rook. Look for checks first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "01Vbe",
+          "rating": 701,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Check with your rook first, then check with your rook, then take the hanging queen."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0BovX",
+          "rating": 784,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Look for a fork! Check with your rook first, then take the hanging bishop. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0BRqp",
+          "rating": 838,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "A fork is waiting! Check with your rook first, then take the hanging bishop."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "02KZc",
+          "rating": 875,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "A fork is waiting! Check with your knight first, then take the hanging queen."
+        }
+      ]
+    }
+  ]
+}

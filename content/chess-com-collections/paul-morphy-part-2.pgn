@@ -1,0 +1,51 @@
+[Event "New York"]
+[Site "New York, NY USA"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "John William Schulten"]
+[Black "Paul Morphy"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[ECO "C31"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. d3 Bb4 6. Bd2 e3 7. Bxe3 O-O 8. Bd2
+Re8+ 9. Be2 Bxc3 10. bxc3 Bg4 11. c4 c6 12. dxc6 Nxc6 13. Kf1 Rxe2 14. Nxe2 Nd4
+15. Qb1 Bxe2+ 16. Kf2 Ng4+ 17. Kg1 Nf3+ 18. gxf3 Qd4+ 19. Kg2 Qf2+ 20. Kh3 Qxf3+
+21. Kh4 Ne3 22. Rg1 Nf5+ 23. Kg5 Qh5#
+0-1
+
+[Event "Casual game"]
+[Site "New Orleans, LA USA"]
+[Date "1848.??.??"]
+[Round "?"]
+[White "Paul Morphy"]
+[Black "Alonzo Morphy"]
+[Result "1-0"]
+[EventDate "1848.??.??"]
+[ECO "C33"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "35"]
+
+1. e4 {Some sources indicate 1847.} 1... e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Bc5 5.
+d4 Bb6 6. Nf3 Qe7 7. Nc3 Nf6 8. Qd3 c6 9. Bxf4 d5 10. exd5 O-O 11. d6 Qd8 12.
+Re1 Re8 13. Ng5 Rxe1+ 14. Kxe1 Qe8+ 15. Kd2 Be6 16. Re1 Nbd7 17. Nxe6 fxe6 18.
+Rxe6 1-0
+
+[Event "Casual game"]
+[Site "New Orleans, LA USA"]
+[Date "1849.??.??"]
+[Round "?"]
+[White "Paul Morphy"]
+[Black "Eugene Rousseau"]
+[Result "1-0"]
+[EventDate "1849.??.??"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. Qxg4 Qf6 8.
+Bc4+ Ke7 9. Nc3 c6 10. e5 Qxe5+ 11. Kd1 Kd8 12. Re1 Qc5 13. Bxg8 d5 14. Re8+
+Kxe8 15. Qxc8+ Ke7 16. Nxd5+ Kd6 17. Qc7# 1-0

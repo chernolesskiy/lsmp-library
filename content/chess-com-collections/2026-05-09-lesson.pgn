@@ -1,0 +1,127 @@
+[Event "St. Petersburg 1895/96"]
+[Site "St. Petersburg RUE"]
+[Date "1896.01.04"]
+[Round "10"]
+[White "Harry Nelson Pillsbury"]
+[Black "Emanuel Lasker"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[ECO "D50"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. Bg5 cxd4 6. Qxd4 Nc6 7. Qh4
+{[%c_highlight
+f6;keyPressed;none;opacity;0.8;square;f6;persistent;false,g7;keyPressed;none;opacity;0.8;square;g7;persistent;false]}
+7... Be7 8. O-O-O Qa5 9. e3 Bd7 {[%cal dc3a2][%c_arrow
+c3a2;keyPressed;none;opacity;0.8;from;c3;to;a2;persistent;false][%c_highlight
+a2;keyPressed;none;opacity;0.8;square;a2;persistent;false]} 10. Kb1
+{[%c_highlight a2;keyPressed;none;opacity;0.8;square;a2;persistent;false]} 10...
+h6 {[%cal dh6g5,dh4h8,dh8e8][%c_arrow
+h6g5;keyPressed;none;opacity;0.8;from;h6;to;g5;persistent;false,h4h8;keyPressed;none;opacity;0.8;from;h4;to;h8;persistent;false,h8e8;keyPressed;none;opacity;0.8;from;h8;to;e8;persistent;false][%c_highlight
+h8;keyPressed;none;opacity;0.8;square;h8;persistent;false]} 11. cxd5 exd5 12.
+Nd4 O-O 13. Bxf6 Bxf6 14. Qh5 {[%cal dh5d5,dc3d5][%c_arrow
+h5d5;keyPressed;none;opacity;0.8;from;h5;to;d5;persistent;false,c3d5;keyPressed;none;opacity;0.8;from;c3;to;d5;persistent;false][%c_highlight
+d5;keyPressed;none;opacity;0.8;square;d5;persistent;false]} 14... Nxd4 15. exd4
+Be6 {[%c_highlight
+d5;keyPressed;none;opacity;0.8;square;d5;persistent;false,e6;keyPressed;none;opacity;0.8;square;e6;persistent;false]}
+16. f4 Rac8 17. f5 {[%c_highlight
+h1;keyPressed;none;opacity;0.8;square;h1;persistent;false,f1;keyPressed;none;opacity;0.8;square;f1;persistent;false]}
+17... Rxc3 18. fxe6 {[%c_highlight
+f6;keyPressed;none;opacity;0.8;square;f6;persistent;false,a3;keyPressed;none;opacity;0.8;square;a3;persistent;false]}
+18... Ra3 {[%c_highlight
+b2;keyPressed;none;opacity;0.8;square;b2;persistent;false,a1;keyPressed;none;opacity;0.8;square;a1;persistent;false][%cal
+dc3a1][%c_arrow
+c3a1;keyPressed;none;opacity;0.8;from;c3;to;a1;persistent;false]} 19. exf7+ Rxf7
+20. bxa3 {[%cal dc3a1,df6d4][%c_arrow
+c3a1;keyPressed;none;opacity;0.8;from;c3;to;a1;persistent;false,f6d4;keyPressed;none;opacity;0.8;from;f6;to;d4;persistent;false][%c_highlight
+d4;keyPressed;none;opacity;0.8;square;d4;persistent;false]} 20... Qb6+ 21. Bb5
+(21. Ka1 Bxd4+ 22. Rxd4 Qxd4+ 23. Kb1 Rf2) 21... Qxb5+ 22. Ka1 {[%cal
+db6d4][%c_arrow
+b6d4;keyPressed;none;opacity;0.8;from;b6;to;d4;persistent;false]} 22... Rc7 23.
+Rd2 {[%cal dc7c2][%c_arrow
+c7c2;keyPressed;none;opacity;0.8;from;c7;to;c2;persistent;false]} (23. Rhg1 Rc2
+24. Rb1 Bxd4+ 25. Rb2 Qxb2#) 23... Rc4 24. Rhd1 {[%c_highlight
+h5;keyPressed;none;opacity;0.8;square;h5;persistent;false]} 24... Rc3 25. Qf5
+Qc4 26. Kb2 {[%cal dc3a2][%c_arrow
+c3a2;keyPressed;none;opacity;0.8;from;c3;to;a2;persistent;false][%c_highlight
+a2;keyPressed;none;opacity;0.8;square;a2;persistent;false]} 26... Rxa3 27. Qe6+
+Kh7 28. Kxa3 {[%cal da1b2,db2a3][%c_arrow
+a1b2;keyPressed;none;opacity;0.8;from;a1;to;b2;persistent;false,b2a3;keyPressed;none;opacity;0.8;from;b2;to;a3;persistent;false]}
+28... Qc3+ 29. Ka4 b5+ (29... Bd8 30. Qf5+ g6 31. Qf7+ Kh8 32. Qf8+ Kh7 33. Qf7+
+Kh8) (29... Qc4+ 30. Ka3 Qc3+ 31. Ka4 Qc6+ (31... b5+ 32. Kxb5 Qc4+ 33. Ka5 Bd8+
+34. Qb6 axb6#) 32. Qxc6 bxc6) 30. Kxb5 Qc4+ 0-1
+
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1889.08.26"]
+[Round "1"]
+[White "Emanuel Lasker"]
+[Black "Johann Hermann Bauer"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[ECO "A03"]
+
+1. f4 d5 2. e3 Nf6 3. b3 e6 4. Bb2 Be7 5. Bd3 (5. d3) (5. Ba6 bxa6) (5. Bc4
+dxc4) (5. Be2) (5. Bb5+) 5... b6 6. Nc3 Bb7 7. Nf3 Nbd7 8. O-O O-O {[%cal
+dc3f5][%c_arrow
+c3f5;keyPressed;none;opacity;0.8;from;c3;to;f5;persistent;false][%c_highlight
+f5;keyPressed;none;opacity;0.8;square;f5;persistent;false]} 9. Ne2 (9. Nb5 a6
+10. Nc3) (9. Na4 {[%cal db6c5,da7b6][%c_arrow
+b6c5;keyPressed;none;opacity;0.8;from;b6;to;c5;persistent;false,a7b6;keyPressed;none;opacity;0.8;from;a7;to;b6;persistent;false][%c_highlight
+c5;keyPressed;none;opacity;0.8;square;c5;persistent;false,b6;keyPressed;none;opacity;0.8;square;b6;persistent;false,a7;keyPressed;none;opacity;0.8;square;a7;persistent;false]})
+9... c5 10. Ng3 Qc7 11. Ne5 Nxe5 12. Bxe5 Qc6 (12... Qxe5 13. fxe5) 13. Qe2 (13.
+Bb5 Qxb5) 13... a6 {[%c_highlight
+f6;keyPressed;none;opacity;0.8;square;f6;persistent;false]} (13... Rac8 14. Bb5
+{[%c_highlight c6;keyPressed;none;opacity;0.8;square;c6;persistent;false][%cal
+db5e8,de5b8][%c_arrow
+b5e8;keyPressed;none;opacity;0.8;from;b5;to;e8;persistent;false,e5b8;keyPressed;none;opacity;0.8;from;e5;to;b8;persistent;false]})
+14. Nh5 {[%cal dh5g7,de5g7][%c_arrow
+h5g7;keyPressed;none;opacity;0.8;from;h5;to;g7;persistent;false,e5g7;keyPressed;none;opacity;0.8;from;e5;to;g7;persistent;false][%c_highlight
+g7;keyPressed;none;opacity;0.8;square;g7;persistent;false]} (14. Bb5 axb5) 14...
+Nxh5 15. Bxh7+ (15. Qxh5 h6 {[%cal dh5h7][%c_arrow
+h5h7;keyPressed;none;opacity;0.8;from;h5;to;h7;persistent;false][%c_highlight
+h7;keyPressed;none;opacity;0.8;square;h7;persistent;false]} (15... Rfe8 16.
+Qxh7+ Kf8 17. Qh8#)) 15... Kxh7 (15... Kh8 16. Qxh5) 16. Qxh5+ Kg8 17. Bxg7 Kxg7
+18. Qg4+ Kh7 (18... Kf6 19. Qg5#) (18... Kh6 19. Rf3 e5 20. Rh3+ Bh4 21. Rxh4#)
+19. Rf3 {[%cal dh4h6,dh6h4][%c_arrow
+h4h6;keyPressed;none;opacity;0.8;from;h4;to;h6;persistent;false,h6h4;keyPressed;none;opacity;0.8;from;h6;to;h4;persistent;false]}
+(19. f5 exf5) 19... e5 (19... a5 20. Rh3+ Bh4 21. Rxh4#) (19... Rg8 20. Rh3+ Bh4
+21. Rxh4# {[%cal dh4h8,dg4g8][%c_arrow
+h4h8;keyPressed;none;opacity;0.8;from;h4;to;h8;persistent;false,g4g8;keyPressed;none;opacity;0.8;from;g4;to;g8;persistent;false]})
+(19... Kh6 20. Rh3+ Bh4 21. Rxh4#) (19... Bg5 20. Qxg5 {[%cal df3h3][%c_arrow
+f3h3;keyPressed;none;opacity;0.8;from;f3;to;h3;persistent;false]} (20. Rh3+ Kg7
+(20... Kg6 21. Qxg5#) 21. Qxg5#)) (19... Bh4 20. Qxh4+ Kg6 21. Qg5+ (21. Qg4+
+Kh7 (21... Kf6 22. Qg5#) 22. Rh3#) 21... Kh7 22. Rh3#) (19... Bf6 20. Rh3+ Bh4
+21. Rxh4#) 20. Rh3+ Qh6 21. Rxh6+ Kxh6 22. Qd7 {[%cal dd7b7,dd7e7][%c_arrow
+d7b7;keyPressed;none;opacity;0.8;from;d7;to;b7;persistent;false,d7e7;keyPressed;none;opacity;0.8;from;d7;to;e7;persistent;false]}
+(22. Qh3+ Kg6 23. Qg4+ Kh6 24. Qd7) 22... Bf6 (22... Bc8 23. Qxe7 Rg8) 23. Qxb7
+Kg7 24. Rf1 Rab8 25. Qd7 Rfd8 26. Qg4+ Kf8 27. fxe5 Bg7 28. e6 Rb7 29. Qg6 f6
+30. Rxf6+ Bxf6 31. Qxf6+ Ke8 32. Qh8+ Ke7 33. Qg7+ {[%cal dg7b7][%c_arrow
+g7b7;keyPressed;none;opacity;0.8;from;g7;to;b7;persistent;false]} 33... Kxe6 34.
+Qxb7 Rd6 35. Qxa6 d4 36. exd4 cxd4 37. h4 d3 38. Qxd3 Rxd3 39. cxd3 Kd5 40. g4
+(40. h5 Ke6 41. d4 Kd6 42. h6 Ke6 43. g4) 40... Kd4 41. g5 Kxd3 42. g6 Kxd2 43.
+g7 Kc2 44. g8=Q Kc3 (44... Kb2 45. a4 Kc3 46. Qc4+ Kb2 47. b4 Ka1 48. Qb3 b5 49.
+Qd3 Kb2 50. Kf2 Ka1 51. Ke2 Kb2 52. Kd2 Ka1 53. Qc3+ Kb1 54. axb5 Ka2 55. Ke3
+Kb1 56. Qd2 Ka1 57. Kd3 Kb1 58. Kc3 Ka1 59. Qb2#) 45. Qc4+ Kb2 46. a4 Ka3 47. b4
+Kxa4 48. b5+ Ka5 49. Qc3+ Ka4 50. Qc5 Kb3 51. Qxb6 Ka4 52. Qa6+ Kb3 53. b6 Kb2
+54. b7 Kb1 55. Qc6 Ka2 56. b8=Q Ka3 57. Qca8# 1-0
+
+[Event "Steinitz - Lasker World Championship Match"]
+[Site "Montreal CAN"]
+[Date "1894.04.03"]
+[Round "7"]
+[White "Emanuel Lasker"]
+[Black "Wilhelm Steinitz"]
+[Result "1-0"]
+[ECO "C62"]
+[PlyCount "91"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nge7 6. Be3 Ng6 7. Qd2 Be7 8.
+O-O-O a6 9. Be2 exd4 10. Nxd4 Nxd4 11. Qxd4 Bf6 12. Qd2 Bc6 13. Nd5 O-O 14. g4
+Re8 15. g5 Bxd5 16. Qxd5 Re5 17. Qd2 Bxg5 18. f4 Rxe4 19. fxg5 Qe7 20. Rdf1 Rxe3
+21. Bc4 Nh8 22. h4 c6 23. g6 d5 24. gxh7+ Kxh7 25. Bd3+ Kg8 26. h5 Re8 27. h6 g6
+28. h7+ Kg7 29. Kb1 Qe5 30. a3 c5 31. Qf2 c4 32. Qh4 f6 33. Bf5 Kf7 34. Rhg1
+gxf5 35. Qh5+ Ke7 36. Rg8 Kd6 37. Rxf5 Qe6 38. Rxe8 Qxe8 39. Rxf6+ Kc5 40. Qh6
+Re7 41. Qh2 Qd7 42. Qg1+ d4 43. Qg5+ Qd5 44. Rf5 Qxf5 45. Qxf5+ Kd6 46. Qf6+
+ 1-0

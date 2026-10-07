@@ -1,0 +1,409 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.15"]
+[Round "-"]
+[White "theHamsterKickerReturns"]
+[Black "anjanpani1"]
+[Result "1-0"]
+[WhiteElo "1857"]
+[BlackElo "1773"]
+[ECO "D20"]
+[Termination "theHamsterKickerReturns won by checkmate"]
+[TimeControl "180"]
+[EndTime "16:22:14"]
+[EndDate "2025.05.15"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e6 4. Nc3 Nf6 5. e5 Nd5 6. Bxc4 Nxc3 7. bxc3 Be7?
+ 8. f4 ☒ O-O 9. Nf3 b6?
+ 10. O-O ☒ Bb7?!
+ 11. Qc2? 11... c5 12. Bb2?! 12... cxd4 13. cxd4 Bd5 14. Bxd5
+Qxd5 15. f5 exf5 16. Qxf5 g6?! 17. Qf4?! 17... Qb5? 18. Rab1?! 18... Qa5? 19. Nd2? 19... Qxa2 20. Ne4 Kg7?? 21. Nf6! 21... h5 22. d5 Bxf6 23. exf6+ Kh7
+24. Bc1!! 24... Kg8?
+ 25. Qh6 Qxd5 26. Qg7#
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.20"]
+[White "kileri"]
+[Black "theHamsterKickerReturns"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1842"]
+[BlackElo "1880"]
+[TimeControl "180"]
+[EndTime "7:57:28 PDT"]
+[Termination "theHamsterKickerReturns won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e3 {[%clk 0:02:58]} c6 {[%clk 0:02:59]} 2. b3 {[%clk 0:02:57]} d5 {[%clk 0:02:59]} 3. Bb2 {[%clk 0:02:57]} Bf5 {[%clk 0:02:58]} 4. Qe2 {[%clk 0:02:57]} Nf6 {[%clk 0:02:58]} 5. d3 {[%clk 0:02:56]} e6 {[%clk 0:02:58]} 6. h3 {[%clk 0:02:55]} Bg6 {[%clk 0:02:57]} 7. Nd2 {[%clk 0:02:53]} Nbd7 {[%clk 0:02:57]} 8. O-O-O {[%clk 0:02:53]} e5 {[%clk 0:02:56]} 9. g3 {[%clk 0:02:51]} Bd6 {[%clk 0:02:56]} 10. f4 {[%clk 0:02:50]} Qa5 {[%clk 0:02:53]}
+ 11. Kb1 {[%clk 0:02:48]} exf4 {[%clk 0:02:50]} 12. gxf4 {[%clk 0:02:47]} O-O-O {[%clk 0:02:48]} 13. Bg2 {[%clk 0:02:44]} Kb8 {[%clk 0:02:40]} 14. Ngf3 {[%clk 0:02:42]} Nb6 {[%clk 0:02:37]} 15. Nh4 {[%clk 0:02:37]} Bh5 {[%clk 0:02:34]} 16. Bf3 {[%clk 0:02:36]} g6 {[%clk 0:02:30]} 17. Bxh5 {[%clk 0:02:34]} Nxh5 {[%clk 0:02:30]} 18. Rhg1 {[%clk 0:02:31]} Rhe8 {[%clk 0:02:17]} 19. Nhf3 {[%clk 0:02:28]} Nc8 {[%clk 0:02:07]} 20. Ng5 {[%clk 0:02:20]} Rd7 {[%clk 0:02:01]}
+ 21. Nxh7 {[%clk 0:02:16]} Ba3 {[%clk 0:01:53]} 22. Ng5 {[%clk 0:02:10]} Nd6 {[%clk 0:01:50]} 23. e4 {[%clk 0:02:04]} Nb5 {[%clk 0:01:48]} 24. e5 {[%clk 0:01:53]} Bxb2 {[%clk 0:01:39]} 25. Kxb2 {[%clk 0:01:50]} Qa3+ {[%clk 0:01:37]} 26. Ka1 {[%clk 0:01:47]} Nc3 {[%clk 0:01:36]} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.05"]
+[White "Funnel123"]
+[Black "theHamsterKickerReturns"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "1934"]
+[BlackElo "1906"]
+[TimeControl "180"]
+[EndTime "2:53:57 PST"]
+[Termination "Funnel123 won on time"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 {[%clk 0:02:59]} c6 {[%clk 0:02:59]} 2. d4 {[%clk 0:02:57]} d5 {[%clk 0:02:59]} 3. exd5 {[%clk 0:02:55]} cxd5 {[%clk 0:02:59]} 4. Bd3 {[%clk 0:02:55]} Nf6 {[%clk 0:02:58]} 5. c3 {[%clk 0:02:54]} Bg4 {[%clk 0:02:57]} 6. Qb3 {[%clk 0:02:53]} Qb6 {[%clk 0:02:56]} 7. Bf4 {[%clk 0:02:51]} Nc6 {[%clk 0:02:55]} 8. Nd2 {[%clk 0:02:50]} e6 {[%clk 0:02:54]} 9. Ngf3 {[%clk 0:02:49]} Be7 {[%clk 0:02:51]} 10. O-O {[%clk 0:02:47]} Bh5 {[%clk 0:02:50]}
+ 11. Rfe1 {[%clk 0:02:44]} Bg6 {[%clk 0:02:49]} 12. Bxg6 {[%clk 0:02:41]} hxg6 {[%clk 0:02:48]} 13. Qxb6 {[%clk 0:02:40]} axb6 {[%clk 0:02:47]} 14. a3 {[%clk 0:02:40]} Kf8 {[%clk 0:02:44]} 15. h3 {[%clk 0:02:38]} Nd7 {[%clk 0:02:42]} 16. Re2 {[%clk 0:02:25]} Rh5 {[%clk 0:02:34]} 17. Rae1 {[%clk 0:02:24]} Rc8 {[%clk 0:02:24]} 18. Nf1 {[%clk 0:02:22]} Na5 {[%clk 0:02:23]} 19. Ng3 {[%clk 0:02:21]} Rh8 {[%clk 0:02:19]} 20. Ne5 {[%clk 0:02:20]} Nxe5 {[%clk 0:02:17]}
+ 21. Bxe5 {[%clk 0:02:20]} Nc4 {[%clk 0:02:14]} 22. Bf4 {[%clk 0:02:16]} Bf6 {[%clk 0:02:03]} 23. Bc1 {[%clk 0:02:14]} Ke7 {[%clk 0:02:02]} 24. Nf1 {[%clk 0:02:12]} g5 {[%clk 0:01:57]} 25. Ne3 {[%clk 0:02:11]} Kd6 {[%clk 0:01:50]} 26. Nxc4+ {[%clk 0:02:10]} Rxc4 {[%clk 0:01:44]} 27. Re3 {[%clk 0:02:09]} Rh4 {[%clk 0:01:40]} 28. Rg3 {[%clk 0:02:07]} Rh5 {[%clk 0:01:34]} 29. Ree3 {[%clk 0:02:06]} b5 {[%clk 0:01:24]} 30. Rg4 {[%clk 0:02:05]} Be7 {[%clk 0:01:20]}
+ 31. Reg3 {[%clk 0:02:01]} f6 {[%clk 0:01:20]} 32. Re3 {[%clk 0:01:59]} Rh8 {[%clk 0:01:12]} 33. Re1 {[%clk 0:01:56]} Kd7 {[%clk 0:01:11]} 34. Rg3 {[%clk 0:01:55]} Rhc8 {[%clk 0:01:10]} 35. Rge3 {[%clk 0:01:55]} R8c6 {[%clk 0:01:10]} 36. g3 {[%clk 0:01:47]} b4 {[%clk 0:01:04]} 37. axb4 {[%clk 0:01:46]} Bxb4 {[%clk 0:01:03]} 38. Bd2 {[%clk 0:01:26]} Ba5 {[%clk 0:00:56]} 39. Ra1 {[%clk 0:01:25]} b6 {[%clk 0:00:52]} 40. Ra2 {[%clk 0:01:24]} Rc8 {[%clk 0:00:49]}
+ 41. Re1 {[%clk 0:01:23]} R4c6 {[%clk 0:00:44]} 42. Rea1 {[%clk 0:01:21]} Ke7 {[%clk 0:00:35]} 43. b4 {[%clk 0:01:20]} Bxb4 {[%clk 0:00:33]} 44. cxb4 {[%clk 0:01:20]} Kf7 {[%clk 0:00:31]} 45. Ra7+ {[%clk 0:01:17]} Kg6 {[%clk 0:00:31]} 46. Re7 {[%clk 0:01:15]} Rc2 {[%clk 0:00:28]} 47. Be3 {[%clk 0:01:14]} R8c6 {[%clk 0:00:23]} 48. Raa7 {[%clk 0:01:11]} Kf5 {[%clk 0:00:21]} 49. Rxg7 {[%clk 0:01:10]} Re2 {[%clk 0:00:18]} 50. Rgf7 {[%clk 0:01:07]} e5 {[%clk 0:00:16]}
+ 51. g4+ {[%clk 0:01:05]} Ke4 {[%clk 0:00:15]} 52. Rxf6 {[%clk 0:00:56]} exd4 {[%clk 0:00:14]} 53. Bxg5 {[%clk 0:00:55]} Rcc2 {[%clk 0:00:12]} 54. Re7+ {[%clk 0:00:53]} Kd3 {[%clk 0:00:11]} 55. Rxe2 {[%clk 0:00:49]} Rxe2 {[%clk 0:00:11]} 56. Rd6 {[%clk 0:00:46]} Re1+ {[%clk 0:00:11]} 57. Kg2 {[%clk 0:00:45]} Rb1 {[%clk 0:00:10]} 58. Rxd5 {[%clk 0:00:42]} Kc4 {[%clk 0:00:10]} 59. Rf5 {[%clk 0:00:34]} Rxb4 {[%clk 0:00:10]} 60. h4 {[%clk 0:00:32]} Rb2 {[%clk 0:00:06]}
+ 61. h5 {[%clk 0:00:31]} b5 {[%clk 0:00:06]} 62. h6 {[%clk 0:00:30]} b4 {[%clk 0:00:06]} 63. h7 {[%clk 0:00:30]} Rc2 {[%clk 0:00:05]} 64. h8=Q {[%clk 0:00:29]} b3 {[%clk 0:00:05]} 65. Qc8+ {[%clk 0:00:28]} Kb4 {[%clk 0:00:05]} 66. Qb7+ {[%clk 0:00:25]} Kc3 {[%clk 0:00:04]} 67. Rc5+ {[%clk 0:00:24]} Kd3 {[%clk 0:00:03]} 68. Rxc2 {[%clk 0:00:23]} bxc2 {[%clk 0:00:03]} 69. Qc6 {[%clk 0:00:21]} Ke2 {[%clk 0:00:03]} 70. Qxc2+ {[%clk 0:00:20]} Ke1 {[%clk 0:00:02]}
+ 71. Qb3 {[%clk 0:00:15]} d3 {[%clk 0:00:02]} 72. Kg3 {[%clk 0:00:13]} d2 {[%clk 0:00:01]} 73. Bxd2+ {[%clk 0:00:13]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.02.28"]
+[White "naza1993"]
+[Black "theHamsterKickerReturns"]
+[Result "0-1"]
+[ECO "D10"]
+[WhiteElo "1988"]
+[BlackElo "1964"]
+[TimeControl "180"]
+[EndTime "15:34:16 PST"]
+[Termination "theHamsterKickerReturns won by checkmate"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. d4 {[%clk 0:02:58]} c6 {[%clk 0:02:59]} 2. c4 {[%clk 0:02:57]} d5 {[%clk 0:02:59]} 3. Nc3 {[%clk 0:02:54]} Bf5 {[%clk 0:02:58]} 4. Nf3 {[%clk 0:02:53]} Nf6 {[%clk 0:02:49]} 5. Bg5 {[%clk 0:02:51]} e6 {[%clk 0:02:48]} 6. e3 {[%clk 0:02:50]} Bd6 {[%clk 0:02:48]} 7. Rc1 {[%clk 0:02:48]} Nbd7 {[%clk 0:02:46]} 8. a3 {[%clk 0:02:47]} Qe7 {[%clk 0:02:43]} 9. cxd5 {[%clk 0:02:45]} exd5 {[%clk 0:02:42]} 10. Be2 {[%clk 0:02:43]} O-O {[%clk 0:02:40]}
+ 11. O-O {[%clk 0:02:42]} Be4 {[%clk 0:02:37]} 12. Nxe4 {[%clk 0:02:39]} Qxe4 {[%clk 0:02:35]} 13. Bd3 {[%clk 0:02:36]} Qg4 {[%clk 0:02:33]} 14. Bb1 {[%clk 0:02:34]} Ne4 {[%clk 0:02:31]} 15. h3 {[%clk 0:02:29]} Qh5 {[%clk 0:02:28]} 16. Bf4 {[%clk 0:02:19]} Bxf4 {[%clk 0:02:22]} 17. exf4 {[%clk 0:02:17]} f5 {[%clk 0:02:20]} 18. Ne5 {[%clk 0:02:11]} Qxd1 {[%clk 0:02:19]} 19. Rcxd1 {[%clk 0:02:10]} Nxe5 {[%clk 0:02:18]} 20. dxe5 {[%clk 0:02:09]} Kf7 {[%clk 0:02:15]}
+ 21. b4 {[%clk 0:02:04]} Ke6 {[%clk 0:02:13]} 22. Bxe4 {[%clk 0:02:02]} fxe4 {[%clk 0:02:11]} 23. g3 {[%clk 0:02:01]} g5 {[%clk 0:02:07]} 24. fxg5 {[%clk 0:01:56]} Rf3 {[%clk 0:02:06]} 25. Kg2 {[%clk 0:01:53]} Rxa3 {[%clk 0:02:03]} 26. h4 {[%clk 0:01:52]} Rf8 {[%clk 0:02:00]} 27. Rb1 {[%clk 0:01:50]} Kxe5 {[%clk 0:01:58]} 28. b5 {[%clk 0:01:47]} c5 {[%clk 0:01:56]} 29. b6 {[%clk 0:01:46]} a6 {[%clk 0:01:54]} 30. Rbc1 {[%clk 0:01:45]} Ra5 {[%clk 0:01:49]}
+ 31. Rc2 {[%clk 0:01:40]} d4 {[%clk 0:01:48]} 32. Rfc1 {[%clk 0:01:38]} Kd5 {[%clk 0:01:47]} 33. h5 {[%clk 0:01:35]} Rf5 {[%clk 0:01:42]} 34. g6 {[%clk 0:01:34]} hxg6 {[%clk 0:01:39]} 35. hxg6 {[%clk 0:01:32]} Rg5 {[%clk 0:01:39]} 36. f4 {[%clk 0:01:29]} exf3+ {[%clk 0:01:36]} 37. Kxf3 {[%clk 0:01:24]} Rxg6 {[%clk 0:01:35]} 38. Rh1 {[%clk 0:01:23]} Rg5 {[%clk 0:01:27]} 39. Kf4 {[%clk 0:01:12]} Re5 {[%clk 0:01:25]} 40. g4 {[%clk 0:01:10]} Rb5 {[%clk 0:01:23]}
+ 41. Rh6 {[%clk 0:01:08]} Re6 {[%clk 0:01:19]} 42. Rh8 {[%clk 0:01:05]} Rbxb6 {[%clk 0:01:15]} 43. g5 {[%clk 0:01:03]} d3 {[%clk 0:01:09]} 44. Rd8+ {[%clk 0:01:01]} Rbd6 {[%clk 0:01:03]} 45. Rxd6+ {[%clk 0:00:51]} Rxd6 {[%clk 0:01:03]} 46. Rc3 {[%clk 0:00:50]} Kd4 {[%clk 0:00:59]} 47. Rc1 {[%clk 0:00:47]} c4 {[%clk 0:00:58]} 48. Kf5 {[%clk 0:00:46]} b5 {[%clk 0:00:54]} 49. g6 {[%clk 0:00:45]} c3 {[%clk 0:00:52]} 50. g7 {[%clk 0:00:43]} Rd8 {[%clk 0:00:51]}
+ 51. Kf6 {[%clk 0:00:42]} b4 {[%clk 0:00:50]} 52. Kf7 {[%clk 0:00:39]} a5 {[%clk 0:00:48]} 53. g8=Q {[%clk 0:00:37]} Rxg8 {[%clk 0:00:47]} 54. Kxg8 {[%clk 0:00:37]} a4 {[%clk 0:00:45]} 55. Kf7 {[%clk 0:00:36]} b3 {[%clk 0:00:45]} 56. Ke6 {[%clk 0:00:34]} a3 {[%clk 0:00:44]} 57. Rh1 {[%clk 0:00:31]} c2 {[%clk 0:00:43]} 58. Rh4+ {[%clk 0:00:30]} Kc3 {[%clk 0:00:42]} 59. Kd5 {[%clk 0:00:27]} b2 {[%clk 0:00:41]} 60. Rc4+ {[%clk 0:00:27]} Kd2 {[%clk 0:00:36]}
+ 61. Rh4 {[%clk 0:00:25]} a2 {[%clk 0:00:34]} 62. Rh2+ {[%clk 0:00:25]} Kc3 {[%clk 0:00:33]} 63. Rh4 {[%clk 0:00:22]} a1=Q {[%clk 0:00:32]} 64. Rc4+ {[%clk 0:00:21]} Kd2 {[%clk 0:00:30]} 65. Rh4 {[%clk 0:00:20]} b1=Q {[%clk 0:00:29]} 66. Rh2+ {[%clk 0:00:19]} Kc3 {[%clk 0:00:29]} 67. Rh4 {[%clk 0:00:17]} Qaa2+ {[%clk 0:00:27]} 68. Rc4+ {[%clk 0:00:17]} Qxc4+ {[%clk 0:00:26]} 69. Ke5 {[%clk 0:00:15]} c1=Q {[%clk 0:00:25]} 70. Kf5 {[%clk 0:00:13]} d2+ {[%clk 0:00:25]}
+ 71. Kg5 {[%clk 0:00:11]} d1=Q+ {[%clk 0:00:25]} 72. Kf6 {[%clk 0:00:09]} Q4f4+ {[%clk 0:00:24]} 73. Kg7 {[%clk 0:00:08]} Qg1+ {[%clk 0:00:21]} 74. Kh8 {[%clk 0:00:07]} Qbb6 {[%clk 0:00:15]} 75. Kh7 {[%clk 0:00:03]} Qbh6# {[%clk 0:00:15]} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.02"]
+[White "indmind"]
+[Black "theHamsterKickerReturns"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "1902"]
+[BlackElo "1930"]
+[TimeControl "180"]
+[EndTime "7:18:07 PST"]
+[Termination "theHamsterKickerReturns won on time"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 {[%clk 0:02:59]} c6 {[%clk 0:02:59]} 2. d4 {[%clk 0:02:58]} d5 {[%clk 0:02:59]} 3. exd5 {[%clk 0:02:58]} cxd5 {[%clk 0:02:59]} 4. Nf3 {[%clk 0:02:58]} Bf5 {[%clk 0:02:58]} 5. Bd3 {[%clk 0:02:57]} Bg6 {[%clk 0:02:57]} 6. O-O {[%clk 0:02:56]} Nf6 {[%clk 0:02:56]} 7. Be3 {[%clk 0:02:55]} e6 {[%clk 0:02:56]} 8. Nc3 {[%clk 0:02:52]} Bd6 {[%clk 0:02:55]} 9. Qe2 {[%clk 0:02:50]} Nc6 {[%clk 0:02:54]} 10. Nd2 {[%clk 0:02:48]} Qe7 {[%clk 0:02:54]}
+ 11. f4 {[%clk 0:02:47]} O-O-O {[%clk 0:02:52]} 12. a3 {[%clk 0:02:46]} Kb8 {[%clk 0:02:51]} 13. Nf3 {[%clk 0:02:45]} h5 {[%clk 0:02:50]} 14. Ne5 {[%clk 0:02:43]} Bxe5 {[%clk 0:02:46]} 15. fxe5 {[%clk 0:02:28]} Ng4 {[%clk 0:02:44]} 16. h3 {[%clk 0:02:20]} Qh4 {[%clk 0:02:42]} 17. Bf2 {[%clk 0:02:12]} Nxf2 {[%clk 0:02:37]} 18. Rxf2 {[%clk 0:02:11]} Nxd4 {[%clk 0:02:33]} 19. Qe3 {[%clk 0:02:09]} Bxd3 {[%clk 0:02:26]} 20. cxd3 {[%clk 0:02:07]} Nf5 {[%clk 0:02:24]}
+ 21. Qf4 {[%clk 0:01:56]} g5 {[%clk 0:02:19]} 22. Qf3 {[%clk 0:01:48]} g4 {[%clk 0:02:16]} 23. Qf4 {[%clk 0:01:44]} Ne7 {[%clk 0:01:36]} 24. Qxf7 {[%clk 0:01:37]} gxh3 {[%clk 0:01:33]} 25. Qf6 {[%clk 0:01:34]} Nf5 {[%clk 0:01:26]} 26. Rxf5 {[%clk 0:01:27]} Qd4+ {[%clk 0:01:23]} 27. Rf2 {[%clk 0:01:25]} hxg2 {[%clk 0:01:21]} 28. Qf4 {[%clk 0:01:17]} Qxd3 {[%clk 0:01:13]} 29. Rd1 {[%clk 0:01:11]} Qh7 {[%clk 0:00:58]} 30. Qf7 {[%clk 0:00:59]} Qh6 {[%clk 0:00:55]}
+ 31. Qf6 {[%clk 0:00:55]} Qe3 {[%clk 0:00:53]} 32. Qf4 {[%clk 0:00:49]} Qc5 {[%clk 0:00:49]} 33. Na4 {[%clk 0:00:42]} Qe7 {[%clk 0:00:42]} 34. Qf7 {[%clk 0:00:35]} Qxf7 {[%clk 0:00:39]} 35. Rxf7 {[%clk 0:00:34]} Rdg8 {[%clk 0:00:34]} 36. Nc5 {[%clk 0:00:31]} h4 {[%clk 0:00:33]} 37. Rxb7+ {[%clk 0:00:29]} Ka8 {[%clk 0:00:26]} 38. Rd4 {[%clk 0:00:05]} h3 {[%clk 0:00:24]} 39. Ra4 {[%clk 0:00:00]} h2+ {[%clk 0:00:22]} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.02"]
+[Round "-"]
+[White "roseraindrop"]
+[Black "theHamsterKickerReturns"]
+[Result "0-1"]
+[CurrentPosition "8/1P6/2bN1k2/5pp1/5K2/5P2/5bP1/8 w - -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...c6"]
+[UTCDate "2025.03.02"]
+[UTCTime "22:32:33"]
+[WhiteElo "1926"]
+[BlackElo "1930"]
+[TimeControl "180"]
+[Termination "theHamsterKickerReturns won by checkmate"]
+[StartTime "22:32:33"]
+[EndDate "2025.03.02"]
+[EndTime "22:37:54"]
+[Link "https://www.chess.com/game/live/123476559818"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/171162371.8a229924.50x50o.ca5c4ce04174.jpg"]
+[WhiteCountry "17"]
+[WhiteTitle ""]
+[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[BlackCountry "164"]
+[BlackTitle ""]
+
+1. d4 {[%clk 0:02:59.7]} 1... c6 {[%clk 0:02:59.9]} 2. Bf4 {[%clk 0:02:58.9]}
+2... d5 {[%clk 0:02:59.8]} 3. e3 {[%clk 0:02:58]} 3... Bf5 {[%clk 0:02:58.7]} 4.
+c4 {[%clk 0:02:57.4]} 4... Nf6 {[%clk 0:02:58.3]} 5. Nc3 {[%clk 0:02:56.9]} 5...
+e6 {[%clk 0:02:57.9]} 6. Qb3 {[%clk 0:02:56.6]} 6... Qb6 {[%clk 0:02:56.4]} 7.
+c5 {[%clk 0:02:56.3]} 7... Qxb3 {[%clk 0:02:55.4]} 8. axb3 {[%clk 0:02:56.2]}
+8... Nbd7 {[%clk 0:02:55]} 9. h3 {[%clk 0:02:55.5]} 9... Be7 {[%clk 0:02:54.3]}
+10. b4 {[%clk 0:02:55.1]} 10... O-O {[%clk 0:02:53.3]} 11. b5 {[%clk 0:02:54.7]}
+11... Ne8 {[%clk 0:02:52.8]} 12. bxc6 {[%clk 0:02:52.5]} 12... bxc6 {[%clk
+0:02:52.1]} 13. Ba6 {[%clk 0:02:52]} 13... f6 {[%clk 0:02:51.3]} 14. Bb7 {[%clk
+0:02:50.7]} 14... Rd8 {[%clk 0:02:50.8]} 15. Bxc6 {[%clk 0:02:46.2]} 15... e5
+{[%clk 0:02:49]} 16. Bxd5+ {[%clk 0:02:44.7]} 16... Kh8 {[%clk 0:02:46]} 17. Bh2
+{[%clk 0:02:43.5]} 17... exd4 {[%clk 0:02:45]} 18. exd4 {[%clk 0:02:42.8]} 18...
+Bd3 {[%clk 0:02:43.6]} 19. Nge2 {[%clk 0:02:41.4]} 19... f5 {[%clk 0:02:36.9]}
+20. O-O {[%clk 0:02:40.6]} 20... Nef6 {[%clk 0:02:35]} 21. Rfe1 {[%clk
+0:02:35.6]} 21... Rfe8 {[%clk 0:02:21.3]} 22. Rxa7 {[%clk 0:02:33.2]} 22... Bf8
+{[%clk 0:02:18.4]} 23. Bc6 {[%clk 0:02:26.5]} 23... Re6 {[%clk 0:02:03.5]} 24.
+Bxd7 {[%clk 0:02:22.1]} 24... Nxd7 {[%clk 0:02:03.4]} 25. Raa1 {[%clk
+0:02:03.5]} 25... Rde8 {[%clk 0:02:00.9]} 26. f3 {[%clk 0:01:52.2]} 26... Bxe2
+{[%clk 0:01:56.8]} 27. Kf2 {[%clk 0:01:48.4]} 27... Bc4 {[%clk 0:01:52.4]} 28.
+Rxe6 {[%clk 0:01:45]} 28... Bxe6 {[%clk 0:01:50.5]} 29. Re1 {[%clk 0:01:40.2]}
+29... Bf7 {[%clk 0:01:49.6]} 30. Rxe8 {[%clk 0:01:39.3]} 30... Bxe8 {[%clk
+0:01:49.5]} 31. b4 {[%clk 0:01:38.3]} 31... g6 {[%clk 0:01:32.2]} 32. Ke3 {[%clk
+0:01:33.4]} 32... Kg8 {[%clk 0:01:30.8]} 33. b5 {[%clk 0:01:28.9]} 33... Kf7
+{[%clk 0:01:29.6]} 34. b6 {[%clk 0:01:28.2]} 34... Nxc5 {[%clk 0:01:28.7]} 35.
+dxc5 {[%clk 0:01:20.4]} 35... Bxc5+ {[%clk 0:01:28.6]} 36. Kf4 {[%clk
+0:01:15.9]} 36... Bd6+ {[%clk 0:01:21.6]} 37. Kg5 {[%clk 0:01:14]} 37... Bxh2
+{[%clk 0:01:21.5]} 38. Nd5 {[%clk 0:01:09.6]} 38... Bc6 {[%clk 0:01:16.1]} 39.
+Ne3 {[%clk 0:00:40.4]} 39... Bg1 {[%clk 0:01:10.9]} 40. Nc4 {[%clk 0:00:39.1]}
+40... Kg7 {[%clk 0:00:56]} 41. h4 {[%clk 0:00:33.4]} 41... h6+ {[%clk
+0:00:55.2]} 42. Kf4 {[%clk 0:00:32.1]} 42... Kf6 {[%clk 0:00:54.4]} 43. Nd6
+{[%clk 0:00:24.6]} 43... Bf2 {[%clk 0:00:44.8]} 44. b7 {[%clk 0:00:21]} 44...
+g5+ {[%clk 0:00:43.6]} 45. hxg5+ {[%clk 0:00:15.5]} 45... hxg5# {[%clk
+0:00:43.5]}
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.03"]
+[Round "-"]
+[White "jobranrayyan"]
+[Black "theHamsterKickerReturns"]
+[Result "0-1"]
+[CurrentPosition "8/1p6/2q5/8/1K6/3k4/1p6/8 w - -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.d4"]
+[UTCDate "2025.03.03"]
+[UTCTime "19:16:10"]
+[WhiteElo "1875"]
+[BlackElo "1919"]
+[TimeControl "180"]
+[Termination "theHamsterKickerReturns won on time"]
+[StartTime "19:16:10"]
+[EndDate "2025.03.03"]
+[EndTime "19:22:29"]
+[Link "https://www.chess.com/game/live/123507410624"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/26079262.65f254ea.50x50o.00f4afd14eca.gif"]
+[WhiteCountry "291"]
+[WhiteTitle ""]
+[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[BlackCountry "164"]
+[BlackTitle ""]
+
+1. d4 {[%clk 0:02:59.8]} 1... c6 {[%clk 0:02:59.9]} 2. e4 {[%clk 0:02:59.2]}
+2... d5 {[%clk 0:02:59.8]} 3. e5 {[%clk 0:02:58.5]} 3... Bf5 {[%clk 0:02:58]} 4.
+g4 {[%clk 0:02:57.7]} 4... Bg6 {[%clk 0:02:56.5]} 5. h4 {[%clk 0:02:57]} 5... h5
+{[%clk 0:02:56.2]} 6. g5 {[%clk 0:02:56.2]} 6... e6 {[%clk 0:02:55.6]} 7. Bd3
+{[%clk 0:02:55]} 7... Bxd3 {[%clk 0:02:53.6]} 8. Qxd3 {[%clk 0:02:54.6]} 8... g6
+{[%clk 0:02:53.1]} 9. Ne2 {[%clk 0:02:53.7]} 9... Nd7 {[%clk 0:02:52.6]} 10. Nf4
+{[%clk 0:02:53.1]} 10... Ne7 {[%clk 0:02:51.6]} 11. Be3 {[%clk 0:02:51.5]} 11...
+Nf5 {[%clk 0:02:50]} 12. Nd2 {[%clk 0:02:50.5]} 12... c5 {[%clk 0:02:47.6]} 13.
+c3 {[%clk 0:02:49.3]} 13... Qa5 {[%clk 0:02:45.5]} 14. a3 {[%clk 0:02:46.7]}
+14... Rc8 {[%clk 0:02:41.7]} 15. Nb3 {[%clk 0:02:36.5]} 15... Qb6 {[%clk
+0:02:37.2]} 16. Nxc5 {[%clk 0:02:34.9]} 16... Nxc5 {[%clk 0:02:34.8]} 17. dxc5
+{[%clk 0:02:33.9]} 17... Bxc5 {[%clk 0:02:34.2]} 18. O-O-O {[%clk 0:02:30.6]}
+18... Qa5 {[%clk 0:02:23.9]} 19. Bxc5 {[%clk 0:02:28.3]} 19... Rxc5 {[%clk
+0:02:23.8]} 20. Kb1 {[%clk 0:02:23.5]} 20... Qc7 {[%clk 0:02:19.2]} 21. Qe2
+{[%clk 0:02:16.2]} 21... Kd8 {[%clk 0:02:09.3]} 22. Nd3 {[%clk 0:02:15.1]} 22...
+Rc4 {[%clk 0:02:04.7]} 23. f4 {[%clk 0:02:13.3]} 23... Kc8 {[%clk 0:02:03.5]}
+24. Rdf1 {[%clk 0:02:07.3]} 24... Ng3 {[%clk 0:02:01.8]} 25. Qf2 {[%clk
+0:02:02]} 25... Nxh1 {[%clk 0:01:59.9]} 26. Rxh1 {[%clk 0:02:00.9]} 26... Kb8
+{[%clk 0:01:58.5]} 27. Nb4 {[%clk 0:01:57]} 27... Rc8 {[%clk 0:01:55.1]} 28. Rc1
+{[%clk 0:01:54.7]} 28... Ka8 {[%clk 0:01:52.8]} 29. f5 {[%clk 0:01:47]} 29...
+exf5 {[%clk 0:01:49.6]} 30. Nxd5 {[%clk 0:01:45.8]} 30... Qxe5 {[%clk
+0:01:46.2]} 31. Nf6 {[%clk 0:01:35.1]} 31... Rxh4 {[%clk 0:01:41]} 32. Qxh4
+{[%clk 0:01:32]} 32... Rd8 {[%clk 0:01:34.2]} 33. Qb4 {[%clk 0:01:24.3]} 33...
+Qg3 {[%clk 0:01:29.3]} 34. Qe7 {[%clk 0:01:20.2]} 34... Rb8 {[%clk 0:01:24.5]}
+35. Nd7 {[%clk 0:01:19]} 35... Rc8 {[%clk 0:01:20.9]} 36. Qxf7 {[%clk
+0:01:17.4]} 36... Qxg5 {[%clk 0:01:18.4]} 37. Qe6 {[%clk 0:01:12.2]} 37... h4
+{[%clk 0:01:03.9]} 38. Nb6+ {[%clk 0:01:10.5]} 38... axb6 {[%clk 0:01:01.8]} 39.
+Qxc8+ {[%clk 0:01:09.4]} 39... Ka7 {[%clk 0:01:00.1]} 40. Rh1 {[%clk 0:01:05.3]}
+40... Qg4 {[%clk 0:00:55]} 41. Qh8 {[%clk 0:01:02.5]} 41... g5 {[%clk
+0:00:53.6]} 42. Qd4 {[%clk 0:00:58.6]} 42... f4 {[%clk 0:00:50.3]} 43. Rg1
+{[%clk 0:00:56]} 43... Qf5+ {[%clk 0:00:47.5]} 44. Ka1 {[%clk 0:00:54.8]} 44...
+g4 {[%clk 0:00:45.3]} 45. Qf2 {[%clk 0:00:51.9]} 45... g3 {[%clk 0:00:42.4]} 46.
+Qf3 {[%clk 0:00:51]} 46... h3 {[%clk 0:00:40.6]} 47. Rh1 {[%clk 0:00:49.5]}
+47... h2 {[%clk 0:00:39]} 48. b4 {[%clk 0:00:39.6]} 48... Qg5 {[%clk 0:00:37.5]}
+49. Qg2 {[%clk 0:00:35.8]} 49... Qg4 {[%clk 0:00:36.1]} 50. Rxh2 {[%clk
+0:00:33.5]} 50... Qd1+ {[%clk 0:00:35]} 51. Kb2 {[%clk 0:00:32.1]} 51... gxh2
+{[%clk 0:00:34]} 52. Qxh2 {[%clk 0:00:30.9]} 52... f3 {[%clk 0:00:33.1]} 53. Qf2
+{[%clk 0:00:29.7]} 53... Qe2+ {[%clk 0:00:30.3]} 54. Qxe2 {[%clk 0:00:28.4]}
+54... fxe2 {[%clk 0:00:30.2]} 55. Kc2 {[%clk 0:00:27.7]} 55... e1=Q {[%clk
+0:00:30.1]} 56. Kb3 {[%clk 0:00:27]} 56... Qe4 {[%clk 0:00:27.9]} 57. a4 {[%clk
+0:00:25.9]} 57... Ka6 {[%clk 0:00:27.7]} 58. b5+ {[%clk 0:00:23.9]} 58... Ka5
+{[%clk 0:00:26.8]} 59. c4 {[%clk 0:00:22.8]} 59... Qd3+ {[%clk 0:00:24.6]} 60.
+Kb2 {[%clk 0:00:21.9]} 60... Qxc4 {[%clk 0:00:23.7]} 61. Ka3 {[%clk 0:00:20.2]}
+61... Qxa4+ {[%clk 0:00:23.6]} 62. Kb2 {[%clk 0:00:18.4]} 62... Qxb5+ {[%clk
+0:00:23.4]} 63. Ka3 {[%clk 0:00:17.8]} 63... Qc5+ {[%clk 0:00:23.3]} 64. Kb3
+{[%clk 0:00:17]} 64... Kb5 {[%clk 0:00:23.2]} 65. Kb2 {[%clk 0:00:14.7]} 65...
+Kc6 {[%clk 0:00:23.1]} 66. Kb3 {[%clk 0:00:14.1]} 66... Kd5 {[%clk 0:00:23]} 67.
+Ka4 {[%clk 0:00:12.9]} 67... Kd4 {[%clk 0:00:22.9]} 68. Kb3 {[%clk 0:00:12]}
+68... Kd3 {[%clk 0:00:22.8]} 69. Ka4 {[%clk 0:00:11.1]} 69... Qc4+ {[%clk
+0:00:18.9]} 70. Ka3 {[%clk 0:00:09.6]} 70... b5 {[%clk 0:00:16.5]} 71. Kb2
+{[%clk 0:00:07.5]} 71... b4 {[%clk 0:00:15.5]} 72. Ka1 {[%clk 0:00:05.4]} 72...
+b3 {[%clk 0:00:09]} 73. Kb2 {[%clk 0:00:03.7]} 73... Qc2+ {[%clk 0:00:08.9]} 74.
+Ka3 {[%clk 0:00:02.9]} 74... Qa2+ {[%clk 0:00:08.8]} 75. Kb4 {[%clk 0:00:01.9]}
+75... Qa6 {[%clk 0:00:07.3]} 76. Kc5 {[%clk 0:00:01.6]} 76... Qc6+ {[%clk
+0:00:07.2]} 77. Kb4 {[%clk 0:00:00.5]} 77... b2 {[%clk 0:00:05]}
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.03"]
+[Round "-"]
+[White "HigherClouds"]
+[Black "theHamsterKickerReturns"]
+[Result "0-1"]
+[CurrentPosition "8/4q1p1/8/8/8/3kr3/5K2/8 w - -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...c6"]
+[UTCDate "2025.03.03"]
+[UTCTime "20:32:29"]
+[WhiteElo "1860"]
+[BlackElo "1924"]
+[TimeControl "180"]
+[Termination "theHamsterKickerReturns won on time"]
+[StartTime "20:32:29"]
+[EndDate "2025.03.03"]
+[EndTime "20:38:31"]
+[Link "https://www.chess.com/game/live/123509892416"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/15157556.dd85ccb7.50x50o.96e63423f621.jpeg"]
+[WhiteCountry "2"]
+[WhiteTitle ""]
+[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[BlackCountry "164"]
+[BlackTitle ""]
+
+1. d4 {[%clk 0:02:58.1]} 1... c6 {[%clk 0:02:59.9]} 2. e3 {[%clk 0:02:57.4]}
+2... d5 {[%clk 0:02:59.8]} 3. Ne2 {[%clk 0:02:56.5]} 3... Bf5 {[%clk 0:02:58.5]}
+4. Ng3 {[%clk 0:02:55.7]} 4... Bg6 {[%clk 0:02:57.2]} 5. Bd3 {[%clk 0:02:55.3]}
+5... Nf6 {[%clk 0:02:56.5]} 6. O-O {[%clk 0:02:54]} 6... e6 {[%clk 0:02:56.2]}
+7. a3 {[%clk 0:02:51.2]} 7... Bd6 {[%clk 0:02:55.7]} 8. f4 {[%clk 0:02:50.6]}
+8... Nbd7 {[%clk 0:02:55.1]} 9. b4 {[%clk 0:02:48.8]} 9... Qe7 {[%clk
+0:02:53.7]} 10. Nd2 {[%clk 0:02:47.1]} 10... Bxd3 {[%clk 0:02:51.6]} 11. cxd3
+{[%clk 0:02:46.4]} 11... h5 {[%clk 0:02:50.5]} 12. Nf3 {[%clk 0:02:41.8]} 12...
+h4 {[%clk 0:02:48.9]} 13. Ne2 {[%clk 0:02:41.1]} 13... h3 {[%clk 0:02:47.1]} 14.
+g3 {[%clk 0:02:40.3]} 14... O-O-O {[%clk 0:02:44]} 15. Bd2 {[%clk 0:02:36.9]}
+15... Kb8 {[%clk 0:02:42.9]} 16. Rb1 {[%clk 0:02:36]} 16... Ng4 {[%clk
+0:02:33.5]} 17. b5 {[%clk 0:02:29.4]} 17... c5 {[%clk 0:02:31.5]} 18. a4 {[%clk
+0:02:19]} 18... f6 {[%clk 0:02:23]} 19. a5 {[%clk 0:02:15.1]} 19... e5 {[%clk
+0:02:22.3]} 20. dxe5 {[%clk 0:02:02.9]} 20... fxe5 {[%clk 0:02:20.4]} 21. Ng5
+{[%clk 0:01:57.7]} 21... exf4 {[%clk 0:02:14.4]} 22. exf4 {[%clk 0:01:49.3]}
+22... Ndf6 {[%clk 0:02:08.6]} 23. Qc1 {[%clk 0:01:27.4]} 23... d4 {[%clk
+0:02:02.9]} 24. Re1 {[%clk 0:01:23.2]} 24... b6 {[%clk 0:01:54.8]} 25. axb6
+{[%clk 0:01:21.6]} 25... Qb7 {[%clk 0:01:51.5]} 26. bxa7+ {[%clk 0:01:20.1]}
+26... Ka8 {[%clk 0:01:50.1]} 27. Ne4 {[%clk 0:01:07.1]} 27... Nxe4 {[%clk
+0:01:47.8]} 28. Nxd4 {[%clk 0:01:02.8]} 28... Nxh2 {[%clk 0:00:55.9]} 29. Kxh2
+{[%clk 0:00:55.1]} 29... cxd4 {[%clk 0:00:47.8]} 30. Rxe4 {[%clk 0:00:51.2]}
+30... Rde8 {[%clk 0:00:43.6]} 31. Qc6 {[%clk 0:00:45]} 31... Rxe4 {[%clk
+0:00:37.4]} 32. dxe4 {[%clk 0:00:39.8]} 32... Ba3 {[%clk 0:00:31]} 33. Qxb7+
+{[%clk 0:00:33.2]} 33... Kxb7 {[%clk 0:00:28.6]} 34. b6 {[%clk 0:00:31.7]} 34...
+Bc5 {[%clk 0:00:28]} 35. Ba5 {[%clk 0:00:30.2]} 35... d3 {[%clk 0:00:26.4]} 36.
+Rb5 {[%clk 0:00:25.1]} 36... Bf2 {[%clk 0:00:24.6]} 37. Rd5 {[%clk 0:00:23]}
+37... Bxg3+ {[%clk 0:00:23.8]} 38. Kxg3 {[%clk 0:00:21.8]} 38... h2 {[%clk
+0:00:23.5]} 39. a8=Q+ {[%clk 0:00:14.8]} 39... Kxa8 {[%clk 0:00:22.3]} 40. b7+
+{[%clk 0:00:13.9]} 40... Kxb7 {[%clk 0:00:21.1]} 41. Rd7+ {[%clk 0:00:13.2]}
+41... Ka6 {[%clk 0:00:19.9]} 42. Rd6+ {[%clk 0:00:11.8]} 42... Kxa5 {[%clk
+0:00:18.4]} 43. Rd5+ {[%clk 0:00:11.4]} 43... Kb4 {[%clk 0:00:18]} 44. Rd4+
+{[%clk 0:00:10.6]} 44... Kc3 {[%clk 0:00:17.6]} 45. Rxd3+ {[%clk 0:00:09.7]}
+45... Kxd3 {[%clk 0:00:17.1]} 46. e5 {[%clk 0:00:09]} 46... h1=Q {[%clk
+0:00:17]} 47. Kg4 {[%clk 0:00:08]} 47... Qe4 {[%clk 0:00:16.9]} 48. e6 {[%clk
+0:00:06.4]} 48... Rf8 {[%clk 0:00:16.3]} 49. Kg3 {[%clk 0:00:03.4]} 49... Rxf4
+{[%clk 0:00:16.2]} 50. e7 {[%clk 0:00:02.1]} 50... Rf3+ {[%clk 0:00:16.1]} 51.
+Kg2 {[%clk 0:00:01.2]} 51... Re3+ {[%clk 0:00:15]} 52. Kf2 {[%clk 0:00:00.3]}
+52... Qxe7 {[%clk 0:00:14.9]}
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.03"]
+[Round "-"]
+[White "theHamsterKickerReturns"]
+[Black "mentorowyszachor"]
+[Result "1-0"]
+[CurrentPosition "8/8/R3k3/3p3p/3P1K1P/2P5/8/8 b - -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Hillbilly-Attack-2...d5"]
+[UTCDate "2025.03.03"]
+[UTCTime "20:52:43"]
+[WhiteElo "1914"]
+[BlackElo "1885"]
+[TimeControl "180"]
+[Termination "theHamsterKickerReturns won by resignation"]
+[StartTime "20:52:43"]
+[EndDate "2025.03.03"]
+[EndTime "20:57:24"]
+[Link "https://www.chess.com/game/live/123510525606"]
+[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[WhiteCountry "164"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/431705587.34cf2b54.50x50o.860758af7f63.png"]
+[BlackCountry "112"]
+[BlackTitle ""]
+
+1. e4 {[%clk 0:02:59.9]} 1... c6 {[%clk 0:02:59.8]} 2. Bc4 {[%clk 0:02:59.5]}
+2... d5 {[%clk 0:02:59.7]} 3. exd5 {[%clk 0:02:57.9]} 3... cxd5 {[%clk
+0:02:59.6]} 4. Bb3 {[%clk 0:02:57.8]} 4... Nf6 {[%clk 0:02:58.2]} 5. f4 {[%clk
+0:02:57.7]} 5... Nc6 {[%clk 0:02:57.3]} 6. Nf3 {[%clk 0:02:57.6]} 6... Bg4
+{[%clk 0:02:56.4]} 7. O-O {[%clk 0:02:57.5]} 7... e6 {[%clk 0:02:55.7]} 8. d4
+{[%clk 0:02:56.3]} 8... Bd6 {[%clk 0:02:55]} 9. Qe1 {[%clk 0:02:55.3]} 9... Qc7
+{[%clk 0:02:54]} 10. Ne5 {[%clk 0:02:54.2]} 10... O-O {[%clk 0:02:49]} 11. c3
+{[%clk 0:02:53]} 11... b5 {[%clk 0:02:44.9]} 12. Be3 {[%clk 0:02:51.9]} 12... a5
+{[%clk 0:02:43.6]} 13. Nd2 {[%clk 0:02:49.9]} 13... b4 {[%clk 0:02:39.3]} 14.
+Nxg4 {[%clk 0:02:48]} 14... Nxg4 {[%clk 0:02:38.1]} 15. Rc1 {[%clk 0:02:42]}
+15... Qd7 {[%clk 0:02:25.9]} 16. Bc2 {[%clk 0:02:36.4]} 16... bxc3 {[%clk
+0:02:23.7]} 17. bxc3 {[%clk 0:02:33.4]} 17... Rfb8 {[%clk 0:02:21.2]} 18. Nf3
+{[%clk 0:02:32.2]} 18... Rb2 {[%clk 0:02:15.5]} 19. Ne5 {[%clk 0:02:30.9]} 19...
+Ngxe5 {[%clk 0:02:07]} 20. fxe5 {[%clk 0:02:30.8]} 20... Ba3 {[%clk 0:02:04.1]}
+21. Qh4 {[%clk 0:02:28.4]} 21... g6 {[%clk 0:01:50.7]} 22. Bd3 {[%clk
+0:01:59.5]} 22... Ne7 {[%clk 0:01:46.9]} 23. Bg5 {[%clk 0:01:57.1]} 23... Nf5
+{[%clk 0:01:45.4]} 24. Bxf5 {[%clk 0:01:56.2]} 24... exf5 {[%clk 0:01:44.1]} 25.
+Bf6 {[%clk 0:01:55.5]} 25... h5 {[%clk 0:01:38.9]} 26. Rce1 {[%clk 0:01:50.8]}
+26... Bf8 {[%clk 0:01:36.3]} 27. Re3 {[%clk 0:01:48.1]} 27... Rc2 {[%clk
+0:01:29.2]} 28. Rg3 {[%clk 0:01:45.2]} 28... Bg7 {[%clk 0:01:25.2]} 29. Qg5
+{[%clk 0:01:38.2]} 29... Rb8 {[%clk 0:01:18.6]} 30. h4 {[%clk 0:01:31.5]} 30...
+Rbb2 {[%clk 0:01:16.6]} 31. Re1 {[%clk 0:01:24.2]} 31... Rxa2 {[%clk 0:00:51]}
+32. e6 {[%clk 0:01:21.1]} 32... fxe6 {[%clk 0:00:50.4]} 33. Qxg6 {[%clk
+0:01:19.7]} 33... a4 {[%clk 0:00:38.7]} 34. Bxg7 {[%clk 0:01:16.2]} 34... Rxg2+
+{[%clk 0:00:37.9]} 35. Rxg2 {[%clk 0:01:11.8]} 35... Rxg2+ {[%clk 0:00:37.8]}
+36. Qxg2 {[%clk 0:01:10.8]} 36... Qxg7 {[%clk 0:00:36.5]} 37. Qxg7+ {[%clk
+0:01:09.9]} 37... Kxg7 {[%clk 0:00:36.4]} 38. Rxe6 {[%clk 0:01:08.4]} 38... f4
+{[%clk 0:00:33.6]} 39. Kf2 {[%clk 0:01:07]} 39... Kf7 {[%clk 0:00:31.4]} 40. Ra6
+{[%clk 0:01:05.4]} 40... a3 {[%clk 0:00:30.5]} 41. Kf3 {[%clk 0:01:04.9]} 41...
+a2 {[%clk 0:00:29.4]} 42. Kxf4 {[%clk 0:01:04.8]} 42... a1=B {[%clk 0:00:26.9]}
+43. Rxa1 {[%clk 0:01:04.7]} 43... Ke6 {[%clk 0:00:25.8]} 44. Ra6+ {[%clk
+0:01:02.7]}
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.06"]
+[White "choferdecarlsen"]
+[Black "theHamsterKickerReturns"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1937"]
+[BlackElo "1972"]
+[TimeControl "180"]
+[EndTime "12:32:43 PST"]
+[Termination "theHamsterKickerReturns won on time"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 {[%clk 0:02:58]} c6 {[%clk 0:02:59]} 2. d4 {[%clk 0:02:56]} d5 {[%clk 0:02:59]} 3. e5 {[%clk 0:02:55]} Bf5 {[%clk 0:02:57]} 4. Bd3 {[%clk 0:02:54]} Bg6 {[%clk 0:02:55]} 5. Ne2 {[%clk 0:02:52]} e6 {[%clk 0:02:54]} 6. O-O {[%clk 0:02:50]} Nd7 {[%clk 0:02:54]} 7. Nf4 {[%clk 0:02:47]} Ne7 {[%clk 0:02:53]} 8. Nxg6 {[%clk 0:02:43]} hxg6 {[%clk 0:02:51]} 9. Bg5 {[%clk 0:02:40]} c5 {[%clk 0:02:50]} 10. c3 {[%clk 0:02:38]} Qb6 {[%clk 0:02:48]}
+ 11. Qb3 {[%clk 0:02:29]} Nf5 {[%clk 0:02:44]} 12. Qxb6 {[%clk 0:02:24]} axb6 {[%clk 0:02:41]} 13. g4 {[%clk 0:02:13]} Ne7 {[%clk 0:02:35]} 14. Nd2 {[%clk 0:02:09]} Nc6 {[%clk 0:02:35]} 15. Bb5 {[%clk 0:02:05]} cxd4 {[%clk 0:02:31]} 16. Bxc6 {[%clk 0:02:02]} bxc6 {[%clk 0:02:31]} 17. cxd4 {[%clk 0:02:01]} c5 {[%clk 0:02:29]} 18. Nb3 {[%clk 0:01:56]} Rh3 {[%clk 0:02:24]} 19. Kg2 {[%clk 0:01:53]} Rd3 {[%clk 0:02:22]} 20. f4 {[%clk 0:01:33]} c4 {[%clk 0:01:53]}
+ 21. Nc1 {[%clk 0:01:14]} Rxd4 {[%clk 0:01:42]} 22. Ne2 {[%clk 0:01:12]} Rd2 {[%clk 0:01:38]} 23. Rf2 {[%clk 0:01:08]} Bc5 {[%clk 0:01:38]} 24. f5 {[%clk 0:01:05]} Rxb2 {[%clk 0:01:33]} 25. Bc1 {[%clk 0:01:02]} Rc2 {[%clk 0:01:24]} 26. a4 {[%clk 0:00:53]} Nxe5 {[%clk 0:01:15]} 27. Ba3 {[%clk 0:00:48]} Bxf2 {[%clk 0:01:02]} 28. Kxf2 {[%clk 0:00:48]} d4 {[%clk 0:01:00]} 29. Bd6 {[%clk 0:00:43]} Nxg4+ {[%clk 0:00:56]} 30. Kg3 {[%clk 0:00:41]} Rxe2 {[%clk 0:00:54]}
+ 31. Kxg4 {[%clk 0:00:40]} gxf5+ {[%clk 0:00:52]} 32. Kf3 {[%clk 0:00:39]} Re3+ {[%clk 0:00:49]} 33. Kf2 {[%clk 0:00:38]} e5 {[%clk 0:00:49]} 34. Ra2 {[%clk 0:00:32]} Kd7 {[%clk 0:00:40]} 35. Bb4 {[%clk 0:00:29]} Rh8 {[%clk 0:00:35]} 36. Kg2 {[%clk 0:00:25]} g5 {[%clk 0:00:32]} 37. Bd2 {[%clk 0:00:23]} Rd3 {[%clk 0:00:29]} 38. Bxg5 {[%clk 0:00:21]} Rg8 {[%clk 0:00:29]} 39. h4 {[%clk 0:00:19]} f6 {[%clk 0:00:28]} 40. Kf2 {[%clk 0:00:17]} fxg5 {[%clk 0:00:27]}
+ 41. hxg5 {[%clk 0:00:17]} Rxg5 {[%clk 0:00:26]} 42. Rb2 {[%clk 0:00:15]} Kc6 {[%clk 0:00:25]} 43. a5 {[%clk 0:00:13]} bxa5 {[%clk 0:00:24]} 44. Rb8 {[%clk 0:00:12]} Rh5 {[%clk 0:00:22]} 45. Rc8+ {[%clk 0:00:10]} Kd5 {[%clk 0:00:22]} 46. Rd8+ {[%clk 0:00:08]} Ke4 {[%clk 0:00:21]} 47. Rh8 {[%clk 0:00:06]} Rxh8 {[%clk 0:00:19]} 48. Ke2 {[%clk 0:00:04]} Rh2+ {[%clk 0:00:19]} 49. Ke1 {[%clk 0:00:02]} Ra2 {[%clk 0:00:18]} 0-1

@@ -1,0 +1,143 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+{[%c_highlight
+a3;keyPressed;none;opacity;0.8;square;a3;persistent;false,b3;keyPressed;none;opacity;0.8;square;b3;persistent;false,c3;keyPressed;none;opacity;0.8;square;c3;persistent;false,d3;keyPressed;none;opacity;0.8;square;d3;persistent;false,e3;keyPressed;none;opacity;0.8;square;e3;persistent;false,f3;keyPressed;none;opacity;0.8;square;f3;persistent;false,g3;keyPressed;none;opacity;0.8;square;g3;persistent;false,h3;keyPressed;none;opacity;0.8;square;h3;persistent;false,h2;keyPressed;none;opacity;0.8;square;h2;persistent;false,g2;keyPressed;none;opacity;0.8;square;g2;persistent;false,g1;keyPressed;none;opacity;0.8;square;g1;persistent;false,f1;keyPressed;none;opacity;0.8;square;f1;persistent;false,f2;keyPressed;none;opacity;0.8;square;f2;persistent;false,e2;keyPressed;none;opacity;0.8;square;e2;persistent;false,e1;keyPressed;none;opacity;0.8;square;e1;persistent;false,d1;keyPressed;none;opacity;0.8;square;d1;persistent;false,d2;keyPressed;none;opacity;0.8;square;d2;persistent;false,c2;keyPressed;none;opacity;0.8;square;c2;persistent;false,c1;keyPressed;none;opacity;0.8;square;c1;persistent;false,b2;keyPressed;none;opacity;0.8;square;b2;persistent;false,a2;keyPressed;none;opacity;0.8;square;a2;persistent;false,b1;keyPressed;none;opacity;0.8;square;b1;persistent;false][%cal
+da4h4,dh5a5][%c_arrow
+a4h4;keyPressed;none;opacity;0.8;from;a4;to;h4;persistent;false,h5a5;keyPressed;none;opacity;0.8;from;h5;to;a5;persistent;false]}
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 {[%c_highlight
+d5;keyPressed;none;opacity;0.8;square;d5;persistent;false,d4;keyPressed;none;opacity;0.8;square;d4;persistent;false,e4;keyPressed;none;opacity;0.8;square;e4;persistent;false,e5;keyPressed;none;opacity;0.8;square;e5;persistent;false]}
+4... e6 5. cxd5 cxd5 (5... Qxd5 {[%cal dg2c6][%c_arrow
+g2c6;keyPressed;none;opacity;0.8;from;g2;to;c6;persistent;false][%c_highlight
+f3;keyPressed;none;opacity;0.8;square;f3;persistent;false]}) 6. a4 {[%cal
+da4e8,de8a4,da4b5][%c_arrow
+a4e8;keyPressed;none;opacity;0.8;from;a4;to;e8;persistent;false,e8a4;keyPressed;none;opacity;0.8;from;e8;to;a4;persistent;false,a4b5;keyPressed;none;opacity;0.8;from;a4;to;b5;persistent;false][%c_highlight
+b5;keyPressed;none;opacity;0.8;square;b5;persistent;false]} (6. Qa4+ Ke7 (6...
+Qd7 7. Qxg4) 7. Qxg4) *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Qa4+ c6 5. dxc6 Nxc6 6. Rxb1 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Bxb4 exf2+ 7. Ke2 fxg1=N+
+8. Ke1 Qh4+ 9. Kd2 Nc6 10. Bc3 Bf5 11. Kc1 Qf2 12. Nd2 O-O-O 13. c5 Nd4 14. Bxd4
+Rxd4 15. c6 Ne7 16. cxb7+ Kb8 17. Ba6 Rhd8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 (1. e3 e6 (1... f6 2. d4 e6 3. c4 d5 4. h3 Bb4+ 5. Nc3 a6 6. a3 Ba5 7. Rh2
+dxc4 8. Qh5+ Kf8 9. Qxa5)) 1... e5 2. dxe5 (2. d5) 2... Nc6 3. Nf3 Qe7
+{[%c_highlight
+c1;keyPressed;none;opacity;0.8;square;c1;persistent;false,b2;keyPressed;none;opacity;0.8;square;b2;persistent;false][%cal
+dc1b2][%c_arrow
+c1b2;keyPressed;none;opacity;0.8;from;c1;to;b2;persistent;false]} 4. Bf4 Qb4+ 5.
+Nbd2 (5. Bd2 Qxb2 6. Bc3 (6. Nc3 Nb4 7. Nd4 Nxc2+ (7... c5 8. Ndb5 Nxc2+ 9. Qxc2
+Qxc2) (7... b6 8. Rb1 Qxc2 (8... Qxa2 9. Nxa2) (8... Qxc3 9. Bxc3) (8... Qa3 9.
+Rb3 Qa4 10. Nxa4) 9. Nxc2) 8. Nxc2) 6... Bb4 7. Bxb4 (7. Qd2 Bxc3 8. Qxc3 (8.
+Nxc3 Qxa1+) 8... Qc1#) (7. h3 Bxc3+ 8. Nxc3 Qxc3+) 7... Qxa1) (5. Qd2 Qxb2
+{[%c_highlight a1;keyPressed;none;opacity;0.8;square;a1;persistent;false]} 6. h3
+(6. e6 Qxa1) (6. Nd4 Qxa1) (6. Qc3 Bb4 7. Qxb4 Qxb4+) 6... Qxa1) 5... Qxf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Bf5 5. cxd5 cxd5 6. Qb3 {[%cal
+db3b7][%c_arrow
+b3b7;keyPressed;none;opacity;0.8;from;b3;to;b7;persistent;false]} 6... b6 7. Bg5
+Be6 (7... e6 {[%cal de6d5][%c_arrow
+e6d5;keyPressed;none;opacity;0.8;from;e6;to;d5;persistent;false][%c_highlight
+d5;keyPressed;none;opacity;0.8;square;d5;persistent;false]}) 8. e3 {[%cal
+df1b5][%c_arrow
+f1b5;keyPressed;none;opacity;0.8;from;f1;to;b5;persistent;false]} 8... a6 {[%cal
+da6b5][%c_arrow
+a6b5;keyPressed;none;opacity;0.8;from;a6;to;b5;persistent;false][%c_highlight
+b5;keyPressed;none;opacity;0.8;square;b5;persistent;false]} 9. Rc1 Nbd7 10. Bxf6
+{[%cal da4e8][%c_arrow
+a4e8;keyPressed;none;opacity;0.8;from;a4;to;e8;persistent;false][%c_highlight
+e8;keyPressed;none;opacity;0.8;square;e8;persistent;false]} 10... Nxf6 11. Bxa6
+Rxa6 12. Qb5+ Bd7 13. Qxa6 g6 14. Nb5 Bg7 15. Nc7+ Kf8 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 {[%c_highlight
+b7;keyPressed;none;opacity;0.8;square;b7;persistent;false]} 4... Bf5 5. Qb3 b6
+{[%cal da7b6][%c_arrow
+a7b6;keyPressed;none;opacity;0.8;from;a7;to;b6;persistent;false][%c_highlight
+b6;keyPressed;none;opacity;0.8;square;b6;persistent;false]} 6. cxd5 cxd5 7. Ne5
+e6 {[%cal df1b5,da4e8][%c_arrow
+f1b5;keyPressed;none;opacity;0.8;from;f1;to;b5;persistent;false,a4e8;keyPressed;none;opacity;0.8;from;a4;to;e8;persistent;false][%c_highlight
+b5;keyPressed;none;opacity;0.8;square;b5;persistent;false,e2;keyPressed;none;opacity;0.8;square;e2;persistent;false]}
+8. e4 Bxe4 9. Bb5+ {[%cal db5e8][%c_arrow
+b5e8;keyPressed;none;opacity;0.8;from;b5;to;e8;persistent;false][%c_highlight
+e8;keyPressed;none;opacity;0.8;square;e8;persistent;false]} 9... Nbd7 10. Nxe4
+dxe4 11. Bg5 Be7 12. Bxf6 Bxf6 13. Nxd7 Ke7 14. Qb4+ Ke8 15. Nxf6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+
+1. d4 d5 2. c4 (2. c3) 2... c6 (2... dxc4 3. Qa4+ (3. e4 {[%cal
+dd4e5,dd4c5,de4d5,de4f5][%c_arrow
+d4e5;keyPressed;none;opacity;0.8;from;d4;to;e5;persistent;false,d4c5;keyPressed;none;opacity;0.8;from;d4;to;c5;persistent;false,e4d5;keyPressed;none;opacity;0.8;from;e4;to;d5;persistent;false,e4f5;keyPressed;none;opacity;0.8;from;e4;to;f5;persistent;false]})
+3... Bd7 4. Qxc4) (2... Nc6 3. cxd5 Qxd5 4. Nf3) (2... e6) (2... Nf6) 3. Nc3 Nf6
+4. Nf3 Bf5 5. cxd5 cxd5 6. Qb3 b6 (6... Nbd7 7. Qxb7) (6... Bc8 {[%cal
+dc8f5,df5c8][%c_arrow
+c8f5;keyPressed;none;opacity;0.8;from;c8;to;f5;persistent;false,f5c8;keyPressed;none;opacity;0.8;from;f5;to;c8;persistent;false]})
+(6... Qc7 7. Nxd5 Nxd5 8. Qxd5) (6... Qd7 7. Ne5 Qc7 {[%c_highlight
+d5;keyPressed;none;opacity;0.8;square;d5;persistent;false]} 8. Nxd5 Nxd5 9. Qxd5
+{[%cal dd5f7][%c_arrow
+d5f7;keyPressed;none;opacity;0.8;from;d5;to;f7;persistent;false][%c_highlight
+f7;keyPressed;none;opacity;0.8;square;f7;persistent;false]}) (6... Qb6 7. Qxb6
+axb6) 7. Bg5 {[%cal dc8f5][%c_arrow
+c8f5;keyPressed;none;opacity;0.8;from;c8;to;f5;persistent;false][%c_highlight
+f5;keyPressed;none;opacity;0.8;square;f5;persistent;false]} (7. Qb5+ Bd7) 7...
+e6 (7... h6 8. Bxf6 gxf6 9. Nxd5) (7... Qd7) 8. e4 (8. e3 Be7 9. Bb5+ Nbd7) 8...
+dxe4 (8... Bxe4 9. Bb5+ Nbd7 10. Ne5 {[%cal db5d7,de5d7,dd8d7][%c_arrow
+b5d7;keyPressed;none;opacity;0.8;from;b5;to;d7;persistent;false,e5d7;keyPressed;none;opacity;0.8;from;e5;to;d7;persistent;false,d8d7;keyPressed;none;opacity;0.8;from;d8;to;d7;persistent;false][%c_highlight
+d7;keyPressed;none;opacity;0.8;square;d7;persistent;false]}) 9. Bb5+ Nbd7 (9...
+Ke7 10. Qb4+) 10. Ne5 {[%cal de5d7,db5e8][%c_arrow
+e5d7;keyPressed;none;opacity;0.8;from;e5;to;d7;persistent;false,b5e8;keyPressed;none;opacity;0.8;from;b5;to;e8;persistent;false][%c_highlight
+d7;keyPressed;none;opacity;0.8;square;d7;persistent;false]} (10. Bxd7+ Qxd7)
+10... Be7 (10... Qc8 11. Bxf6 gxf6 12. Nxd7) 11. Bxf6 Bxf6 12. Bxd7+ (12. Nxd7
+Qe7 13. Nxf6+ Kf8 14. Nd7+ Kg8) 12... Ke7 13. Qb4#
+1-0

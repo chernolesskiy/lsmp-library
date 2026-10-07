@@ -1,0 +1,71 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1n1ppp/2n1p3/3pP3/3P4/P1PB1N2/5PPP/R1BQ1RK1 w - - 0 1"]
+[Link "https://www.chess.com/analysis/collection/greek-gift-fKCVBCkN/2XwFp7HZX4/analysis?move=16"]
+
+1. Bxh7+!! 1... Kxh7
+2. Ng5+! 2... Kg6 3.
+h4 Rh8 4. Qd3+ f5 5. exf6+ Kxf6 6. Qf3+ Ke7 7. Qf7+! 7... Kd6 8. Qxe6+ Kc7 9. Bf4+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Ne7 6. O-O O-O 7. Bxh7+ Kxh7 8.
+Ng5+ Kg8 9. Qh5 Bf5 10. g4 Bg6 11. Qh4 Qd7 12. Re1 f5 13. Nc3 fxg4 14. Ne6 Rf6
+15. Qxg4 Nbc6 *
+
+[Event "Ubeda op 6th"]
+[Site "Ubeda ESP"]
+[Date "2001.01.22"]
+[Round "2"]
+[White "Boris Avrukh"]
+[Black "RB Ramesh"]
+[Result "1-0"]
+[EventDate "2001.01.21"]
+[ECO "D47"]
+[WhiteElo "2630"]
+[BlackElo "2467"]
+[PlyCount "44"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. a3 b4 10. Ne4 a5 11. O-O Be7 12. Nxf6+ Nxf6 13. e4 O-O 14. e5 Nd7 15. Be4
+Qb6 16. Bg5 Bxg5 17. Bxh7+ Kxh7 18. Nxg5+ Kg6 19. Qg4 f5 20. Qg3 Qxd4 21. Ne4+
+Kf7 22. Rad1 1-0
+
+[Event "Miscellaneous Game"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "25"]
+[White "Gioachino Greco"]
+[Black "NN"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "C01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "23"]
+
+1. e4 e6 2. d4 Nf6 3. Bd3 Nc6 4. Nf3 Be7 5. h4 O-O 6. e5 Nd5 7. Bxh7+ Kxh7 8.
+Ng5+ Bxg5 9. hxg5+ Kg8 10. Qh5 f5 11. g6 Re8 12. Qh8#
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 Bb4 6. Bd3 O-O *

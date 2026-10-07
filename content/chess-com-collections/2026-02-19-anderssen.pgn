@@ -1,0 +1,230 @@
+[Event "Vienna"]
+[Site "Vienna AUT"]
+[Date "1873.08.05"]
+[Round "5.2"]
+[White "Adolf Anderssen"]
+[Black "Louis Paulsen"]
+[Result "1-0"]
+[ECO "C41"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Bg5 Nf6 8.
+Nc3 Be7 9. O-O-O O-O 10. Rhe1 Re8 11. Kb1 Bd7 12. Bxf6 Bxf6 13. e5 Be7 14. Nd5
+Bf8 15. exd6 cxd6 16. Rxe8 Bxe8 17. Nd2 Bc6 18. Ne4 f5 19. Nec3 Qd7 20. a3 Qf7
+21. h3 a6 22. g4 Re8 23. f4 Re6 24. g5 b5 25. h4 Re8 26. Qd3 Rb8 27. h5 a5 28.
+b4 axb4 29. axb4 Qxh5 30. Qxf5 Qf7 31. Qd3 Bd7 32. Ne4 Qf5 33. Rh1 Re8 34. Nef6+
+gxf6 35. Nxf6+ Kf7 36. Rxh7+ Bg7 37. Rxg7+ Kxg7 38. Nxe8+ Kf8 39. Qxf5+ Bxf5 40.
+Nxd6 Bd7 41. Ne4 Kg7 42. Ng3 Kf7 43. f5 Ke7 44. Kc1 Kd6 45. g6 Be8 46. Kd2 Kd5
+47. Kd3 Ke5 48. Ke3 Kd5 49. Kf4 Kc4 50. Ne4 Kxb4 51. Nd6 Bc6 52. f6 Kc3 53.
+Nxb5+ Bxb5 54. f7 1-0
+
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1864.??.??"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Emil Schallopp"]
+[Result "1-0"]
+[ECO "C31"]
+[PlyCount "27"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. Bc4 Bxe5 6. fxe5 Qd4 7. Qe2 Qxe5 8.
+d4 Qxd4 9. Nc3 Nf6 10. Be3 Qd8 11. O-O h6 12. Bc5 Nbd7 13. Qxe4+ Nxe4 14. Bxf7#
+1-0
+
+[Event "?"]
+[Site "Breslau POL (Prussian Empire)"]
+[Date "1860.??.??"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Berthold Suhle"]
+[Result "1-0"]
+[ECO "C51"]
+[PlyCount "45"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8. cxd4
+Bb6 9. d5 Na5 10. Bb2 Nf6 11. Bd3 Bg4 12. Nc3 c6 13. Ne2 O-O 14. Qd2 Rc8 15. Qg5
+Bxf3 16. gxf3 cxd5 17. Kh1 Nc4 18. Rg1 Ne8 19. Qxg7+ Nxg7 20. Rxg7+ Kh8 21. Rg8+
+Kxg8 22. Rg1+ Qg5 23. Rxg5#
+1-0
+
+[Event "Breslau"]
+[Site "Breslau POL (Prussian Empire)"]
+[Date "1865.06.22"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Johannes Zukertort"]
+[Result "1-0"]
+[ECO "C37"]
+[PlyCount "33"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O Qe7 6. Nc3 gxf3 7. d4 d6 8. Nd5
+Qd7 9. Qxf3 Nc6 10. Qxf4 Nd8 11. Qg3 c6 12. Qxg8 Rxg8 13. Nf6+ Ke7 14. Nxg8+ Ke8
+15. Nf6+ Ke7 16. Nxd7 Bxd7 17. Bg5+ 1-0
+
+[Event "Breslau"]
+[Site "Breslau POL (Prussian Empire)"]
+[Date "1862.??.??"]
+[Round "?"]
+[White "Jakob Rosanes"]
+[Black "Adolf Anderssen"]
+[Result "0-1"]
+[ECO "C31"]
+[PlyCount "38"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ c6 5. dxc6 Nxc6 6. Nc3 Nf6 7. Qe2 Bc5 8.
+Nxe4 O-O 9. Bxc6 bxc6 10. d3 Re8 11. Bd2 Nxe4 12. dxe4 Bf5 13. e5 Qb6 14. O-O-O
+Bd4 15. c3 Rab8 16. b3 Red8 17. Nf3 Qxb3 18. axb3 Rxb3 19. Be1 Be3+ 0-1
+
+[Event "Casual Game"]
+[Site "Berlin GER (Prussian Empire)"]
+[Date "1851.??.??"]
+[Round "?"]
+[White "Karl Mayet"]
+[Black "Adolf Anderssen"]
+[Result "0-1"]
+[ECO "C64"]
+[PlyCount "30"]
+[Source "Schachzeitung, v6 n2, February 1851, p51"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. Bxc6 dxc6 6. O-O Bg4 7. h3 h5 8.
+hxg4 hxg4 9. Nxe5 g3 10. d4 Nxe4 11. Qg4 Bxd4 12. Qxe4 0-1
+
+[Event "8th WSB Congress, Barmen"]
+[Site "Barmen GER"]
+[Date "1869.08.08"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Johannes Zukertort"]
+[Result "1-0"]
+[ECO "C51"]
+[PlyCount "56"]
+[Source "Neue Berliner Schachzeitung, v6 n9, September 1869, pp270-271"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Bb6 8.
+cxd4 d6 9. d5 Na5 10. Bb2 Ne7 11. Bd3 O-O 12. Nc3 Ng6 13. Ne2 c5 14. Qd2 f6 15.
+Kh1 Bc7 16. Rac1 Rb8 17. Ng3 b5 18. Nf5 b4 19. Rg1 Bb6 20. g4 Ne5 21. Bxe5 dxe5
+22. Rg3 Rf7 23. g5 Bxf5 24. exf5 Qxd5 25. gxf6 Rd8 26. Rcg1 Kh8 27. fxg7+ Kg8
+28. Qh6 Qd6 1-0
+
+[Event "Breslau"]
+[Site "Breslau POL (Prussian Empire)"]
+[Date "1863.??.??"]
+[Round "?"]
+[White "Jakob Rosanes"]
+[Black "Adolf Anderssen"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C39"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "44"]
+[Source "Ueber Land und Meer, March 1863, p.366"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. d4
+Nh5 9. Bb5+ c6 10. dxc6 bxc6 11. Nxc6 Nxc6 12. Bxc6+ Kf8 13. Bxa8 Ng3 14. Rh2
+Bf5 15. Bd5 Kg7 16. Nc3 Re8+ 17. Kf2 Qb6 18. Na4 Qa6 19. Nc3 Be5 20. a4 Qf1+ 21.
+Qxf1 Bxd4+ 22. Be3 Rxe3 23. Kg1 Re1#
+0-1
+
+[Event "Casual Game"]
+[Site "Berlin GER (Prussian Empire)"]
+[Date "1852.??.??"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Jean Dufresne"]
+[Result "1-0"]
+[ECO "C52"]
+[PlyCount "40"]
+[Source "Schachzeitung, v7 n9, September 1852, pp338-339"]
+[SourceNote "ending given in Schachzeitung, v7 n10, October 1852, p383"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d3 8. Qb3
+Qf6 9. e5 Qg6 10. Re1 Nge7 11. Ba3 b5 12. Qxb5 Rb8 13. Qa4 Bb6 14. Nbd2 Bb7 15.
+Ne4 Qf5 16. Bxd3 Qh5 17. Nf6+ gxf6 18. exf6 Rg8 19. Rad1 Qxf3 20. Rxe7+ Nxe7
+ 1-0
+
+[Event "Casual game"]
+[Site "London ENG"]
+[Date "1851.06.21"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Lionel Adalbert Bagration Felix Kieseritzky"]
+[Result "1-0"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 (2. d4 exd4 {[%c_highlight
+e4;keyPressed;none;opacity;0.8;square;e4;persistent;false]}) 2... exf4
+{[%c_highlight
+d4;keyPressed;none;opacity;0.8;square;d4;persistent;false,e4;keyPressed;none;opacity;0.8;square;e4;persistent;false,d5;keyPressed;none;opacity;0.8;square;d5;persistent;false,e5;keyPressed;none;opacity;0.8;square;e5;persistent;false]}
+3. Bc4 {[%c_highlight
+e7;keyPressed;none;opacity;0.8;square;e7;persistent;false,f6;keyPressed;none;opacity;0.8;square;f6;persistent;false,g5;keyPressed;none;opacity;0.8;square;g5;persistent;false,h4;keyPressed;none;opacity;0.8;square;h4;persistent;false]}
+(3. d4 {[%cal dd4c5,dd4e5,de4d5,de4f5][%c_arrow
+d4c5;keyPressed;none;opacity;0.8;from;d4;to;c5;persistent;false,d4e5;keyPressed;none;opacity;0.8;from;d4;to;e5;persistent;false,e4d5;keyPressed;none;opacity;0.8;from;e4;to;d5;persistent;false,e4f5;keyPressed;none;opacity;0.8;from;e4;to;f5;persistent;false][%c_highlight
+f5;keyPressed;none;opacity;0.8;square;f5;persistent;false,e5;keyPressed;none;opacity;0.8;square;e5;persistent;false,d5;keyPressed;none;opacity;0.8;square;d5;persistent;false,c5;keyPressed;none;opacity;0.8;square;c5;persistent;false]})
+3... Qh4+ {[%cal dh4e1][%c_arrow
+h4e1;keyPressed;none;opacity;0.8;from;h4;to;e1;persistent;false]} 4. Kf1 (4. g3
+{[%cal dh4e1][%c_arrow
+h4e1;keyPressed;none;opacity;0.8;from;h4;to;e1;persistent;false]} 4... fxg3
+(4... Qxg3+ 5. hxg3) 5. hxg3 (5. Nc3 g2+) 5... Qxh1) 4... b5 {[%c_highlight
+b5;keyPressed;none;opacity;0.8;square;b5;persistent;false]} (4... Qd8) 5. Bxb5
+Nf6 {[%cal dg8f6][%c_arrow
+g8f6;keyPressed;none;opacity;0.8;from;g8;to;f6;persistent;false]} 6. Nf3 Qh6
+(6... Nxe4 7. Nxh4) (6... Bb7 7. Nxh4) 7. d3 {[%c_highlight
+e4;keyPressed;none;opacity;0.8;square;e4;persistent;false]} 7... Nh5 8. Nh4 (8.
+a3 {[%cal dh5g3][%c_arrow
+h5g3;keyPressed;none;opacity;0.8;from;h5;to;g3;persistent;false]} 8... Ng3+ 9.
+hxg3 (9. Ke1 Nxh1) 9... Qxh1+ 10. Kf2 Qxd1) 8... Qg5 {[%c_highlight
+h4;keyPressed;none;opacity;0.8;square;h4;persistent;false][%cal dg5h4][%c_arrow
+g5h4;keyPressed;none;opacity;0.8;from;g5;to;h4;persistent;false]} (8... Ng3+ 9.
+hxg3) 9. Nf5 c6 (9... Qxf5 10. exf5) 10. g4 {[%cal dg4h5][%c_arrow
+g4h5;keyPressed;none;opacity;0.8;from;g4;to;h5;persistent;false][%c_highlight
+h5;keyPressed;none;opacity;0.8;square;h5;persistent;false]} (10. Bxc6 dxc6) (10.
+g3 fxg3) 10... Nf6 {[%c_highlight
+b5;keyPressed;none;opacity;0.8;square;b5;persistent;false,g5;keyPressed;none;opacity;0.8;square;g5;persistent;false]}
+(10... fxg3 11. Bxg5) 11. Rg1 (11. Bxc6 dxc6) 11... cxb5 12. h4 Qg6 (12... Qxf5)
+(12... Qh6) (12... Qxh4 {[%c_highlight
+h4;keyPressed;none;opacity;0.8;square;h4;persistent;false]}) (12... a6) (12...
+Qxg4 13. Rxg4) (12... Qh5) 13. h5 Qg5 (13... Qxh5 14. gxh5) (13... Qh6) 14. Qf3
+{[%cal dg5d8][%c_arrow
+g5d8;keyPressed;none;opacity;0.8;from;g5;to;d8;persistent;false][%c_highlight
+d8;keyPressed;none;opacity;0.8;square;d8;persistent;false]} (14. Bxf4 Qxf4+)
+(14. Qd2) (14. Qe2 {[%cal de2f4][%c_arrow
+e2f4;keyPressed;none;opacity;0.8;from;e2;to;f4;persistent;false][%c_highlight
+f4;keyPressed;none;opacity;0.8;square;f4;persistent;false]}) (14. Qe1 {[%cal
+de1f4][%c_arrow
+e1f4;keyPressed;none;opacity;0.8;from;e1;to;f4;persistent;false]}) 14... Ng8
+(14... Bb7 15. Bxf4 {[%c_highlight
+g5;keyPressed;none;opacity;0.8;square;g5;persistent;false]}) (14... Rg8 15. Bxf4
+{[%c_highlight
+f4;keyPressed;none;opacity;0.8;square;f4;persistent;false,h5;keyPressed;none;opacity;0.8;square;h5;persistent;false,h4;keyPressed;none;opacity;0.8;square;h4;persistent;false,g4;keyPressed;none;opacity;0.8;square;g4;persistent;false,h6;keyPressed;none;opacity;0.8;square;h6;persistent;false,g6;keyPressed;none;opacity;0.8;square;g6;persistent;false,f5;keyPressed;none;opacity;0.8;square;f5;persistent;false,g5;keyPressed;none;opacity;0.8;square;g5;persistent;false]}
+15... Qg6 (15... Qh4) (15... Qxf4 16. Qxf4) (15... Qxh5 16. gxh5) (15... Qxf5
+16. gxf5) (15... Qh6) 16. hxg6) (14... a6 15. Bxf4 Qg6 (15... Qxf4 16. Qxf4)
+(15... Qxf5 16. exf5) (15... Qxg4) (15... Qh6) (15... Qh4 16. Nxh4) 16. hxg6)
+15. Bxf4 Qf6 {[%c_highlight
+f5;keyPressed;none;opacity;0.8;square;f5;persistent;false,f4;keyPressed;none;opacity;0.8;square;f4;persistent;false,f3;keyPressed;none;opacity;0.8;square;f3;persistent;false]}
+16. Nc3 Bc5 {[%cal dc5g1][%c_arrow
+c5g1;keyPressed;none;opacity;0.8;from;c5;to;g1;persistent;false]} 17. Nd5 {[%cal
+dd5f6][%c_arrow
+d5f6;keyPressed;none;opacity;0.8;from;d5;to;f6;persistent;false][%c_highlight
+f6;keyPressed;none;opacity;0.8;square;f6;persistent;false]} 17... Qxb2
+{[%c_highlight b2;keyPressed;none;opacity;0.8;square;b2;persistent;false][%cal
+dc5g1,db2a1][%c_arrow
+c5g1;keyPressed;none;opacity;0.8;from;c5;to;g1;persistent;false,b2a1;keyPressed;none;opacity;0.8;from;b2;to;a1;persistent;false]}
+(17... h6 18. Nxf6+) 18. Bd6 {[%cal dd6c5][%c_arrow
+d6c5;keyPressed;none;opacity;0.8;from;d6;to;c5;persistent;false]} 18... Bxg1 19.
+e5 (19. Nxg7+ {[%c_highlight
+g7;keyPressed;none;opacity;0.8;square;g7;persistent;false]}) (19. d4 Qxd4) 19...
+Qxa1+ {[%cal da1g1][%c_arrow
+a1g1;keyPressed;none;opacity;0.8;from;a1;to;g1;persistent;false]} 20. Ke2
+{[%c_highlight
+d6;keyPressed;none;opacity;0.8;square;d6;persistent;false,d5;keyPressed;none;opacity;0.8;square;d5;persistent;false,f5;keyPressed;none;opacity;0.8;square;f5;persistent;false,e5;keyPressed;none;opacity;0.8;square;e5;persistent;false,f3;keyPressed;none;opacity;0.8;square;f3;persistent;false]}
+20... Na6 (20... Bb7 21. Nxg7+) (20... Qb1 21. Nxg7+ Kd8 22. Bc7# {[%cal
+dg7e8][%c_arrow
+g7e8;keyPressed;none;opacity;0.8;from;g7;to;e8;persistent;false][%c_highlight
+e8;keyPressed;none;opacity;0.8;square;e8;persistent;false]}) (20... Qxa2 21.
+Nxg7+ Kd8 22. Bc7# {[%cal dd5c7,dd5e7,dg7e8][%c_arrow
+d5c7;keyPressed;none;opacity;0.8;from;d5;to;c7;persistent;false,d5e7;keyPressed;none;opacity;0.8;from;d5;to;e7;persistent;false,g7e8;keyPressed;none;opacity;0.8;from;g7;to;e8;persistent;false][%c_highlight
+e7;keyPressed;none;opacity;0.8;square;e7;persistent;false,c7;keyPressed;none;opacity;0.8;square;c7;persistent;false,e8;keyPressed;none;opacity;0.8;square;e8;persistent;false,d8;keyPressed;none;opacity;0.8;square;d8;persistent;false]})
+(20... a6 21. Nxg7+ Kd8 22. Bc7# {[%cal dd5c7][%c_arrow
+d5c7;keyPressed;none;opacity;0.8;from;d5;to;c7;persistent;false]}) 21. Nxg7+ Kd8
+22. Qf6+ (22. Bc7+ Nxc7) (22. Be7+ Nxe7) 22... Nxf6 23. Be7# 1-0

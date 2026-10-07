@@ -1,0 +1,132 @@
+{
+  "kind": "level 2",
+  "seed": 526591627,
+  "created": "2026-09-25T12:35:11",
+  "reveal": {
+    "policy_level": 2,
+    "policy": "hint_generation/reveal_policy.yaml",
+    "harder_first": null
+  },
+  "pages": [
+    {
+      "title": "Checkmate!",
+      "description": "Every puzzle here ends in checkmate. Checks first!",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 1,
+        "R2": 1,
+        "R3": 4
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "00VSe",
+          "rating": 955,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Check with your queen first, then checkmate with your queen."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05CdA",
+          "rating": 1069,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Checkmate in two moves! Start with a queen check."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0AXS1",
+          "rating": 1079,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Check with your rook first, then checkmate with your rook. Stay forcing!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "002HE",
+          "rating": 1116,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "There are three checks, but only one is checkmate - use your queen! Find it!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "065zB",
+          "rating": 1123,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Sacrifice your knight with check first, then checkmate with your queen."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05kt8",
+          "rating": 1170,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "We have two checks -- only one leads to mate! Forcing moves first!"
+        }
+      ]
+    },
+    {
+      "title": "Win Material!",
+      "description": "Find the tactic that wins material.",
+      "tier_quota": {
+        "R0": 0,
+        "R1": 2,
+        "R2": 1,
+        "R3": 3
+      },
+      "puzzles": [
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "01lNV",
+          "rating": 928,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Take the hanging knight first, then win the queen. Forcing moves first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "03Hd9",
+          "rating": 1103,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "Win the knight. Look at every check and capture first."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0BBVq",
+          "rating": 1157,
+          "hint_tier": "R2",
+          "hint_tier_target": "R2",
+          "hint": "Win material! Not a check this time -- look for a quiet move!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "07djI",
+          "rating": 1166,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Fork them! Use your knight to check first, then take the hanging bishop. Forcing moves first!"
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "0AjV2",
+          "rating": 1167,
+          "hint_tier": "R3",
+          "hint_tier_target": "R3",
+          "hint": "Take the pawn with your pawn first, then give a check, then give a check."
+        },
+        {
+          "source_pdf": "Lichess",
+          "puzzle_number": "05FNp",
+          "rating": 1188,
+          "hint_tier": "R1",
+          "hint_tier_target": "R1",
+          "hint": "Win the queen. Forcing moves first!"
+        }
+      ]
+    }
+  ]
+}

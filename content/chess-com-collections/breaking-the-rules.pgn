@@ -1,0 +1,24 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.03"]
+[Round "?"]
+[White "SKCC_LSMP"]
+[Black "Rk_1999"]
+[Result "1-0"]
+[WhiteElo "1949"]
+[BlackElo "1950"]
+[ECO "D35"]
+[Termination "SKCC_LSMP won by checkmate"]
+[TimeControl "300"]
+[EndTime "6:45:10 PST"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. cxd5 exd5 5. Bf4 g6 6. Nf3 Bg7 7. e3 Ne4 8. Bd3
+Nxc3 9. bxc3 c5 10. O-O O-O 11. Be5 Nc6 (11... f6) 12. Bxg7 Kxg7 13. Qe2 c4 14.
+Bc2 Bg4 15. Rae1 Qf6 16. Kh1 Bxf3 17. gxf3 Rfe8 18. e4 Rad8 19. e5 Qf4 20. Rg1
+b5 21. Rg4 Qh6 22. f4 b4 23. Ba4 Re6 24. f5 Nxd4 25. cxd4 Ra6 26. Bd1 Qh3 27. e6
+fxe6 28. fxe6 Re8 29. Qe5+ Kg8 30. Qxd5 Rxa2 31. e7+ Kg7 32. Qe5+ Kg8 33. Qe6+
+Kh8 34. Qf6+ Kg8 35. Bf3 Qh5 36. Rxg6+ Qxg6 37. Rg1 Ra1 {[%cal
+df3d5,dd5g8,dd5c4][%c_arrow
+f3d5;keyPressed;none;opacity;0.8;from;f3;to;d5;persistent;false,d5g8;keyPressed;none;opacity;0.8;from;d5;to;g8;persistent;false,d5c4;keyPressed;none;opacity;0.8;from;d5;to;c4;persistent;false]}
+38. Bd5#
+1-0

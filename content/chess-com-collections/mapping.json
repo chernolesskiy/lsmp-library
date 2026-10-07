@@ -1,0 +1,562 @@
+{
+  "note": "new name -> original file name and SHA-256 of the original (before cleaning)",
+  "files": [
+    {
+      "new": "content/chess-com-collections/2025-03-08-endgames.pgn",
+      "original": "08.03.2025 Endgames.pgn",
+      "original_sha256": "a880ddafd5b2af75ef8a77b875c0d941baf819e2d02dea3bec98d164c732419e",
+      "original_size": 31299,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-05-09-lesson.pgn",
+      "original": "09.05.2026 Lesson.pgn",
+      "original_sha256": "9f5fa9182a18c1a88ea850ad9781e590873dc9221b90f6064625088dde215cc7",
+      "original_size": 7807,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2024-06-13-tactics-and-checkmates.pgn",
+      "original": "13_06_24 Tactics and Checkmates.pgn",
+      "original_sha256": "56da7cc9b821b3e1773e26eef04293eba6bc1496e131a1af3df9665a530c40df",
+      "original_size": 1914,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2024-07-18-great-sacrifices.pgn",
+      "original": "18_07_24 Great Sacrifices.pgn",
+      "original_sha256": "e0f2bde0bb60d06af8b914afbf57dea32dc4749baf8f41880bc733af89a636eb",
+      "original_size": 2251,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2024-07-18-very-difficult-puzzles-set-1.pgn",
+      "original": "18_07_24 Very Difficult Puzzles Set 1 (1).pgn",
+      "original_sha256": "c42e7426f7f92e70058f55cfd8a039ebf7c94ac0fba802bd18a444701b383dfe",
+      "original_size": 1633,
+      "identical_copies_dropped": [
+        {
+          "original": "18_07_24 Very Difficult Puzzles Set 1.pgn",
+          "original_sha256": "dc93e803286ca566f3ed101430d3df0f8afafdf6898ebe493978647e11308f0d",
+          "relation": "same-games-stray-character"
+        }
+      ]
+    },
+    {
+      "new": "content/chess-com-collections/2024-07-19-blunders.pgn",
+      "original": "19_07_24 Blunders.pgn",
+      "original_sha256": "7026c87030e13f3405bd2978f8e2028d75c3b202081cb04091220052f4734c50",
+      "original_size": 4602,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2024-06-20-game-analysis-extra.pgn",
+      "original": "20_06_24 Game Analysis + Extra.pgn",
+      "original_sha256": "377c03be4bcc033c91739eeef2084299987d614458d9ad3c9ae624b72b7bada1",
+      "original_size": 3055,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2025-10-23.pgn",
+      "original": "23.10.2025.pgn",
+      "original_sha256": "1072a2f29e6480b946e25fac5bed79ebe73c75c5a3a208a1c3f4797880c76211",
+      "original_size": 2247,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2025-10-24.pgn",
+      "original": "24.10.2025.pgn",
+      "original_sha256": "66a30bf135b8fe7b6cad27024acdd1ab9d58ddd6fa1c85035790c8278da49872",
+      "original_size": 1485,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2025-07-25-positional-lesson.pgn",
+      "original": "25.07.25 Positional Lesson.pgn",
+      "original_sha256": "2e7c71278204a6e581f183b96d232b66bd7f122e01c60df9da47c098ec2dce0e",
+      "original_size": 12108,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-05-26-camp-lesson.pgn",
+      "original": "26.05.2026 camp lesson.pgn",
+      "original_sha256": "6676e8cf5ce4f127556359021fea6737d6cba4b333b023fb55ddd8732040aa25",
+      "original_size": 538,
+      "identical_copies_dropped": [
+        {
+          "original": "26.05.2026 camp lesson (1).pgn",
+          "original_sha256": "6676e8cf5ce4f127556359021fea6737d6cba4b333b023fb55ddd8732040aa25",
+          "relation": "byte-identical"
+        }
+      ]
+    },
+    {
+      "new": "content/chess-com-collections/2024-06-27-opera-game-analysis-extra.pgn",
+      "original": "27_06_24 Opera Game Analysis + Extra.pgn",
+      "original_sha256": "9df2f21c9055ffcd038ced3d5fbd8c6b07c4b863cf68d8510b46d86a0c0f4a7b",
+      "original_size": 900,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2025-10-28.pgn",
+      "original": "28.10.2025.pgn",
+      "original_sha256": "bb3dc8f105512ff0c8de95e79d0ba7751ae6acd8bccb258247939e46ada365dd",
+      "original_size": 3995,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2024-07-30-pawn-endgames.pgn",
+      "original": "30_07_24 Pawn Endgames.pgn",
+      "original_sha256": "72b427d7db4332ae915a096a71148d195c98407afd20ebf21395d0244efe99c9",
+      "original_size": 1416,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2024-05-31-double-attacks-in-opening.pgn",
+      "original": "31_05_24 Double Attacks in Opening.pgn",
+      "original_sha256": "39826149dd8c804506f63580bf4b5dee14b8def99acef173f07d7d09c12764c0",
+      "original_size": 3301,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/adolf-anderssen.pgn",
+      "original": "Adolf Anderssen.pgn",
+      "original_sha256": "80eb7fce7932c2ce62b91cd30749a87ae206c6e4f5eaf579cdfc953794df4577",
+      "original_size": 1497,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/alexander-alekhine.pgn",
+      "original": "Alexander Alekhine.pgn",
+      "original_sha256": "5156617bef7cc1104d0de1a2a050089dad01a12356a157f3f493520150ff36c9",
+      "original_size": 10785,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-02-19-anderssen.pgn",
+      "original": "Anderssen 19.02.2026.pgn",
+      "original_sha256": "eefa7dbd2e42dfc7869199ea4929e85202b8b7a23e9911258d74cdabb76e5b59",
+      "original_size": 11654,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/april-2025-camp.pgn",
+      "original": "April 2025 Camp.pgn",
+      "original_sha256": "a963680cfb34d0ab8db37aaf39a78dad1857580fd2fea25dcb562dd8e366b3e9",
+      "original_size": 7826,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/autumn-2026.pgn",
+      "original": "Autumn 2026.pgn",
+      "original_sha256": "e3ed53152806781b469435e80f0740d29180749fbeaaeb4a35b3a96006d69baf",
+      "original_size": 5568,
+      "identical_copies_dropped": [
+        {
+          "original": "Autumn 2026 (1).pgn",
+          "original_sha256": "3be2497ac3477a2219a8ef10f5bf58ec694a2d56ae1b6f11128350b0f15535b4",
+          "relation": "same-games-reordered"
+        }
+      ]
+    },
+    {
+      "new": "content/chess-com-collections/2025-03-30-back-rank-checkmate-collection.pgn",
+      "original": "Back Rank Checkmate Collection 30.03.25.pgn",
+      "original_sha256": "8e70a6c11823e26e78f6f1990745b1933beec068e554190a6d17a7da44ce9743",
+      "original_size": 3141,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/breaking-the-rules.pgn",
+      "original": "Breaking the rules..pgn",
+      "original_sha256": "b2065e97f36f2212b95dbd78a24de6957aff5c164741130d543755fe86bce96f",
+      "original_size": 1058,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/camp-feb26-day-one.pgn",
+      "original": "Camp Feb26 Day One.pgn",
+      "original_sha256": "a1a6bb26dbc7cf0225d193b85d4a5a627b62378f8414b8fbce6469498c27298f",
+      "original_size": 2621,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/diagonal-attacks-on-the-uncastled-king.pgn",
+      "original": "Diagonal Attacks on the Uncastled KIng.pgn",
+      "original_sha256": "abba7df2984e68ee1bb88b2518c1ca8c52952a95589a4e3973ab722616d337bd",
+      "original_size": 7979,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/double-up-on-the-bubble-up.pgn",
+      "original": "Double Up on the Bubble Up..pgn",
+      "original_sha256": "afe01a27b807915e9b49b0087ccc4ab468b48f6eb47b5df5e58b7bb60594bcb8",
+      "original_size": 848,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/emanuel-lasker.pgn",
+      "original": "Emanuel Lasker.pgn",
+      "original_sha256": "628cf88ac15db7855fc64ddffbd374607a04528cfa0d799a13f28e42b71e9f00",
+      "original_size": 2077,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-03-21-endgame-lesson.pgn",
+      "original": "Endgame Lesson 21.03.2026.pgn",
+      "original_sha256": "6ce63b36087b7d99900b521ab477ca4089292027c1a60e1807aa740982f104f6",
+      "original_size": 1773,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2025-05-28-endgame-lesson.pgn",
+      "original": "Endgame Lesson 28.05.2025.pgn",
+      "original_sha256": "1afcb42eb240d888dde89f19bc4c14ae7800bb1c5f11d215dd8179b9ae675d57",
+      "original_size": 1421,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-02-07-endgames.pgn",
+      "original": "Endgames 07.02.2026.pgn",
+      "original_sha256": "fbcbdf5cccb692e73295d9eca674a4f41f2bd7f6d5298413200f8c31f4bb4ac9",
+      "original_size": 22558,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/esports-world-cup-2025.pgn",
+      "original": "Esports World Cup 2025.pgn",
+      "original_sha256": "75dd9e32e30b9336f204119beaf7c69449924d789b6f5072e245bcda6c01fb67",
+      "original_size": 33062,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-04-08-fischer-games.pgn",
+      "original": "Fischer Games 08.04.2026.pgn",
+      "original_sha256": "1e5cc1cb9136a2ab3ea0dc6545607aed0073b18caa6369dee2ffd1cb7333a180",
+      "original_size": 2353,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-07-28-game-analyses.pgn",
+      "original": "Game Analyses 28.07.2026.pgn",
+      "original_sha256": "7f5fe6273fdc66e05287aabbbbca1c436e3af70c5af8d378225f3fb54c417336",
+      "original_size": 1066,
+      "identical_copies_dropped": [
+        {
+          "original": "Game Analyses 28.07.2026 (1).pgn",
+          "original_sha256": "7f5fe6273fdc66e05287aabbbbca1c436e3af70c5af8d378225f3fb54c417336",
+          "relation": "byte-identical"
+        }
+      ]
+    },
+    {
+      "new": "content/chess-com-collections/games-of-paul-morphy.pgn",
+      "original": "Games of Paul Morphy.pgn",
+      "original_sha256": "3345bf2f4212950b262a7224d87ecc6a1c612243cef250713fb308a6b67bc605",
+      "original_size": 7070,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/garry-kasparov.pgn",
+      "original": "Garry Kasparov.pgn",
+      "original_sha256": "157c90713e8760f68d3168c171b229e60596616207f4d07d871ad5b8dd5f7e89",
+      "original_size": 6815,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/getting-crushed-in-the-dutch-defence.pgn",
+      "original": "Getting crushed in the Dutch Defence.pgn",
+      "original_sha256": "9bcd5746d8c30bab25c76d48023807078a7922975d572910df52965355847bd6",
+      "original_size": 1933,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/greek-gift.pgn",
+      "original": "Greek Gift.pgn",
+      "original_sha256": "26cb11b3873e20b602e1609d3d2804877a48103522b286c65f54d6610af86798",
+      "original_size": 1978,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/hammer-puzzles.pgn",
+      "original": "Hammer Puzzles.pgn",
+      "original_sha256": "e761eae531580094894f23dc078bc58858f6663e9e02810ed787f391b8127ccc",
+      "original_size": 2159,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-06-08-online-games-and-lasker-v-bauer.pgn",
+      "original": "[withheld: the original file name contains a private name]",
+      "original_sha256": "eb9975cb425341eae38920d5ed55c9f025a39b0f7ea7c2f4ef0b4f77a7300b6c",
+      "original_size": 6390,
+      "identical_copies_dropped": [],
+      "original_masked": true
+    },
+    {
+      "new": "content/chess-com-collections/jose-raul-capablanca.pgn",
+      "original": "José Raúl Capablanca.pgn",
+      "original_sha256": "c5db83d8404bf903295b07297f9317c9fa1366f4439e0a3260a2faffb4f0b6f1",
+      "original_size": 6464,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/know-when-to-change-plans.pgn",
+      "original": "Know when to change plans.pgn",
+      "original_sha256": "7fc715df0c63bf90c431e9e828deeabb785d16589c08fa179b3b74d116ce2a59",
+      "original_size": 924,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-04-14-lesson-great-moves.pgn",
+      "original": "Lesson 14.04.2026 Great Moves....pgn",
+      "original_sha256": "30c65785aecca389ff21a08e640a6037b73e0409e9a47cec5c015db84dd77592",
+      "original_size": 3741,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-04-16-lesson.pgn",
+      "original": "Lesson 16.04.2026.pgn",
+      "original_sha256": "64a5664ab204fbebbd7dc8124948bcb431c24457ffe031c2aabd6fb4360c7f90",
+      "original_size": 6299,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-01-24-lesson.pgn",
+      "original": "Lesson 24.01.2026.pgn",
+      "original_sha256": "7e895d93d8d043a879cb4696a131b0bb93815e55aa2906976fee0edbd6ba04f7",
+      "original_size": 1960,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/2026-02-28-lesson.pgn",
+      "original": "Lesson 28.02.2026.pgn",
+      "original_sha256": "8349c142c50475a56fcc5cb64866c53846d25dce8d9598dd21269937a3ce6506",
+      "original_size": 11251,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/low-rated-player-mistakes.pgn",
+      "original": "Low rated player mistakes..pgn",
+      "original_sha256": "fdf2a909a06b2a1dcf988ebe1d2a426497af8ac17dc154f524fcc4f0ec7668b4",
+      "original_size": 673,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/magnus-carlsen.pgn",
+      "original": "Magnus Carlsen.pgn",
+      "original_sha256": "8752b9cd2b591ad51441ab0b67cc29bb7116c90cf878923138b2f974dfa0b7c1",
+      "original_size": 5132,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/mikhail-tal.pgn",
+      "original": "Mikhail Tal.pgn",
+      "original_sha256": "a553795f0961bbc79b6aac526424cf5ba5c88572024ccf07995309de0085a9cb",
+      "original_size": 7957,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/opponent-is-just-better.pgn",
+      "original": "Opponenet is just better..pgn",
+      "original_sha256": "6418852a91f01c101870daf17c6dcd2b55cb5d1f2751dd2b71e299e81770b279",
+      "original_size": 708,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/opponent-got-too-impatient.pgn",
+      "original": "Opponent got too impatient..pgn",
+      "original_sha256": "b83d831fd4326a11df0381844894439e497bfceffd1ac9a305f72601c44acfae",
+      "original_size": 696,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/paul-morphy-part-2.pgn",
+      "original": "Paul Morphy Part 2.pgn",
+      "original_sha256": "f6e298a300bd1434fb875d105c799810041d934a5aee5417239f3f4bf9083211",
+      "original_size": 1478,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/paul-morphy-part-3.pgn",
+      "original": "Paul Morphy Part 3.pgn",
+      "original_sha256": "e033ad290464b757d7fece23c5712530d0a205aaa81d5d9f08eb0e83c107cf20",
+      "original_size": 2821,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/pinned-pieces.pgn",
+      "original": "Pinned pieces..pgn",
+      "original_sha256": "605610c216fad355cb4634dc0de6704d1de3b9986115ba7025757ec90eb4abca",
+      "original_size": 611,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/poor-king-safety-checkmate.pgn",
+      "original": "Poor King Safety -- checkmate..pgn",
+      "original_sha256": "2159a6a6f57e4d134a83434f7bed78cf311791c508c64dcc53c5c6e0791feb46",
+      "original_size": 19411,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/rashid-nezhmetdinov.pgn",
+      "original": "Rashid Nezhmetdinov.pgn",
+      "original_sha256": "4efd6d3687360c0abcd5bde697e8cbdb14eddd4051d8dacc250ded1e814e1112",
+      "original_size": 2804,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/removing-the-defender-low-lesson.pgn",
+      "original": "Removing the Defender Low Lesson.pgn",
+      "original_sha256": "3dcbfa7d8a855decb56b2b6528515e12893bd24b7a67794917ac4e3dfaf96388",
+      "original_size": 731,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/robert-fischer.pgn",
+      "original": "Robert Fischer.pgn",
+      "original_sha256": "1a9b8fdfbb21fbecbac4ae5e5d2ff31abfd49b07bb268eb9a5a65d040e3c64b1",
+      "original_size": 7862,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/savielly-tartakower.pgn",
+      "original": "Savielly Tartakower.pgn",
+      "original_sha256": "50c2dd79662bd516690e9dcb38054b485e10eed0af9018e1ce4ff3b0ecd50bac",
+      "original_size": 4014,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/single-blunder.pgn",
+      "original": "Single blunder..pgn",
+      "original_sha256": "a46a5f76894e4a03dca6fbff2c9fc62048973fa96102dab0f828576b6f5a214b",
+      "original_size": 22237,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/soviet-era-chess.pgn",
+      "original": "Soviet-Era Chess.pgn",
+      "original_sha256": "e471e3b985eca3098b4b0368e483f3a91390dba03ca2d6916caa681af1e10895",
+      "original_size": 2820,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/space-advantage-for-one-side.pgn",
+      "original": "Space advantage for one side....pgn",
+      "original_sha256": "15f7d1f7b89ebd89f6e10a541729f0c10a69b343b3bac00c3df2927ef157becd",
+      "original_size": 670,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/tigran-petrosian.pgn",
+      "original": "Tigran Petrosian.pgn",
+      "original_sha256": "8bc94dc89d6cf67e167dad2c29883de56466f63c0802d77001a235a1a221abb6",
+      "original_size": 3029,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/trapped-pieces.pgn",
+      "original": "Trapped Pieces.pgn",
+      "original_sha256": "d733c4b2332d28ea6d5da51256238a708b36e1667ab75b3527a793664d18facf",
+      "original_size": 5423,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/viswanathan-anand.pgn",
+      "original": "Viswanathan Anand.pgn",
+      "original_sha256": "fb58eb010bffb036dffe2000eb21c74fcecf013cbcd0ebc76f2e3d98494afa94",
+      "original_size": 3987,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/week-1-analysis.pgn",
+      "original": "Week 1 Analysis.pgn",
+      "original_sha256": "ed6d6cb58d9d835c8b7cd196dcacfaf26efff9da0fffb3453f99db30f91e2a49",
+      "original_size": 2051,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/week-1-autumn-2025-mistakes-in-the-opening.pgn",
+      "original": "Week 1 Autumn 2025_ Mistakes in the Opening.pgn",
+      "original_sha256": "76827beba5a116628c6ef0aec76b3e31ce6cf2410e3a57a603de7e6f502bf722",
+      "original_size": 5516,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/week-2-autumn-2025-caro-kann.pgn",
+      "original": "Week 2 Autumn 2025_ Caro Kann.pgn",
+      "original_sha256": "ed031cfa1d7231f5b3c5654bfd482c820781417bbebeb39775614ad304c9db7e",
+      "original_size": 16932,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/week-3-harry-nelson-pillsbury.pgn",
+      "original": "Week 3 Harry Nelson Pillsbury.pgn",
+      "original_sha256": "9c4cdddc922ffce4efd570aac2ef82f4fe5be536167eb2fcf5603c654f38a610",
+      "original_size": 2212,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/week-3-howard-staunton.pgn",
+      "original": "Week 3 Howard Staunton.pgn",
+      "original_sha256": "5bdd9cd83274ce527205ca52e7d8ad85906010c28c07df7e024acc7a1c4e2115",
+      "original_size": 2331,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/week-4-queens-gambit.pgn",
+      "original": "Week 4_ Queen's Gambit.pgn",
+      "original_sha256": "c75285454a7d9515933498ca08919dfb3a5af08fb86fd0f76d0ba1b01ba6a3db",
+      "original_size": 7722,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/week-5-game-analyses.pgn",
+      "original": "Week 5_ Game Analyses.pgn",
+      "original_sha256": "e1f664ecffc9cf031f8f1c1c0c269b7ea6a6cdac3ce36d7f5d486d8ef476a809",
+      "original_size": 5283,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/week-5-games-played.pgn",
+      "original": "Week 5_ Games played.pgn",
+      "original_sha256": "e1fe97fc8bf4b8b0762e8b09fd74e9a6d761ffe33ea6298043532f9bd946b8b8",
+      "original_size": 819,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/brilliancies.pgn",
+      "original": "brilliancies.pgn",
+      "original_sha256": "fa6a49c6e29690bd9e9d6d2d42ba7eb7408838846b812b4ad4dbe5a4914e7275",
+      "original_size": 697,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/memorable-2.pgn",
+      "original": "memorable 2.pgn",
+      "original_sha256": "21bb1c74a41044d5f219b266526b96c37da374a1c062054377eaf4d92dc3130d",
+      "original_size": 4977,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/memorable.pgn",
+      "original": "memorable.pgn",
+      "original_sha256": "ba95957211a6c65d6a1c700eeb6051fc5732041c13be950b56638038c0372c67",
+      "original_size": 53691,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/prelim1.pgn",
+      "original": "prelim1.pgn",
+      "original_sha256": "bb6cf6edc613e140bdf77a530ca186a3704da71a06fea01a616e80f7901bb7dd",
+      "original_size": 3154,
+      "identical_copies_dropped": []
+    },
+    {
+      "new": "content/chess-com-collections/studies.pgn",
+      "original": "studies.pgn",
+      "original_sha256": "c28605cb9a5585f959ebe79a1c7ae0d80965ae26badccfbc248e46f42d387ceb",
+      "original_size": 391,
+      "identical_copies_dropped": []
+    }
+  ]
+}
